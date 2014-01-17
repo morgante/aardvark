@@ -7,6 +7,12 @@ from cStringIO import StringIO
 import re
 import os.path
 
+from bs4 import BeautifulSoup
+from lxml.html import parse
+
+import requests
+
+
 def write_text(path, text):
     file = open(path, "w")
     file.write(text)
@@ -48,6 +54,24 @@ def get_acronyms(text):
 
     return acronyms
 
+def get_expansions(acronym):
+    url = 'http://www.acronymfinder.com/~/search/af.aspx?string=exact&Acronym=' + acronym
+
+    # r  = requests.get(url)
+    # data = r.text
+
+    # soup = BeautifulSoup(data)
+    doc = parse(url).getroot()
+
+    cells = doc.cssselect('table#ListResults tr:nth-child(n+3) td:nth-child(3)')
+
+    defs = {}
+
+    for cell in cells:
+        defs.append(cell.text_content())
+
+    return defs;
+
 def expand(acronym, text):
     pattern = r'('
 
@@ -59,14 +83,17 @@ def expand(acronym, text):
 
     matches = re.findall(pattern, text)
     expansions = dict.fromkeys(matches, 1)
-    
+
     return expansions
 
 p = 'examples/lte'
 
 text = get_text(p)
 
+acronyms = get_acronyms(text)
 table = {}
+
+print get_expansions(acronyms[0])
 
 for acronym in get_acronyms(text):
     table[acronym] = expand(acronym, text)
