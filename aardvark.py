@@ -12,6 +12,9 @@ from lxml.html import parse
 
 import requests
 
+import sys
+import getopt
+
 
 def write_text(path, text):
     file = open(path, "w")
@@ -68,26 +71,28 @@ def get_cat_name(id):
     return cats[id]
 
 def get_expansions(acronym):
-    url = 'http://acronyms.thefreedictionary.com/' + acronym
-    path = 'data/lte.html'
+    try:
+        url = 'http://acronyms.thefreedictionary.com/' + acronym
 
-    doc = parse(path).getroot()
+        doc = parse(url).getroot()
 
-    defs = []
+        defs = []
 
-    rows = doc.cssselect('table#AcrFinder tr:nth-child(n+1)')
+        rows = doc.cssselect('table#AcrFinder tr:nth-child(n+1)')
 
-    # Fill in out definitions
-    for i, row in enumerate(rows):
-        category = row.get('cat')
-        cells = row.cssselect('td')
+        # Fill in out definitions
+        for i, row in enumerate(rows):
+            category = row.get('cat')
+            cells = row.cssselect('td')
 
-        if (len(cells) >= 2):
-            meaning = cells[1].text_content()
-            score = float(float(len(rows) - i) / float(len(rows)))
-            defs.append([meaning, category, score])
+            if (len(cells) >= 2):
+                meaning = cells[1].text_content()
+                score = float(float(len(rows) - i) / float(len(rows)))
+                defs.append([meaning, category, score])
 
-    return defs;
+        return defs;
+    except:
+        return []
 
 def expand(acronym, text):
     pattern = r'('
@@ -112,7 +117,8 @@ def expand(acronym, text):
 
     return expansions
 
-p = 'examples/lte'
+args = getopt.getopt(sys.argv[1:], "ho:v")
+p = os.path.splitext(args[1][0])[0]
 
 text = get_text(p)
 
@@ -122,4 +128,5 @@ table = {}
 for acronym in get_acronyms(text):
     table[acronym] = expand(acronym, text)
 
-print table
+for key, value in table.iteritems():
+    print key, value.keys()
