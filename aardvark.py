@@ -117,16 +117,16 @@ def expand(acronym, text):
 
     return expansions
 
-args = getopt.getopt(sys.argv[1:], "ho:v")
-p = os.path.splitext(args[1][0])[0]
+# args = getopt.getopt(sys.argv[1:], "ho:v")
+# p = os.path.splitext(args[1][0])[0]
 
-text = get_text(p)
+# text = get_text(p)
 
-acronyms = get_acronyms(text)
-table = {}
+# acronyms = get_acronyms(text)
+# table = {}
 
-for acronym in get_acronyms(text):
-    table[acronym] = expand(acronym, text)
+# for acronym in get_acronyms(text):
+#     table[acronym] = expand(acronym, text)
 
-for key, value in table.iteritems():
-    print key, value.keys()
+# for key, value in table.iteritems():
+#     print key, value.keys()
