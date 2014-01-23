@@ -4,16 +4,20 @@
 	var $selection;
 	var $results;
 	var $list;
+	var $progress;
 	var rowTemplate;
 
 	function analyze(file) {
+		$selection.slideUp();
+		$progress.removeClass('hide').slideDown();
+
 		$.ajax('/analyze', {
 			data: {file: file},
 			type: 'POST',
 			dataType: 'json',
 			success: function(results) {
-				$selection.slideUp();
-				$results.slideDown();
+				$progress.slideUp();
+				$results.removeClass('hide').slideDown();
 
 				_.each(results, function(defs, acronym) {
 					$list.append(rowTemplate({
@@ -27,6 +31,7 @@
 
 	function init() {
 		$selection = $('.selection');
+		$progress = $('.progress');
 		$results = $('.results');
 		$list = $('.list', $results);
 		rowTemplate = _.template($('#acronym_row').html());
