@@ -6,8 +6,32 @@
         <h1>Aardvark!</h1>
         <p>This is how it begins.</p>
 
-        <input id="filepicker" type="filepicker-dragdrop" data-fp-multiple="false" data-fp-extension=".pdf" data-fp-store-location="S3" />
+        <div class="selection">
+        	<input id="filepicker" type="filepicker-dragdrop" data-fp-multiple="false" data-fp-extension=".pdf" data-fp-store-location="S3" />
+        </div>
+
+        <div class="results hide">
+        	<h2>Acronyms</h3>
+
+        	<table>
+        		<thead>
+        			<tr>
+        				<th>Acronym</th>
+        				<th>Definition</th>
+        			</tr>
+        		</thead>
+        		<tbody class="list">
+        		<script type="text/html" id="acronym_row">
+        			<tr>
+        				<td><%= acronym %></td>
+        				<td><%= definition %></td>
+        			</tr>
+        		</script>
+        		</tbody>
+        	</table>
+        </div>
 
     </div>
 </div>
+
 {% endblock %}

@@ -1,15 +1,46 @@
-(function($, filepicker, undefined) {
+(function($, _, filepicker, undefined) {
 	filepicker.setKey('AxjOdegzSQyWi7pQqR3bnz');
 
-	$('#filepicker').change(function(ev) {
-		var file = ev.originalEvent.fpfile;
+	var $selection;
+	var $results;
+	var $list;
+	var rowTemplate;
 
-		$.post('/analyze', {
-			file: file.url
-		}, function(results) {
-			console.log(results);
+	function analyze(file) {
+		$.ajax('/analyze', {
+			data: {file: file},
+			type: 'POST',
+			dataType: 'json',
+			success: function(results) {
+				$selection.slideUp();
+				$results.slideDown();
+
+				_.each(results, function(defs, acronym) {
+					$list.append(rowTemplate({
+						acronym: acronym,
+						definition: _.keys(defs).slice(0,3).join(', ')
+					}));
+				});
+		}});
+	}
+
+
+	function init() {
+		$selection = $('.selection');
+		$results = $('.results');
+		$list = $('.list', $results);
+		rowTemplate = _.template($('#acronym_row').html());
+
+		analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
+
+		$('#filepicker').change(function(ev) {
+			var file = ev.originalEvent.fpfile;
+
+			analyze(file.url);
+			
 		});
+	}
 
-		console.log(ev, ev.originalEvent, file);
-	});
-}(jQuery, filepicker));
+	$(init);
+	
+}(jQuery, _, filepicker));
