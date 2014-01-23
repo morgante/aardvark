@@ -7,10 +7,7 @@
 	var $progress;
 	var rowTemplate;
 
-	function analyze(file) {
-		$selection.slideUp();
-		$progress.removeClass('hide').slideDown();
-
+	function info(file) {
 		$.ajax('/analyze', {
 			data: {file: file},
 			type: 'POST',
@@ -20,12 +17,24 @@
 				$results.removeClass('hide').slideDown();
 
 				_.each(results, function(defs, acronym) {
+					if (_.size(defs) < 1) {
+						return;
+					}
 					$list.append(rowTemplate({
 						acronym: acronym,
 						definition: _.keys(defs).slice(0,3).join(', ')
 					}));
 				});
 		}});
+	}
+
+	function analyze(file) {
+		$selection.slideUp();
+		$progress.removeClass('hide').slideDown();
+
+		setTimeout(function() {
+			info(file);
+		}, 2000);
 	}
 
 

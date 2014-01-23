@@ -55,7 +55,7 @@ def get_acronyms(text):
 
     acronyms = re.findall(pattern, text)
 
-    return acronyms
+    return set(acronyms)
 
 def get_cat_name(id):
     cats = {

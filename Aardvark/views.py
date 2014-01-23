@@ -14,13 +14,18 @@ def index():
 def analyze():
 	url = request.form['file']
 
+	# SPEED
+	return open('Aardvark/cache/lte.json').read()
+
 	# For now, we just simulate for speed purposes
-	p = 'examples/nyuad'
+	p = 'examples/lte'
 
 	text = vark.get_text(p)
 
 	acronyms = vark.get_acronyms(text)
 	table = {}
+
+	print acronyms
 
 	for acronym in acronyms:
 		table[acronym] = vark.expand(acronym, text)
