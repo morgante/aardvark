@@ -45,7 +45,7 @@
 		$list = $('.list', $results);
 		rowTemplate = _.template($('#acronym_row').html());
 
-		analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
+		// analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
 
 		$('#filepicker').change(function(ev) {
 			var file = ev.originalEvent.fpfile;
