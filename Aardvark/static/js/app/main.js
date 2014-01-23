@@ -5,7 +5,7 @@
 		var file = ev.originalEvent.fpfile;
 
 		$.post('/analyze', {
-			data: {file: file.url}
+			file: file.url
 		}, function(results) {
 			console.log(results);
 		});
