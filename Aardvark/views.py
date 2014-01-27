@@ -15,10 +15,10 @@ def analyze():
 	url = request.form['file']
 
 	# SPEED
-	return open('Aardvark/cache/lte.json').read()
+	return open('Aardvark/cache/wef2.json').read()
 
 	# For now, we just simulate for speed purposes
-	p = 'examples/lte'
+	p = 'examples/wef2'
 
 	text = vark.get_text(p)
 
