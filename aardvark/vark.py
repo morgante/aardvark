@@ -7,7 +7,6 @@ from cStringIO import StringIO
 import re
 import os.path
 
-from bs4 import BeautifulSoup
 from lxml.html import parse
 
 import requests

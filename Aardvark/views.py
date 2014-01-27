@@ -14,8 +14,8 @@ def index():
 def analyze():
 	url = request.form['file']
 
-	# SPEED
-	return open('Aardvark/cache/wef2.json').read()
+	# # SPEED
+	# return open('Aardvark/cache/wef2.json').read()
 
 	# For now, we just simulate for speed purposes
 	p = 'examples/wef2'
