@@ -1,0 +1,775 @@
+Canadian Journal of Philosophy
+
+The Principle of Alternate Possibilities
+Author(s): Phillip Gosselin
+Source: Canadian Journal of Philosophy, Vol. 17, No. 1 (Mar., 1987), pp. 91-104
+Published by: Canadian Journal of Philosophy
+Stable URL: http://www.jstor.org/stable/40231515 .
+Accessed: 18/01/2014 13:47
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+ .
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+ .
+
+Canadian Journal of Philosophy is collaborating with JSTOR to digitize, preserve and extend access to
+Canadian Journal of Philosophy.
+
+http://www.jstor.org 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+CANADIAN  JOURNAL OF  PHILOSOPHY 
+Volume  17,  Number  1,  March  1987,  pp.  91-104 
+
+91 
+
+The Principle of Alternate Possibilities 
+
+PHILLIP GOSSELIN 
+Brandon University 
+Brandon, Manitoba 
+Canada R7A 6A9 
+
+The standard argument for the incompatibility of determinism and 
+moral responsibility employs the following two premises: 
+
+1.  A person is morally responsible for what he has done only if 
+
+he could have done otherwise: 
+
+2.  A person could have done otherwise only if his action was not 
+
+causally determined. 
+
+While premise two has been the focus of an enormous amount of con- 
+troversy, premise one until recently has remained virtually unchalleng- 
+ed.  However,  since  Harry Frankfurt's provocative paper in  1969, 
+premise one, which he dubbed the principle of alternate possibilities 
+(henceforth referred to as PAP), has begun to attract its share of the 
+debate.1 Frankfurt argued that PAP is false and that its falsity under- 
+mines the position of those who  assert the incompatibility of deter- 
+minism and moral responsibility.2 Two previous papers I wrote were 
+
+1  Harry  Frankfurt,  'Alternate  Possibilities  and  Moral  Responsibility,'  Journal of 
+Philosophy 66 (1969) 829-39. The literature which  discusses  Frankfurt's attack on 
+PAP  includes  the  following:  David  Blumenfeld, 
+'The  Principle  of  Alternate 
+Possibilities,'  journal of Philosophy 68 (1971) 339-45; Peter  Van  Inwagen,  'Ability 
+and Responsibility,' Philosophical Review 87 2(1978) 201-24; Phillip Gosselin,  Is  There 
+a Freedom  Requirement  for Moral Responsibility?'  Dialogue 18, 3 (1979) 289-306; 
+Mark Bernstein, 'Moral Responsibility and Free Will,' Southern Journal of Philosophy 
+19 (1981) 1-10; Phillip  Gosselin,  'Moral Responsibility  and  the  Possibility  of Do- 
+ing Otherwise,'  Philosophy Research Archives 8 (1982) 499-512. There are also brief 
+discussions  of Frankfurt's position  in the following:  Donald  Davidson,  'Freedom 
+to Act,' in Ted Honderich,  ed.,  Essays on Freedom of Action (Boston, MA: Routledge 
+and  Kegan  Paul 1973) 137-56; Robert Audi,  'Moral Responsibility,  Freedom  and 
+Compulsion,'  American Philosophical Quarterly 11,  1(1974) 1-14. 
+
+2  In this  paper  incompatibilism will  be  defined  as the  view  that determinism  is  in- 
+
+compatible  with  moral  responsibility. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+92 
+
+Phillip Gosselin 
+
+devoted in part to showing that Frankfurt's argument is ineffective; 
+one of those papers also argued that, while PAP is indeed false as it 
+stands (though for reasons entirely different from those advanced by 
+Frankfurt), if it is appropriately supplemented, it can continue to serve 
+its traditional role in the determinism-responsibility debate.3 
+
+The purpose of this paper is (a) to offer a clarification and refine- 
+ment of my supplemented version of PAP (let us call it S-PAP), and 
+(b) to reinforce and supplement my earlier defence of S-PAP. However, 
+before turning to that clarification and defence, let us consider briefly 
+why it is necessary to introduce S-PAP as a surrogate for PAP in the 
+incompatibilist's argument. 
+
+I Replacing PAP with  S-PAP: Culpable Inability Does  Not Excuse 
+
+PAP as it stands is false. A drunken driver who can not avoid striking 
+a pedestrian may well be morally responsible for the accident. Because 
+of his reduced reaction time it was impossible for him to avoid strik- 
+ing the man; however, if he had drunk to excess when it was within 
+his power to do otherwise, knowing he would have to drive home 
+shortly, knowing that he would be dangerously incapacitated as a result 
+of his drinking, etc., then he is (to some extent) morally responsible 
+for the pedestrian's injury or death. Consideration of this kind of ex- 
+ample shows that, stated roughly, even if one is unable to do other 
+than a, if one is morally responsible for that inability, it will not serve 
+to excuse. In short, culpable inability will not serve to excuse. Accor- 
+dingly, PAP must be supplemented as follows: 
+
+S-PAP: a person is morally responsible for what he has done on- 
+ly if (1) he could have done otherwise or (2) he is morally respon- 
+sible for the fact that he could not. 
+
+Again, stated roughly, moral responsibility for the action in question 
+requires ability (to do otherwise) or culpable inability (to do otherwise); 
+that is,  nonculpable inability excuses completely.4 
+
+3  Gosselin,  Is There a Freedom Requirement for Moral Responsibility?' and Gosselin, 
+'Moral Responsibility  and the Possibility  of Doing  Otherwise/  The second  paper 
+includes  some  discussion  of Blumenfeld,  Van Inwagen  and  Bernstein  as well  as 
+Frankfurt. 
+
+4  For a fuller statement  of this argument  see  'Freedom Requirement/  301-4. Notice 
+that PAP and S-PAP are concerned  with  moral responsibility for an action or failure 
+to act. As  I argue  in  'Freedom  Requirement/  responsibility  for action  or failure 
+to act is basic in any  determination  of  moral responsibility.  One  can be  morally 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities  93 
+
+It is easy to see that S-PAP can take PAP's place in the standard argu- 
+ment for incompatibilism. It is true that S-PAP does not require that 
+the agent could have done otherwise at the time of the act for which 
+he is being censured, but it does require that the agent either could 
+have done otherwise at the time or is to blame for the fact that he could 
+not. And his inability will be blamable only if it is the product of an 
+earlier act which is blamable; that act in turn will be blamable only if 
+the agent either could have done otherwise or is at fault for the fact 
+that he could not. And so on, until we come at last to an act of which 
+it is true to say 'The agent could have done otherwise.' In other words, 
+if one  is to be morally responsible for a there must have been the 
+possibility of alternate action either at the time of a or at some place 
+along the line of a's causal ancestors -  and the incompatibilist, of 
+course, argues that if determinism is true such alternate possibilities 
+of action never obtain. S-PAP, then, can function as PAP's surrogate 
+in the standard argument for incompatibilism. However, S-PAP re- 
+quires some classification and refinement. 
+
+II Refining S-PAP: The Ambiguity of Could 
+
+S-PAP  requires that one could have done otherwise (with the qualifica- 
+tion indicated), but could have done otherwise has two very different 
+senses (both of which, incidentally, can be accepted by compatibilists 
+and incompatibilists alike). Those senses can be set out best if we begin 
+by considering the statement P could not have done otherwise. Compare 
+the following statements: 1. 1 can't lift the car off him; it's just too heavy! 
+2. You can't go near that (burning) vehicle; it may explode at any mo- 
+ment! The first statement asserts that for me under the circumstances 
+it is categorically impossible to lift the car. I simply lack the strength 
+necessary to accomplish the feat; no amount of trying will do the trick. 
+The second  statement asserts something  quite  different: it  is  not 
+categorically impossible to approach the burning vehicle, but it is foolish 
+to do so; prudence forbids such action. The impossibility asserted by 
+the can't is, in this case, a conditional impossibility; one cannot approach 
+the car if one is to avoid serious risk to life and limb. 
+
+The latter kind of can't may be termed 'normative' for it asserts that 
+the agent cannot perform a certain action if he is to act in accordance with 
+
+responsible  for something  other  than  an action  or failure to act, but only  if that 
+something  is the  product  of one's  earlier action  or failure to act. Thus,  you  may 
+be  morally  responsible  for a state  of  affairs such  as  a death,  or a character trait 
+such  as your child's truculence,  but only  if the death  or the truculence  is the pro- 
+duct  of  your  own  earlier action  or inaction. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+94  Phillip Gosselin 
+
+a certain norm: it says that a certain norm forbids a certain kind of ac- 
+tion. The norm in question may be any of several. It may be a norm 
+of prudence as in the preceding example. Or it may be a moral norm 
+as in 'I can't play badminton tonight: I promised my wife we would 
+go out to dinner/ It is not categorically impossible for me to play bad- 
+minton tonight; but it is impossible if I am to keep my promise. The 
+norm in question may be aesthetic as in 'You can't plant a tree there; 
+it would destroy the symmetry of your landscape.' It may be a legal 
+or a religious norm; it may be a norm of custom or of fashion. But in 
+any of these cases the impossibility expressed is merely conditional; 
+it says that you cannot act in a certain way if you are to satisfy a cer- 
+tain (usually implicit) norm. 
+
+The other sense of can and cannot I shall call the 'power sense/ It was 
+not within my power to lift the car with my bare hands. It is not that 
+some norm forbade that I lift it (quite the contrary); rather, I simply 
+lacked the physical ability to do it. The lack of some intellectual abili- 
+ty, likewise, may render an act quite impossible: I cannot, for exam- 
+ple, memorize the entire Oxford English Dictionary. Lack of know-how, 
+also, will render certain actions impossible: someone unacquainted with 
+the inner workings of an automobile cannot (power sense) do a valve 
+job. Finally, circumstances of time or place may render an act impossi- 
+ble: I cannot while in my office help my wife prepare lunch at home; 
+I do not have the opportunity to help her. It seems perfectly clear that 
+the  lack of  opportunity, the  lack of  know-how  or the  lack of  the 
+necessary  physical  or  mental  abilities will  render certain actions 
+categorically impossible. It is less clear, but perhaps true, that the lack 
+of what might be called 'volitional ability' also renders certain actions 
+categorically impossible. 
+'Volitional ability' refers  to  the  ability to  bring  oneself  to  do 
+something, i.e., the ability to perform an act that is 'volitionally effort- 
+ful.' By a 'volitionally effortful' act, I simply mean an act that is oppos- 
+ed by a desire/fear/aversion that is keenly felt at the moment of action. 
+What is involved, typically, is the sacrifice of some pleasure or the 
+tolerance of  some  unpleasant experience that is  both  intense  and 
+relatively immediate for the  sake of  a less  immediate good  (or the 
+avoidance of a less immediate ill). The desire/fear/aversion in ques- 
+tion may be pathological as in phobias, compulsions and addictions; 
+but, it need not be, of course: rational fears and normal desires, if suf- 
+ficiently acute at the moment of choice, may also result in volitionally 
+effortful action -  what we sometimes refer to as 'action requiring an 
+effort of will.' Now, if the desire/fear/ aversion in question were so in- 
+tense that it was not only difficult but impossible for the agent to act 
+contrary to it, then the agent involved would lack the volitional ability 
+to perform the action in question. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities  95 
+
+Whether this is ever the case is an interesting question -  partly em- 
+pirical and partly philosophical. It is partly philosophical because a 
+careful analysis of the concept of someone being unable to bring himself 
+to do something is necessary in order to know what conditions would 
+make it true. I shall not offer such an analysis here; however, I will 
+state a necessary condition for volitional inability which will show that 
+it is probably extremely rare. It must surely be conceded that no mat- 
+ter how difficult it is for a person to bring himself to perform a certain 
+kind of act, it is not impossible for him to do so if there is some incen- 
+tive  that,  if  operative,  would  induce  him,  constituted  as  he  is, 
+deliberately to perform the act in question. If, constituted as he is (with 
+fears, aversions, etc. intact), he would deliberately do it for reason r 
+then he can do it -  even though reason r is not operative in this situa- 
+tion. Consider, for example, a claustrophobic. There may in fact be 
+no reason for him to enter a certain narrow tunnel, or there may be 
+a reason -  say the retrieval of his son's baseball -  but none sufficient 
+to  move him; nonetheless,  while  it would  be volitionally difficult, 
+perhaps excruciatingly difficult, for him to enter the tunnel, it is not 
+volitionally impossible provided we can say that he would do it if he 
+were given such and such a reason -  say the saving of his son's life.5 
+Thus, while there may exist cases of genuine volitional impossibility, 
+such cases are probably very uncommon. 
+
+Notice that there is a use of the phrase P could not bring himself to 
+do x which seems to conflict with the foregoing. If I say that I could 
+not bring myself to pass up a second piece of fresh apple pie, normal- 
+ly I do not mean that it was categorically impossible for me to do so; 
+I mean something like 'I tried to pass it up and I failed.'6 However, 
+it is important to note that this loose and rather misleading sense of 
+
+5  Notice,  incidentally,  that the difficulty of doing  something  is sometimes  sufficient 
+to excuse  one's  failure to do it -  impossibility  is not required.  Whether  it is suffi- 
+cient  in any  given  case  will  depend  on  the  gravity  of  the  failing  in question.  To 
+put  it another  way,  the  greater the  obligation  one  has  to  meet,  the  greater the 
+volitional  obstacles  one  can  be  expected  to  overcome  in  the  effort  to  meet  it. 
+
+6  Some  may be inclined  to question  the meaningfulness  of the phrase  trying to pass 
+up a piece of pie. How  does  one  go  about  'trying' to do  such  a thing?  The answer 
+is that one  goes  about  it in  essentially  the  same  way  one  tries to  overcome  any 
+temptation: by attempting to put the forbidden object out of one's mind, by rehear- 
+sing the good  reasons  for turning away from it, by reflecting on the consequences 
+of  not  doing  so,  etc.  One  must  not  suppose  that all trying  involves  physical  ac- 
+tivity.  Of course,  a statement  such  as 'I couldn't  bring  myself  to  refuse  the  pie' 
+may  well  exaggerate  the  actual extent  of  the  agent's  effort  to  resist  temptation. 
+In fact, there might well be no effort at all -  but, if there was  capitulation without 
+any resistance,  strictly speaking,  it is inaccurate to talk of failing to luring oneself' 
+to  do  it. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+96 
+
+Phillip Gosselin 
+
+could not is not the sense that absolves from moral responsibility; and, 
+accordingly, it is not the sense that concerns us in our discussion of 
+PAP and S-PAP. 
+
+Thus to say that one could not have done otherwise in the power 
+sense (hereafter referred to as could not have done otherwise [p]) is to say 
+that it was categorically impossible to do otherwise due to the lack of 
+opportunity, the lack of know-how, the lack of some physical or in- 
+tellectual ability or (perhaps, in rare cases) the lack of volitional abili- 
+ty. On the other hand, to say that one could not have done otherwise 
+in the normative sense (hereafter referred to as could not have done other- 
+wise [n]) is not to assert a categorical impossibility at all; rather it is 
+to say that one could not do otherwise if one were to do the right thing 
+or the prudent thing, etc. That is, in the normative sense / could not 
+do x is always  elliptical for / could not do x if I were todoy  -  which was 
+required by norm n. 
+
+This distinction explains the hesitation that is sometimes experienc- 
+ed in describing a victim of coercion: could he have done otherwise 
+or not? There is a tendency to say Tes'  and a tendency to say 'No.' 
+The truth is that in many, probably most, cases of coercion, while the 
+agent cannot do otherwise (n), he can do otherwise (p). Typically cases 
+of coercion (or alleged coercion) involve some kind of threat, explicit 
+or otherwise. However, unless the threat excites a fear so terrible that 
+nothing would induce the coercee to resist it, we must say that he could 
+resist it in the power sense -  though he chooses not to. On the other 
+hand, the cost of resistance may be sufficiently great that compliance 
+is justified. In such a case we will say that he cannot do otherwise in 
+the normative sense  -  meaning that resistance would be foolish. 
+If, then, there are two very different senses of he could have done other- 
+wise, which sense does moral responsibility require? To put it another 
+way, which sense of he could not have done otherwise serves to exculpate? 
+Consider first the normative sense. In saying that the agent could not 
+have done otherwise one is saying that some norm required that he 
+do what he did. But, of -course, whether that will serve to exculpate 
+will depend on what the norm is. If morality required that he do what 
+he did, then of course the agent is not to blame since he did nothing 
+wrong. What we might call the normative could not of morality necessarily 
+exculpates. Of course, some normative could nots usually would not 
+be appealed to in the context of moral assessment -  for example, those 
+of fashion or aesthetics. However, there is one other normative could 
+not that frequently is appealed to when determining moral responsibili- 
+ty and that is the normative could not of prudence. (He  could not do other- 
+wise if he was to avoid such and such very serious consequences to 
+himself.') Often it does exculpate, but not necessarily so: prudence may 
+dictate what morality forbids. To have done otherwise might have 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities 
+
+97 
+
+resulted in some harm/cost to the agent, but morality might have re- 
+quired that he make the sacrifice; it would depend on the size of the 
+sacrifice as well as the moral gravity of the act being contemplated. 
+Accordingly, the question of whether the normative could not of prudence 
+exculpates depends on the details of the case. 
+
+In any case, when one discusses the question of whether a subject 
+of moral assessment could have done otherwise (n) one is concerned 
+with  the  question of  whether his  action was  morally justified. Did 
+morality require that he do what he did? Did self-interest require it 
+-  and, if so, was the cost of alternative action great enough to render 
+alternative action supererogatory? That is, was his action morally per- 
+missible? 
+
+The inability to do otherwise (p), on the other hand, is concerned 
+not with justification but with excuse. If someone asks why P failed 
+to help Q in his moment of distress and the reply comes that some 
+physical deficiency rendered it impossible for P to do so,  the reply 
+serves not to justify P's inaction but to excuse it; the reply does not 
+say that inaction was morally permissible in this situation, but rather 
+that it is excusable in P's case. Furthermore the common sense convic- 
+tion that nonculpable inability excuses completely seems perfectly ac- 
+ceptable: it does not seem right to hold someone morally responsible 
+for doing something if through no fault of his own it was categorically 
+impossible for him to do anything else. Our moral intuitions are sure- 
+ly very strong on this point and if the Frankfurt counterexamples to 
+it, which we shall consider shortly, are to be effective, they must sure- 
+ly be unequivocal. 
+
+One final point before turning to some objections to S-PAP. Both 
+senses of could have done otherwise seem to be relevant in assessments 
+of  moral  responsibility,  but  are  both  senses  operative  in  the 
+determinism-responsibility debate? That is, is the could have done other- 
+wise that appears in the standard argument for the incompatibility of 
+determinism and moral responsibility (see the first paragraph of this 
+paper) the normative could or the power could? Clearly it is the power 
+could and only the power could. If determinism is true, says the incom- 
+patibilist, no one could ever have done other than he did and hence 
+no one is ever morally responsible for what he did. Now if could were 
+here taken in the normative sense, the incompatibilist would be say- 
+ing that, if determinism is true, then no one could ever have done other- 
+wise  if he was to satisfy certain norms. That is,  the incompatibilist 
+would be saying that, if determinism is true, then it is true of absolutely 
+every act that some norm or other required that that act be performed 
+precisely as it was.  But that is absurd. 
+To begin with, it is perfectly clear that many actions we perform are 
+not required by any norms -  whether determinism is true or not. But 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+98 
+
+Phillip Gosselin 
+
+in any case how would the truth of determinism imply anything about 
+what certain norms required or forbade? Determinism would, of course, 
+imply that what norms are operative among us were completely deter- 
+mined to be what they are; but it would not imply that those norms 
+required this conduct rather than that -  for example, that they required 
+the conduct that actually obtained.7 
+It is the power sense of could, then, that is operative (or should be 
+operative) in discussions of determinism and moral responsibility. If 
+an action is determined, then under the totality of conditions that ob- 
+tained at the time, it was categorically impossible for the agent to do 
+anything other than just what he did -  or, at least, so says the incom- 
+patibilist. Thus, while both the normative and the power coulds are 
+relevant in moral assessments, only the power could is operative in the 
+determinism-responsibility debate. Failure to recognize this point has 
+led  to  considerable confusion.  For example, in  the  context of  the 
+determinism-responsibility question cases of coercion have frequent- 
+ly been taken as paradigm cases of the inability to do otherwise -  yet 
+the inability arising out of coercion is almost invariably a normative 
+inability, hence completely different from the inability supposedly aris- 
+ing from determinism. An example of how failure to appreciate this 
+difference has led to bad arguments will be examined below. 
+
+Let us turn now from a clarification of PAP to its defence. We shall 
+examine several arguments that have been brought against it recently 
+-  and which with minor modifications might be brought against S- 
+PAP as well. 
+
+Ill  Defending  S-PAP: Frankfurt's Three Objections 
+
+Harry Frankfurt has presented three different kinds of counterexam- 
+ple  to  PAP each of  which  requires a  separate and quite different 
+defense. Two of those counterexamples were, I think, effectively crippl- 
+ed  in  a previous paper and I shall provide merely a recap of  the 
+arguments with some minor modifications. My earlier reply to the third 
+counterexample was, I think, less effective than it might have been, 
+and I shall offer a substantially different critique based on the distinc- 
+tion set out in the previous part of this paper. 
+
+In what  I  shall call the  Evil Overseer counterexample Frankfurt 
+describes a situation in which Jones commits some misdeed, say an 
+
+7  Indeed,  some  argue that the truth of determinism  would  render all norms mean- 
+ingless  (since  ought  implies  can  [p]  and  determinism  is  incompatible  with  can 
+[p]). It is not, of course, necessary for me to rest my case on this controversial point. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities 
+
+99 
+
+embezzlement, unaware that, if he had reneged on his  decision to 
+embezzle, Black would have intervened to ensure that he do it (by coer- 
+cing Jones or by somehow inducing in him an irrestible urge to do it, 
+or by whatever means you please guaranteeing the performance to the 
+act in question). In such a case, says Frankfurt, Jones having done the 
+deed for his own reasons is morally responsible for it; yet because of 
+Black he was bound to perform it, he could not have not performed it. 
+Two comments are in order. To begin with, the crucial question is 
+whether it is true that Jones could not have done otherwise at the time 
+he performed the act (t): the question is not whether he was bound to 
+perform it sooner or later. When we bear this in mind, we  see that 
+Frankfurt's counterexample, as stated, is ineffective. Jones could have 
+changed his mind -  even at the last moment. It is true that the Evil 
+Overseer would then have intervened and Jones eventually would have 
+embezzled after all; but in that case Jones would not have been moral- 
+ly responsible for the embezzlement. Now,  the counterexample can 
+be modified to meet this problem, but it will fail on another count. 
+Suppose Black is an evil genuis who is able to forsee what Jones will 
+do and who would have intervened if necessary to guarantee that Jones 
+perform the embezzlement at t, i.e.  at the time he actually performs 
+it (for his own reasons). In that case it may seem that Jones is both 
+morally responsible for the embezzlement at t and is bound to embez- 
+zle at t . However, the problem that still faces Frankfurt is that the sense 
+in which Jones is 'bound' is a problematic one. What 'binds' Jones is 
+neither coercion nor compulsion nor any factor that compatibilists have 
+traditionally admitted as rendering one powerless to do otherwise. 
+What 'binds' Jones is simply the fact that the evil genius's readiness 
+to intervene guaranteed that Jones would embezzle at t, that is, the 
+fact that there were conditions antecedent to the embezzlement that 
+guaranteed its occurrence at t . But if determinism is true there are con- 
+ditions antecedent to every act that guarantee its occurrence in a similar 
+sense  -  yet it is notoriously controversial whether such a guarantee 
+renders the agent powerless to do otherwise. 
+The point here is that Jones is no more powerless to do otherwise 
+in virtue of the evil genius's resolve to see him embezzle than I would 
+be powerless to do other than write this paper if determinism were 
+true. Whether I would be is a controversial question. Furthermore, it 
+would be no less controversial a question to ask whether I was or was 
+not able to do otherwise in a universe determined and prearranged by God. 
+The fact that my act was determined by God would not make me any 
+less able to do otherwise than if it was determined by impersonal forces. 
+Compare this now to Jones' case: his embezzlement was not actually 
+prearranged by anyone -  though it would have been if the evil genius 
+had seen the necessity of doing some arranging. Is Jones any more 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+100 
+
+Phillip Gosselin 
+
+txnind', is his possibility of alternative action any less than mine would 
+be now if this universe were determined by God? Surely not. Accor- 
+dingly, if the possibility of alternative action is controversial in the 
+universe-determined-by God case, it must be at least as controversial 
+in the evil-genius case. But Frankfurt needs a noncontroversial case; 
+he needs a case where the impossibility of alternative action is clear. 
+I conclude, then, that even the evil genius version of the Evil Overseer 
+counterexample fails.8 
+
+The second Frankfurt counterexample I shall consider is that of the 
+Willing Addict. In this argument we are to imagine a case of addiction 
+so extreme that it is not merely difficult but impossible for the agent 
+to refrain from taking the drug to which he is addicted when the op- 
+portunity to do so presents itself. (The counterexample can be made 
+to present a challenge to S-PAP as well as to PAP by supposing that 
+the agent has become addicted through no fault of his own.) However, 
+the addict does not perceive his condition as a burden; indeed, he is 
+positively delighted with it. If somehow magically he could remove 
+the addiction, he would not do so. Such a one is morally responsible, 
+says Frankfurt, in spite of the fact that he is unable to do otherwise. 
+Such a one may indeed be morally responsible -  but for what? Is 
+it quite clear he is to blame for an act that at the time he could not 
+avoid performing? Through no fault of his own it is impossible for him 
+to refrain from taking the drug, but is it clear that he is morally respon- 
+sible for that? I think not. He is a legitimate object of contempt, but 
+for what? For his attitude toward his addiction. But he could adopt a dif- 
+ferent attitude: he could try to quit, he could take steps to remove the 
+addiction, but he does not. Perhaps he cannot even do that, you say. 
+Furthermore, perhaps his being the kind of person who would revel 
+in such a condition is in no way the result of any previous voluntary 
+choices on his part; it is a condition thrust upon him like a disease. 
+A desert island case surely -  but in such a case our attitude must 
+change; it must no longer be one of moral condemnation though it 
+may remain one of distaste. Again, I submit, Frankfurt's counterex- 
+ample fails.9 
+
+8  Frankfurt's statement  of the Evil Overseer  counterexample  appears in 'Alternate 
+Possibilities/  835-6.  A  fuller  statement  of  my  argument  against  this  counterex- 
+ample  is to be found  in 'Freedom Requirement/  290-2. 1 also consider  a modified 
+version  of the Evil Overseer  argument  (advanced  by David Blumenfeld)  in 'Moral 
+Responsibility  and  the  Possibility  of  Doing  Otherwise/  500-3. 
+
+9  The  case  of  the  Willing  Addict  was  first set  out  in  Frankfurt's 'Freedom  of  the 
+Will and the Concept of a Person/  Journal of Philosophy 68, 1 (1971) 18-20. My argu- 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities 
+
+101 
+
+Frankfurt describes his third counterexample, which I shall call the 
+
+case of the Willing Coercee, as follows: 
+
+Jones decides for reasons of his own to do something, then someone threatens 
+him with a very harsh penalty (so harsh that any reasonable person would sub- 
+mit to the threat) unless he does precisely that, and Jones does it. ...  [Suppose 
+now that] Jones was neither stampeded by the threat nor indifferent to it. The 
+threat impressed him, as it would impress any reasonable man, and he would 
+have submitted to it wholeheartedly if he had not already made a decision that 
+coincided with the one demanded of him. In fact, however, he performed the 
+action in question on the basis of the decision he had made before the threat was 
+issued. When he acted, he was not actually motivated by the threat but solely 
+by the considerations that had originally commended the action to him. It was 
+not the threat that led him to act, though it would have done so if he had not 
+already provided himself with a sufficient motive for performing the act in ques- 
+tion. ... Then I think we would be justified in regarding his moral responsibility 
+for what he did as unaffected by the threat, even though, since he would in any 
+case have submitted to the threat, he could not have avoided doing what he did.10 
+
+At the time that this argument was advanced Frankfurt was vague- 
+ly aware of the ambiguity of the phrase could have done otherwise and 
+suspected that this ambiguity might be used to launch an objection 
+to his counterexample; however, he did not attempt to spell out the 
+ambiguity, nor did he attempt to determine whether it could be used 
+to undermine his case.11 1 have set out the two senses of could in the 
+second part of this paper and I have shown that it is the power sense 
+that is operative in the determinism-responsibility debate. It remains 
+only to point out that when we say the Jones of this counterexample 
+could not have done otherwise we  are using the phrase in the nor- 
+mative sense: Jones was a victim of coercion; in face of such a harsh 
+threat it would have been foolish to do otherwise, but there is no reason 
+to suppose it was categorically impossible for him to do otherwise (the 
+way it would have been had he lacked, for example, the physical ability 
+to do so.) Accordingly, as stated, the counterexample has no relevance 
+to  the version of PAP (or S-PAP) that figures in the  determinism- 
+responsibility debate. 
+
+In order to make the counterexample relevant to that debate we must 
+suppose that the threat has the effect, not only of rendering alternative 
+action foolhardy, but of rendering it categorically impossible. Thus, 
+we must suppose (contrary to what Frankfurt supposes in his version 
+
+ment against this counterexample is stated more fully in 'Moral Responsibility 
+and the Possibility of Doing Otherwise/ 507-10. 
+
+10 Frankfurt, 'Alternate Possibilities/ 831-2 
+11 Frankfurt, 'Alternate Possibilities/ 834 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+102 
+
+Phillip Gosselin 
+
+of this counterexample) that the threat has induced a fear so terrible 
+that at the moment of action it renders defiance not merely volitional- 
+ly difficult but impossible. It is now true that the agent could not have 
+done otherwise in the relevant sense,  but is it quite clear that he is 
+morally responsible  for  the  act? In  the  original counterexample 
+Frankfurt was  at  pains  to  point  out  that Jones 'was  not  actually 
+motivated by  the  threat but  solely by  the  considerations that had 
+originally commended the action to him'; that, Frankfurt believes, made 
+Jones morally responsible for what he did. Two points can be made 
+here. First, it is extremely doubtful that the modified counterexample 
+will allow us to say that Jones was not motivated by the threat: he was, 
+at the moment of action, possessed of an insurmountable fear of the 
+consequences of doing otherwise. But, in any case, given that this fear 
+stood as an insuperable obstacle to alternative action, I submit that it 
+is not at all clear that Jones is morally responsible for what he did. He 
+may be contemptible for his earlier decision to proceed, or for being 
+the kind of person who would have done it even without the threat, 
+but it is far from clear that he is morally responsible for the act itself. 
+In other words we  have ample ground for heaping scorn on Jones 
+without having to reject PAP or S-PAP. Notice that Jones' situation 
+in this modified version of the counterexample is precisely the same - 
+in all relevant respects -  as that of the willing addict. And as in the 
+case of the willing addict we must bear firmly in mind that ex hypothesi 
+it was just as impossible for him to do otherwise as it is impossible 
+for me to lift my house with my bare hands. 
+
+As was pointed out earlier, S-PAP is a principle that is very firmly 
+entrenched in our moral thinking; if Frankfurt is to prove it false, his 
+counterexamples must be unequivocal. I submit that they are not. 
+
+IV Michael Zimmerman's Discussion  of  PAP 
+
+In conclusion I wish  to comment on a recent discussion of PAP by 
+Michael Zimmerman.12 Zimmerman describes a counterexample to PAP 
+similar in its essentials to Frankfurt's Evil Overseer argument and raises 
+the question of its effect on the determinism-responsibility debate. He 
+then attempts not to resolve the issue but to clarify it by describing 
+in some detail what he believes are the five main positions that might 
+be taken on it. The emergence of so many alternative positions results 
+mainly from Zimmerman's contention that PAP requires the  two 
+following supporting premises: 
+
+12  Michael Zimmerman,  'Moral Responsibility,  Freedom, and Alternate Possibilities/ 
+
+Pacific Philosophical Quarterly 63  (1982) 243-54 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+The Principle of Alternate Possibilities 
+
+103 
+
+SP1: A person is morally responsible for what he has done only 
+if he did it freely. 
+
+SP2: A person has freely done what he has done only if he could 
+have done otherwise.13 
+
+Zimmerman explains the need for these two supporting premises as 
+follows: 
+
+The dispute  between  compatibilists  and  incompatibilists  is primarily concerned 
+with the relation between  freedom of human  action and determinism.  Why,  then, 
+has  [PAP] played  such  a dominant  role  in  this  dispute,  given  that  it mentions 
+neither freedom  nor determinism  but appears to concern  itself,  instead,  with  the 
+matter of moral responsibility? The answer  is four-fold.  First, the debate between 
+compatibilists  and incompatibilists  is fueled  by a common  concern  with  accoun- 
+ting  for the  possibility  of  persons  being  morally  responsible  for certain  of  their 
+actions  ....  Second,  both  parties  to the  debate  assume,  roughly,  that a person's 
+being  morally responsible  for an action requires that he acted freely.  Third, both 
+parties assume,  roughly,  that, to act freely, a person  must be able to do something 
+other  than  that which  he  in fact does.  And  fourth  ...  the  incompatibilist  asserts 
+[and the compatibilist denies],  roughly  that a person  can do something  other than 
+that  which  he  in  fact does  only  if determinism  is  false.14 
+
+Now, if Zimmerman is right about this, not only is the debate made 
+more complex, but PAP is rendered more vulnerable. PAP (and hence 
+S-PAP) could be attacked via an assault on either SP1 or SP2 -  and 
+there is reason to suspect the soundness of both these principles. 
+SP1 says that moral responsibility requires that the agent acted free- 
+ly. But consider an alcoholic whose incessant drinking wreaks havoc 
+on his family. He may well be morally responsible for continuing to 
+drink, but does he act freely in doing so? Some will say 'No: he is a 
+slave to his passions/  Others will say 'Yes, for it is possible for him 
+to quit, however difficult.' I am not sure a clear answer to this ques- 
+tion is possible without stipulating a definition of acted freely. It seems 
+that our linguistic conventions do not permit an unequivocal answer 
+here. 
+SP2 says that acting freely requires being able to do otherwise. Now 
+it seems fairly clear that acting freely does not require that one could 
+have done otherwise in the normative sense; and it is questionable 
+whether it requires that one could have done otherwise in the power 
+sense.  Suppose a person breaks an inconsequential engagement in 
+
+13  Zimmerman,  244 
+
+14  Ibid. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+104  Phillip Gosselin 
+
+order to help a friend in need. He could not do otherwise in the nor- 
+mative sense  for morality required that he  act as he  did.  But if he 
+wanted to help his friend, if he was glad to do so, we may say that 
+he acted freely, that he did it of his own free will. It is even questionable 
+whether one who is unable to do otherwise in the power sense necessari- 
+ly acts unfreely. Does Frankfurt's willing addict act unfreely in taking 
+the drug? Perhaps most addicts do. But this fellow is an unusual case: 
+it is impossible for him to resist his craving, but he is quite happy to 
+have it. In taking the drug he is doing what he wants to do. Is an unam- 
+biguous answer possible here?15 
+
+Now  it may well be that there is a plausible sense of free action in 
+which both SP1 and SP2 (an SP2 using the power sense of could) are 
+true; but does the acceptability of PAP (and S-PAP) depend on these 
+problematic premises? Zimmerman assumes that it does; he provides 
+no support whatsoever for the claim that it does. Yet this claim requires 
+support -  for, prima facie, S-PAP stands on its own. Essentially it says 
+that one is not to blame for doing something (or failing to do something) 
+if through no fault of one's own it was impossible to do anything else; 
+it says that it is wrong, not fitting from the moral point of view,  to 
+fault someone for failing to do the impossible (unless he is to blame 
+for its being impossible). Do we require a demonstration of the truth 
+of this principle? Must it be derived from premises more evident than 
+itself? I submit that it is more probably true than either SP1 or SP2 
+taken singly -  let alone taken in conjunction. I conclude that by fail- 
+ing to recognize this Zimmerman not only introduces an unnecessary 
+complexity into the debate initiated by Frankfurt, but represents PAP 
+(and hence S-PAP) as vulnerable on fronts that do not exist.16 
+
+Received June, 1985 
+Revised October, 1985 
+
+15  A recent discussion  which  demonstrates  once  again the difficulty of formulating 
+a reportive definition  of free action is Three  Concepts  of Free Action' by Don Locke 
+and Harry Frankfurt, Aristotelian Society Supplementary  Volume  49 (1975) 95-125. 
+16  I wish  to  thank  an  anonymous  referee  for the  helpful  comments  on  an  earlier 
+
+draft of  this  paper. 
+
+This content downloaded from 69.163.225.153 on Sat, 18 Jan 2014 13:47:04 PM
+
+All use subject to JSTOR Terms and Conditions
+
+

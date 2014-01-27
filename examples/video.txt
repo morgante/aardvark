@@ -1,0 +1,2105 @@
+V ideo game
+
+i
+
+d
+
+i
+
+d
+
+e o in v
+
+e o g am
+
+From Wikipedia, the free encyclopedia
+A video game is an electronic game that involves human interaction with a user interface to generate visual
+e  traditionally referred to a raster display device,[1]
+feedback on a video device. The word v
+but it now implies any type of display device that can produce two or three dimensional images. The electronic
+systems used to play video games are known as platforms;  examples of these are personal computers and
+video game consoles. These platforms range from large mainframe computers to small handheld devices.
+Specialized video games such as arcade games, while previously common, have gradually declined in use.
+Video games have gone on to become an art form and industry.
+The input device primarily used to manipulate video games is called a game controller, and varies across
+platforms. For example, a controller might consist of only a button and a joystick, while another may feature a
+dozen buttons and one or more joysticks. Early personal computer games often needed a keyboard for
+gameplay, or more commonly, required the user to buy a separate joystick with at least one button.[2] Many
+modern computer games allow or require the player to use a keyboard and a mouse simultaneously. A few of
+the most common game controllers are gamepads, mouses, keyboards, and joysticks.
+Video games typically use additional means of providing interactivity and information to the player. Audio is
+almost universal, using sound reproduction devices, such as speakers and headphones. Other feedback may
+come via haptic peripherals, such as vibration or force feedback, with vibration sometimes used to simulate
+force feedback.
+In the early days of cartridge consoles, they were sometimes called TV
+
+ games.
+
+Contents
+1 History
+2 Overview
+
+2.1 Platforms
+2.2 Genres
+2.3 Classifications
+
+2.3.1 Casual games
+2.3.2 Serious games
+
+2.4 Educational games
+3.1 Downloadable content
+3.2 Modifications
+3.3 Cheating
+3.4 Glitches
+3.5 Easter eggs
+
+3 Development
+
+4 Theory
+5 Social aspects
+
+5.1 Demographics
+5.2 Multiplayer
+5.3 Behavioral effects
+5.4 Controversy
+
+6 Ratings and censorship
+
+6 Ratings and censorship
+
+6.1 ESRB
+6.2 PEGI
+6.3 Germany:  BPjM and USK
+7 Commercial aspects
+7.1 Game sales
+7.2 Criticism
+
+8 Museums
+9 See also
+10 Notes
+11 References
+12 External links
+
+History
+c
+i
+Mai n ar
+t
+e  al
+Se
+
+l
+e : Hi
+t  v
+s
+s o: Fi
+r
+
+e o g am
+
+e
+
+s
+
+s
+i
+
+y  of  v
+t or
+e o g am
+
+d
+
+d
+
+i
+e
+
+Early games used interactive electronic devices with various display
+formats. The earliest example is from 1947—a "Cathode ray tube
+Amusement Device" was filed for a patent on 25 January 1947, by
+Thomas T. Goldsmith Jr. and Estle Ray Mann, and issued on 14
+December 1948, as U.S. Patent 2455992.[3]
+Inspired by radar display tech, it consisted of an analog device that
+allowed a user to control a vector-drawn dot on the screen to simulate
+a missile being fired at targets, which were drawings fixed to the
+screen.[4]
+Other early examples include:
+
+s  f or  Tw o, an early analog
+
+Te nni
+computer game that used an
+oscilloscope for a display
+
+The Nimrod computer at the 1951 Festival of Britain
+OXO a tic-tac-toe Computer game by Alexander S. Douglas for the EDSAC in 1952
+Te nni
+Spac
+e
+PDP-1 computer in 1961.
+
+s  f or  Tw o, an electronic interactive game engineered by William Higinbotham in 1958
+w ar
+
+! , written by MIT students Martin Graetz, Steve Russell, and Wayne Wiitanen's on a DEC
+
+s  f or  Tw o used an oscilloscope to display a side view
+!  used the DEC PDP-1's vector display to have two spaceships battle each
+
+Each game used different means of display:  NIMROD used a panel of lights to play the game of Nim,[5]
+OXO used a graphical display to play tic-tac-toe[6] Te nni
+of a tennis court,[4] and Spac
+e
+other.[7]
+In 1971, Com pu
+e , created by Nolan Bushnell and Ted Dabney, was the first commercially sold, coin-
+operated video game. It used a black-and-white television for its display, and the computer system was made
+of 74 series TTL chips.[8] The game was featured in the 1973 science fiction film Soy
+Spac
+prototype console developed by Ralph H. Baer called the "Brown Box", it also used a standard
+
+r
+e
+t
+e  was followed in 1972 by the Magnavox Odyssey, the first home console. Modeled after a late 1960s
+
+e n. Com pu
+
+r  Spac
+
+e nt  Gr
+
+e
+
+l
+
+w ar
+
+t
+
+e
+
+e  Inv ad
+
+e
+
+television.[4][9] These were followed by two versions of Atari's Pong
+;  an arcade version in 1972 and a home
+version in 1975 that dramatically increased video game popularity.[10] The commercial success of Pong  led
+numerous other companies to develop Pong  clones and their own systems, spawning the video game
+industry.[11]
+A flood of Pong  clones eventually led to the video game crash of
+1977, which came to an end with the mainstream success of Taito's
+s ,[12] marking the beginning of the
+1978 shooter game Spac
+golden age of arcade video games and inspiring dozens of
+manufacturers to enter the market.[12][13] The game inspired arcade
+machines to become prevalent in mainstream locations such as
+shopping malls, traditional storefronts, restaurants, and convenience
+stores.[14] The game also became the subject of numerous articles and
+stories on television and in newspapers and magazines, establishing
+video gaming as a rapidly growing mainstream hobby.[15][16] Spac
+e
+Inv ad
+2600), becoming the first "killer app" and quadrupling the console's sales.[17] This helped Atari recover from
+their earlier losses,[18] and in turn the Atari VCS revived the home video game market during the second
+generation of consoles, up until the North American video game crash of 1983.[19] The home video game
+industry was revitalized shortly afterwards by the widespread success of the Nintendo Entertainment
+System,[20] which marked a shift in the dominance of the video game industry from the United States to Japan
+during the third generation of consoles.[21]
+Overview
+Platforms
+s o: Hi
+
+s  was soon licensed for the Atari VCS (later known as Atari
+
+Nolan Bushnell at the Game
+Developers Conference in 2011
+
+e o g am
+
+Se
+
+e  al
+
+i
+
+d
+
+s
+
+t or
+
+y  of  v
+
+e
+
+r
+
+r
+
+e
+
+s
+
+The term "platform" refers to the specific combination of electronic components or computer hardware which,
+in conjunction with software, allows a video game to operate.[22] The term "system" is also commonly used.
+In common use a "PC game" refers to a form of media that involves a player interacting with an IBM PC
+compatible personal computer connected to a video monitor. A "console game" is played on a specialized
+electronic device that connects to a common television set or composite video monitor. A "handheld" gaming
+device is a self-contained electronic device that is portable and can be held in a user's hands. "Arcade game"
+generally refers to a game played on an even more specialized type of electronic device that is typically
+designed to play only one game and is encased in a special cabinet. These distinctions are not always clear and
+there may be games that bridge one or more platforms. In addition to personal computers, there are multiple
+other devices which have the ability to play games but are not dedicated video game machines, such as mobile
+phones, PDAs and graphing calculators.
+With the advent of social networking and other online applications hubs, the term "platform" started being
+used to refer to the online service within which the game is played, regardless of the actual hardware on which
+it is executed. A game's platform could simply be "Facebook", whether it is played on a Windows PC, Mac,
+Smart TV, or smartphone.
+
+Genres
+Mai n ar
+t
+
+i
+
+c
+
+l
+
+e : Vi
+d
+
+e o g am
+
+e  g
+
+e nr
+
+e
+
+s
+
+A video game, like most other forms of media, may be categorized into genres based on many factors such as
+method of game play, types of goals, art style, interactivity and more. Because genres are dependent on
+content for definition, genres have changed and evolved as newer styles of video games have come into
+existence. Ever advancing technology and production values related to video game development have fostered
+more lifelike and complex games which have in turn introduced or enhanced genre possibilities (e.g., virtual
+pets), pushed the boundaries of existing video gaming or in some cases add new possibilities in play (such as
+that seen with titles specifically designed for devices like Sony's EyeToy). Some genres represent
+combinations of others, such as massively multiplayer online role-playing games, or, more commonly,
+MMORPGs. It is also common to see higher level genre terms that are collective in nature across all other
+genres such as with action, music/rhythm or horror-themed video games.
+Classifications
+Casual games
+l
+
+Mai n ar
+t
+
+i
+
+c
+
+e : Cas
+
+u al  g am
+
+e
+
+Casual games derive their name from their ease of accessibility, simple to understand gameplay and quick to
+grasp rule sets. Additionally, casual games frequently support the ability to jump in and out of play on
+demand. Casual games as a format existed long before the term was coined and include video games such as
+Solitaire or Minesweeper which can commonly be found pre-installed with many versions of the Microsoft
+Windows operating system.
+Examples of genres within this category are hidden object, match three, time management, tetris or many of
+the tower defense style games. Casual games are generally sold through online retailers such as PopCap,
+Zylom, Vans Video Games and GameHouse or provided for free play through web portals such as
+Newgrounds.
+While casual games are most commonly played on personal computers, cellphones or PDAs, they can also be
+found on many of the on-line console system download services (e.g., Xbox Live, PlayStation Network, or
+WiiWare).
+Serious games
+
+Mai n ar
+t
+
+i
+
+c
+
+l
+
+e : Se
+r
+
+i ou
+
+s  g am
+
+e
+
+Serious games are games that are designed primarily to convey information or a learning experience of some
+sort to the player. Some serious games may even fail to qualify as a video game in the traditional sense of the
+term. Educational software does not typically fall under this category (e.g., touch typing tutors, language
+learning, etc.) and the primary distinction would appear to be based on the title's primary goal as well as target
+age demographics. As with the other categories, this description is more of a guideline than a rule.
+
+c ond  Li
+f
+
+Serious games are games generally made for reasons beyond simple entertainment and as with the core and
+casual games may include works from any given genre, although some such as exergames, educational games,
+or propaganda games may have a higher representation in this group due to their subject matter. These games
+are typically designed to be played by professionals as part of a specific job or for skill set improvement. They
+can also be created to convey social-political awareness on a specific subject.
+One of the longest running serious games franchises would be Microsoft Flight Simulator first published in
+1982 under that name. The United States military uses virtual reality based simulations, such as VBS1 for
+training exercises,[23] as do a growing number of first responder roles (e.g., police, fire fighter, EMT).[24] One
+example of a non-game environment utilized as a platform for serious game development would be the virtual
+world of Se
+e , which is currently used by several United States governmental departments (e.g.,
+NOAA, NASA, JPL), Universities (e.g., Ohio University, MIT) for educational and remote learning
+programs[25] and businesses (e.g., IBM, Cisco Systems) for meetings and training.[26]
+Tactical media in video games plays a crucial role in making a statement or conveying a message on important
+relevant issues. This form of media allows for a broader audience to be able to receive and gain access to
+certain information that otherwise may not have reached such people. An example of tactical media in video
+games would be newsgames. These are short games related to contemporary events designed to illustrate a
+point.[27] For example, Take Action Games is a game studio collective that was co-founded by Susana Ruiz
+and has made successful serious games. Some of these games include Dar
+i ng  Z oe , and In
+f
+e . All of these games bring awareness to important issues and events in an intelligent and well
+Th
+thought out manner.[28]
+Educational games
+i onal  s of
+
+i ng , Fi nd
+
+e  B al anc
+
+w ar
+e
+
+e  al
+
+s o: Ed
+
+s  Dy
+
+c at
+
+Se
+
+r  i
+
+u
+
+u
+
+t
+
+On 23 September 2009, U.S. President Barack Obama launched a campaign called "Educate to Innovate"
+aimed at improving the technological, mathematical, scientific and engineering abilities of American students.
+This campaign states that it plans to harness the power of interactive games to help achieve the goal of students
+excelling in these departments.[29][30] This campaign has stemmed into many new opportunities for the video
+game realm and has contributed to many new competitions. Some of these competitions include the Stem
+National Video Game Competition and the Imagine Cup.[31][32] Both of these examples are events that bring
+a focus to relevant and important current issues that are able to be addressed in the sense of video games to
+educate and spread knowledge in a new form of media. www.NobelPrize.org uses games to entice the user to
+learn about information pertaining to the Nobel prize achievements while engaging in a fun to play video
+game.[33] There are many different types and styles of educational games all the way from counting to spelling
+to games for kids and games for adults. Some other games do not have any particular targeted audience in
+mind and intended to simply educate or inform whoever views or plays the game.
+Development
+e  d
+e : Gam
+l
+e
+v
+e
+s o: Vi
+d
+e  i nd
+e o g am
+
+Mai n ar
+t
+Se
+e  al
+
+e nt
+y  pr ac
+t
+
+l opm
+u
+s
+t
+r
+
+s
+
+c
+
+i
+
+i
+
+c
+
+e
+
+Video game development and authorship, much like any other form of entertainment, is frequently a cross-
+disciplinary field. Video game developers, as employees within this industry are commonly referred, primarily
+include programmers and graphic designers. Over the years this has
+expanded to include almost every type of skill that one might see
+prevalent in the creation of any movie or television program, including
+sound designers, musicians, and other technicians;  as well as skills
+that are specific to video games, such as the game designer. All of
+these are managed by producers.
+In the early days of the industry, it was more common for a single
+person to manage all of the roles needed to create a video game. As
+platforms have become more complex and powerful in the type of
+material they can present, larger teams have been needed to generate
+all of the art, programming, cinematography, and more. This is not to
+say that the age of the "one-man shop" is gone, as this is still
+sometimes found in the casual gaming and handheld markets,[34]
+where smaller games are prevalent due to technical limitations such as
+limited RAM or lack of dedicated 3D graphics rendering capabilities
+on the target platform (e.g., some cellphones and
+PDAs).[c
+i
+With the growth of the size of development teams in the industry, the problem of cost has increased.
+Development studios need to be able to pay their staff a competitive wage in order to attract and retain the best
+talent, while publishers are constantly looking to keep costs down in order to maintain profitability on their
+investment. Typically, a video game console development team can range in sizes of anywhere from 5 to 50
+people, with some teams exceeding 100. In May 2009, one game project was reported to have a development
+staff of 450.[35] The growth of team size combined with greater pressure to get completed projects into the
+market to begin recouping production costs has led to a greater occurrence of missed deadlines, rushed games
+and the release of unfinished products.[c
+i
+Downloadable content
+e : Dow nl oad ab
+l
+
+Developers use various tools to create
+video games, here an editor to fine
+tune the virtual camera system.
+
+Mai n ar
+t
+
+e  c ont
+
+i on ne
+
+i on ne
+
+d ]
+
+d ]
+
+e nt
+
+t at
+
+t at
+
+i
+
+c
+
+l
+
+e
+
+d
+
+e
+
+e
+
+d
+
+e
+
+e  B al
+
+d  and Th
+
+l ad  of  Gay  Tony ), or Bethesda with Fal
+l ou
+
+A phenomenon of additional game content at a later date, often for additional funds, began with digital video
+game distribution known as downloadable content (DLC). Developers can use digital distribution to issue new
+storylines after the main game is released, such as Rockstar Games with Gr and  Th
+t  and
+t  3 and its expansions. New gameplay modes
+Dam ne
+t y  and its zombie modes,[36][37][38] a multiplayer mode for
+can also become available, for instance, Cal
+t . Smaller packages of DLC are also
+Mu
+t
+r o: Las
+t  Li
+g
+h
+common, ranging from better in-game weapons (De ad  Spac
+t ,
+e , Ju
+g Pl ane
+B
+e
+t  Cau
+s
+or new songs to perform Si ng St ar , Roc
+r o).
+t ar  He
+i
+Modifications
+
+l  of  Du
+s  or a higher difficulty level for Me
+k  B and , Gu
+
+e  2), character outfits (Li
+t
+
+t o IV (Th
+
+ War
+
+e  Los
+
+r oom
+
+t  A
+
+s
+
+s
+
+l
+
+t
+
+i
+
+f
+
+u
+
+e
+
+h
+
+Mai n ar
+t
+
+i
+
+c
+
+l
+
+e : Mod  (
+
+c om pu
+
+t
+
+e
+
+r  g am
+
+i ng
+
+)
+
+Many games produced for the PC are designed such that technically oriented consumers can modify the game.
+These mods can add an extra dimension of replayability and interest. Developers such as id Software, Valve
+Software, Crytek, Bethesda, Epic Games and Blizzard Entertainment ship their games with some of the
+development tools used to make the game, along with documentation to assist mod developers. The Internet
+provides an inexpensive medium to promote and distribute mods, and they may be a factor in the commercial
+success of some games.[39] This allows for the kind of success seen by popular mods such as the Hal
+mod Cou nt
+e
+Cheating
+i
+Mai n ar
+t
+
+e o g am
+
+e : Ch
+
+r -St
+r
+
+f -Li
+f
+
+e at
+
+i ng  (
+
+e .
+
+s
+
+e
+
+i
+
+l
+
+k
+
+c
+
+v
+
+i
+
+d
+
+e
+
+)
+
+Cheating in computer games may involve cheat codes and hidden spots implemented by the game
+developers,[40][41] modification of game code by third parties,[42][43] or players exploiting a software glitch.
+Modifications are facilitated by either cheat cartridge hardware or a software trainer.[42] Cheats usually make
+the game easier by providing an unlimited amount of some resource;  for example weapons, health, or
+ammunition;  or perhaps the ability to walk through walls.[41][42] Other cheats might give access to otherwise
+unplayable levels or provide unusual or amusing features, like altered game colors or other graphical
+appearances.
+Glitches
+Mai n ar
+t
+
+e : Gl
+
+c
+
+i
+
+l
+
+i
+
+t
+
+c
+
+h
+
+Software errors not detected by software testers during development can find their way into released versions
+of computer and video games. This may happen because the glitch only occurs under unusual circumstances
+in the game, was deemed too minor to correct, or because the game development was hurried to meet a
+publication deadline. Glitches can range from minor graphical errors to serious bugs that can delete saved data
+s ) to
+or cause the game to malfunction. In some cases publishers will release updates (referred to as pat
+c
+repair glitches. Sometimes a glitch may be beneficial to the player, these are often referred to as exploits.
+Easter eggs
+Easter eggs are hidden messages or jokes left in games by developers that are not part of the main game.
+Theory
+c
+i
+Mai n ar
+t
+
+e : Gam
+
+e  s
+
+s
+
+h
+
+e
+
+l
+
+t
+
+u
+
+d
+
+i
+
+e
+
+Although departments of computer science have been studying the technical aspects of video games for years,
+theories that examine games as an artistic medium are a relatively recent development in the humanities. The
+two most visible schools in this emerging field are ludology and narratology. Narrativists approach video
+games in the context of what Janet Murray calls "Cyberdrama". That is to say, their major concern is with
+video games as a storytelling medium, one that arises out of interactive fiction. Murray puts video games in the
+k , arguing for the video game as a
+context of the Holodeck, a fictional piece of technology from St ar  Tr
+e
+
+h
+
+t
+
+e
+
+e
+
+t
+
+e
+
+i
+
+g
+
+r .
+
+t  St ar
+f
+
+b  Rai
+d
+
+medium in which we get to become another person, and to act out in another world.[44] This image of video
+games received early widespread popular support, and forms the basis of films such as Tr on, e Xi
+e nZ  and Th
+s
+Las
+Ludologists break sharply and radically from this idea. They argue that a video game is first and foremost a
+game, which must be understood in terms of its rules, interface, and the concept of play that it deploys. Espen
+J. Aarseth argues that, although games certainly have plots, characters, and aspects of traditional narratives,
+these aspects are incidental to gameplay. For example, Aarseth is critical of the widespread attention that
+narrativists have given to the heroine of the game Tom
+r , saying that "the dimensions of Lara Croft's
+body, already analyzed to death by film theorists, are irrelevant to me as a player, because a different-looking
+body would not make me play differently... When I play, I don't even see her body, but see through it and past
+it."[45] Simply put, ludologists reject traditional theories of art because they claim that the artistic and socially
+relevant qualities of a video game are primarily determined by the underlying set of rules, demands, and
+expectations imposed on the player.
+While many games rely on emergent principles, video games commonly present simulated story worlds where
+emergent behavior occurs within the context of the game. The term "emergent narrative" has been used to
+describe how, in a simulated environment, storyline can be created simply by "what happens to the
+player."[46] However, emergent behavior is not limited to sophisticated games. In general, any place where
+event-driven instructions occur for AI in a game, emergent behavior will exist. For instance, take a racing
+game in which cars are programmed to avoid crashing, and they encounter an obstacle in the track:  the cars
+might then maneuver to avoid the obstacle causing the cars behind them to slow and/or maneuver to
+accommodate the cars in front of them and the obstacle. The programmer never wrote code to specifically
+create a traffic jam, yet one now exists in the game.
+Social aspects
+Demographics
+The November 2005 Nielsen Active Gamer Study, taking a survey of 2,000 regular gamers, found that the
+U.S. games market is diversifying. The age group among male players has expanded significantly in the 25–
+40 age group. For casual online puzzle-style and simple mobile cell phone games, the gender divide is more or
+less equal between males and females. Females have also been found to show an attraction to online multi-
+player games where there is a communal experience.[c
+d ] More recently there has been a growing
+i
+segment of female players engaged with the aggressive style of games historically considered to fall within
+traditionally male genres (e.g., first-person shooters). According to the ESRB almost 41% of PC gamers are
+women[47] (see Girl gamer).
+When comparing today's industry climate with that of 20 years ago, women and many adults are more inclined
+to be using products in the industry. While the market for teen and young adult men is still a strong market, it
+is the other demographics which are posting significant growth. The Entertainment Software Association
+(ESA) provides the following summary for 2011 based on a study of almost 1,200 American households
+carried out by Ipsos MediaCT: [48]
+
+t at
+
+i on ne
+
+e
+
+d
+
+e
+
+The average gamer is 30 years old and has been playing for 12 years. Eighty-two percent of gamers are
+18 years of age or older.
+Forty-two percent of all players are women and women over 18 years of age are one of the industry's
+
+fastest growing demographics.
+Today, adult women represent a greater portion of the game-playing population (37 percent) than boys
+age 17 or younger (13 percent).
+Twenty-nine percent of game players are over the age of 50, an increase from nine percent in 1999.
+Sixty-five percent of gamers play games with other gamers in person.
+Fifty-five percent of gamers play games on their phones or handheld device.
+
+A 2006 academic study, based on a survey answered by 10,000 gamers, identified the gaymers (gamers that
+identify as gay) as a demographic group.[49][50][51] A follow-up survey in 2009 studied the purchase habits
+and content preferences of people in the group.[52][53][54]
+Based on the study by NPD group in 2011, about 91 percent of kids aged 2–17 play games.[55]
+Multiplayer
+l
+
+Mai n ar
+t
+
+e o g am
+
+e : Mu
+
+t
+
+i pl ay
+e
+
+i
+
+c
+
+e
+
+l
+
+r  v
+
+i
+
+d
+
+Video gaming has traditionally been a social experience. Multiplayer video games are those that can be played
+either competitively, sometimes in Electronic Sports, or cooperatively by using either multiple input devices, or
+s  f or  Tw o, arguably the first video game, was a two player game, as was its successor
+by hotseating. Te nni
+Pong . The first commercially available game console, the Magnavox Odyssey, had two controller inputs.
+Since then, most consoles have been shipped with two or four controller inputs. Some have had the ability to
+expand to four, eight or as many as 12 inputs with additional adapters, such as the Multitap. Multiplayer
+arcade games typically feature play for two to four players, sometimes tilting the monitor on its back for a top-
+down viewing experience allowing players to sit opposite one another.
+Many early computer games for non-PC descendant based platforms featured multiplayer support. Personal
+computer systems from Atari and Commodore both regularly featured at least two game ports. PC-based
+computer games started with a lower availability of multiplayer options because of technical limitations. PCs
+typically had either one or no game ports at all. Network games for these early personal computers were
+generally limited to only text based adventures or MUDs that were played remotely on a dedicated server.
+This was due both to the slow speed of modems (300-1200-bit/s), and the prohibitive cost involved with
+putting a computer online in such a way where multiple visitors could make use of it. However, with the
+advent of widespread local area networking technologies and Internet based online capabilities, the number of
+players in modern games can be 32 or higher, sometimes featuring integrated text and/or voice chat. MMOs
+can offer extremely high numbers of simultaneous players;  Ev
+i ne  set a record with 54,446 players on a
+single server in 2010.[56]
+Behavioral effects
+
+e  Onl
+
+Mai n ar
+t
+
+i
+
+c
+
+l
+
+e : Vi
+d
+
+e o g am
+
+e  b
+
+e
+
+h av
+
+i or al  e
+
+f
+
+f
+
+e
+
+c
+
+t
+
+s
+
+It has been shown that action video game players have better hand-eye coordination and visuo-motor skills,
+such as their resistance to distraction, their sensitivity to information in the peripheral vision and their ability to
+count briefly presented objects, than nonplayers.[57]
+
+e
+
+t
+
+h
+
+r
+
+y
+
+Researchers found that such enhanced abilities could be acquired by training with action games, involving
+challenges that switch attention between different locations, but not with games requiring concentration on
+single objects. It has been suggested by a few studies that online/offline video gaming can be used as a
+therapeutic tool in the treatment of different mental health concerns.
+In Steven Johnson's book, Ev
+i ng  B ad  Is  Good  f or  Y ou , he argues that video games in fact demand far
+more from a player than traditional games like Monopol y . To experience the game, the player must first
+determine the objectives, as well as how to complete them. They must then learn the game controls and how
+the human-machine interface works, including menus and HUDs. Beyond such skills, which after some time
+become quite fundamental and are taken for granted by many gamers, video games are based upon the player
+navigating (and eventually mastering) a highly complex system with many variables. This requires a strong
+analytical ability, as well as flexibility and adaptability. He argues that the process of learning the boundaries,
+goals, and controls of a given game is often a highly demanding one that calls on many different areas of
+cognitive function. Indeed, most games require a great deal of patience and focus from the player, and,
+contrary to the popular perception that games provide instant gratification, games actually delay gratification
+far longer than other forms of entertainment such as film or even many books.[58] Some research suggests
+video games may even increase players' attention capacities.[59]
+Learning principles found in video games have been identified as possible techniques with which to reform the
+U.S. education system.[60] It has been noticed that gamers adopt an attitude while playing that is of such high
+concentration, they do not realize they are learning, and that if the same attitude could be adopted at school,
+education would enjoy significant benefits.[61] Students are found to be "learning by doing" while playing
+video games while fostering creative thinking.[62]
+The U.S. Army has deployed machines such as the PackBot and UAV vehicles, which make use of a game-
+style hand controller to make it more familiar for young people.[63]
+According to research discussed at the 2008 Convention of the American Psychological Association, certain
+types of video games can improve the gamers' dexterity as well as their ability to problem-solve. A study of 33
+laparoscopic surgeons found that those who played video games were 27 percent faster at advanced surgical
+procedures and made 37 percent fewer errors compared to those who did not play video games. A second
+study of 303 laparoscopic surgeons (82 percent men;  18 percent women) also showed that surgeons who
+played video games requiring spatial skills and hand dexterity and then performed a drill testing these skills
+were significantly faster at their first attempt and across all 10 trials than the surgeons who did not play the
+video games first.[64]
+The research showing benefits from action games has been questioned due to methodological shortcomings,
+such as recruitment strategies and selection bias, potential placebo effects, and lack of baseline improvements
+in control groups.[65] In addition, many of the studies are cross-sectional, and of the longitudinal interventional
+trials, not all have found effects.[65] A response to this pointed out that the skill improvements from action
+games are more broad than predicted, such as mental rotation, which is not a common task in action games.[66]
+Controversy
+
+Mai n ar
+t
+
+i
+
+c
+
+l
+
+e : Vi
+d
+
+e o g am
+
+e  c ont
+
+r ov
+
+e
+
+r
+
+s
+
+y
+
+e
+
+e  Me
+
+d
+
+m on Se ns
+
+y  Pl ay  and Com
+
+Like related forms of media, computer and video games have been the subject of frequent controversy and
+censorship, due to the depiction of graphic violence, sexual themes, advergaming (a form of advertising in
+games), consumption of drugs, consumption of alcohol or tobacco, propaganda, or profanity in some games.
+Among others, critics of video games often include parents' groups, politicians, organized religious groups,
+and other advocacy groups. Various games have been accused of causing addiction and even violent
+behavior,[67][68] though how much ground this holds is debatable.[69][70] "Video game censorship" is defined
+as the use of state or group power to control the playing, distribution, purchase, or sale of video games or
+computer games. Video game controversy comes in many forms, and censorship is a controversial subject.
+Proponents and opponents of censorship are often very passionate about their individual views. However,
+there has not been substantial evidence against or in favor of showing a positive correlation between video
+games and acts such as killing.
+Various national content rating organizations, such as the Entertainment Software Ratings Board or ESRB in
+North America, rate software for certain age groups and with certain content warnings. Some of these
+organizations are optional industry self-regulation (such as the ESRB), while others are part of national
+government censorship organizations(such as the BBFC). Most video games display their rating on the front
+side of their packaging. However, parents are not always aware of the existence of these ratings. Not all
+ratings are considered accurate. Organizations such as Wh at  Th
+i a aim to
+provide guidance and advice for parents.[71]
+Ratings and censorship
+ESRB
+The Entertainment Software Rating Board (ESRB) gives video games maturity ratings based on their content.
+For example, a game might be rated T for Te
+e n if the game contained obscene words or violence. If a game
+contains explicit violence or sexual themes, it is likely to receive an M for Mat
+e  rating, which means that no
+u
+one under 17 should play it. There is a rated "A/O" games for "Adults Only" these games have massive
+violence or nudity. There are no laws that prohibit children from purchasing "M" rated games in the United
+States. Laws attempting to prohibit minors from purchasing "M" rated games were established in California,
+Illinois, Michigan, Minnesota, and Louisiana, but all were overturned on the grounds that these laws violated
+the First Amendment.[72] However, many stores have opted to not sell such games to children anyway. Of
+course, video game laws vary from country to country. One of the most controversial games of all time,
+u nt  2 by Rockstar Studios, was given an AO rating by the ESRB until Rockstar could make the content
+Manh
+more suitable for a mature audience.
+Video game manufacturers usually exercise tight control over the games that are made available on their
+systems, so unusual or special-interest games are more likely to appear as PC games. Free, casual, and
+browser-based games are usually played on available computers, mobile phones, or PDAs.
+PEGI
+Pan European Game Information (PEGI) is a system that was developed to standardize the game ratings in all
+of Europe (not just European Union, although the majority are EU members), the current members are:  all EU
+members, except Germany and the 10 accession states;  Norway;  Switzerland. Iceland is expected to join soon,
+
+r
+
+u
+
+g
+
+g
+
+d
+
+e
+
+d
+
+e
+
+e
+
+f
+
+as are the 10 EU accession states. For all PEGI members, they use it as their sole system, with the exception of
+the UK, where if a game contains certain material,[73] it must be rated by BBFC. The PEGI ratings are legally
+binding in Vienna and it is a criminal offence to sell a game to someone if it is rated above their age.[74]
+Germany: BPjM and U SK
+Stricter game rating laws mean that Germany does not operate within the PEGI. Instead, they adopt their own
+system of certification which is required by law. The Unterhaltungssoftware Selbstkontrolle (USK or
+Voluntary Certification of Entertainment Software) checks every game before release and assigns an age
+rating to it – either none (white), 6 years of age (yellow), 12 years of age (green), 16 years of age (blue) or 18
+years of age (red). It is forbidden for anyone, retailers, friends or parents alike, to allow a child access to a
+game for which he or she is underage. If a game is particularly violent, it may be referred to the BPjM
+(B
+h
+ä
+e nd
+who may opt to place it on the Ind
+x  upon which the game may not be sold openly or advertised in the open
+media. Unofficially, the titles are not "banned" – adult gamers are still technically free to obtain the titles by
+other means, although it is still considered a felony to supply these titles to a child
+Commercial aspects
+Game sales
+s o: Vi
+d
+
+e n – Federal Verification Office for Child-Endangering Media)
+
+e o g am
+
+e  of  ar
+
+e n ag
+
+e  f ür  j
+
+s pr üf
+
+e  Me
+
+e  i nd
+
+t -s
+e
+
+u nd
+
+e nd
+
+r
+
+s
+
+s
+
+i
+
+i
+
+d
+
+d
+
+t
+
+e
+
+l
+
+l
+
+e
+
+t
+
+u
+
+e
+
+i
+
+d
+
+l
+
+l
+
+s
+
+r
+
+s
+
+e  v
+
+Se
+
+c ad
+
+t  of  b
+
+i ng  v
+
+e  al
+
+y , Li
+s
+
+e o g am
+
+e o g am
+
+s , and  Gol
+
+e
+The three largest producers of and markets for computer and video
+games (in order) are North America (US and Canada), Japan and the
+United Kingdom. Other significant markets include Australia, Spain,
+Germany, South Korea, Mexico, France and Italy.[75] Both India and
+China are considered emerging markets in the video game industry
+and sales are expected to rise significantly in the coming years. Irish
+are the largest per capita consumers of video games.[76]
+Sales of different types of games vary widely between these markets
+due to local preferences. Japanese consumers tend to purchase much
+more console games than computer games, with a strong preference
+for games catering to local tastes. Another key difference is that,
+despite the decline of arcades in the Western world (see Golden age of
+video arcade games), arcade games remain the largest sector of the
+Japanese gaming industry. As of 2009, the Japanese gaming industry is worth $20 billion, including $6 billion
+from arcades, $3.5 billion from console game sales, and $2 billion from mobile game sales.[77] In South
+Korea, computer games are generally preferred over console games, especially MMORPG games and real-
+time strategy games. There are over 20,000 Internet café s in South Korea where computer games can be
+played for an hourly charge. Computer games are also popular in China, which has a PC gaming industry
+worth $6 billion, the largest in the world.[78] Arcade games are also still a thriving industry in China, though
+console games have been banned in the country since the early 2000s.[79]
+The NPD Group tracks computer and video game sales in the United States. It reported in 2004 that:
+
+A typical retail display (in Geneva,
+Switzerland) with a large selection of
+games for several major consoles
+
+Console and portable software sales:  $6.2 billion, up 8% from 2003[80]
+Console and portable hardware and accessory sales:  $3.7 billion, down 35% from 2003[80]
+PC game sales:  $1.1 billion, down 15% from 2006[81]
+
+PC games that are digitally distributed either directly or by networks such as Steam are not tracked by the
+NPD, and Valve does not list sales numbers for games downloaded through their service. Unauthorized
+distribution is also rampant on the PC.[82] Another growing factor that is difficult to account for is the
+expansion and popularity of independent games, which typically bypass traditional developer/publisher
+relationships to instead market directly to the consumer.
+These figures are sales in dollars, not units, Unit shipments for each category were higher than the dollar sales
+numbers indicate, because more software and hardware was discounted than in 2003. But with the release of
+the next-generation consoles in 2006, these numbers increased dramatically. The game and film industries are
+also becoming increasingly intertwined, with companies like Sony having significant stakes in both. A large
+number of summer blockbuster films spawn a companion game, often launching at the same time to share the
+marketing costs.
+The global market for console games has seen an average of 6.9 percent compound annual growth rate and is
+expected to become a $34.7 billion market in 2012.Online game sales are expected to grow at a larger rate of
+16.9 percent, escalating from $6.6 billion in 2008 to $14.4 billion by 2012. The largest channel for growth,
+however, is in mobile gaming with a growth rate of 19 percent;  estimated to grow from $5.6 billion in 2008 to
+$13.5 billion in four years.[83]
+Criticism
+e  al
+
+e o g am
+
+s o: Vi
+d
+
+Se
+
+e  c
+
+i
+
+s
+
+m
+
+r
+
+i
+
+t
+
+i
+
+c
+
+Video games have the problem of regional lockout. In Australia, while most DVD players are sold region-free
+to accommodate local consumer rights legislation,[84] video game consoles are still sold fully region protected.
+Some effort has been made to increase awareness of the issue, specifically to Nintendo of Australia,[85] in the
+form of a formal report outlining the issues, published by Aaron Rex Davies.[86] The report has gone on to
+gain a lot of attention in the public media.[87]
+Museums
+There are many video game museums around the world, including the Museum of Soviet Arcade Machines in
+Moscow[88][89] and the Computer Game Museum in Berlin.[90] The Museum of Art and Digital
+Entertainment in Oakland, California is a dedicated video game museum focusing on playable exhibits of
+console and computer games.[91] The Video Game Museum in Rome is also dedicated to preserving
+videogames and their history.[92] The International Center for the History of Electronic Games at The Strong
+in Rochester, New York contains one of the largest collections of electronic games and game-related historical
+materials in the world, including a 5,000-square-foot (460 m2) exhibit which allows guests to play their way
+through the history of video games.[93][94][95]
+
+In 2012, the Smithsonian American Art Museum ran an exhibition on "The Art of Video Games".[96]
+
+In 2012, the Smithsonian American Art Museum ran an exhibition on "The Art of Video Games".[96]
+However, the reviews of the exhibit were mixed, including questioning whether video games belong in an art
+museum.[97][98]
+See also
+
+Outline of video games
+Video game etiquette
+Field of view in video games
+
+Notes
+
+e
+
+t
+
+s
+
+e
+
+d  St at
+e
+
+s . Retrieved 2008-06-25.
+
+1.  ^ "Television gaming apparatus and method" (http: //www.freepatentsonline.com/3659285.html). Uni
+2.  ^ *Patrick Stack. "History of video game consoles"
+
+Pat
+e nt
+(http: //web.archive.org/web/20090226064943/http: //time.com/time/covers/1101050523/console_timeline) Ti
+m
+2005 /
+
+i on t o Gam
+
+Retrieved 2007-10-24.
+
+3.  ^ U.S. Patent 2,455,992 (http: //www.google.com/patents/US2455992)
+4.  ^ a b c "Welcome to Pong-Story – Introduction" (http: //www.pong-story.com/intro.htm). PONG-Story.com.
+5.  ^ "Welcome to... NIMROD!" (http: //www.goodeveca.net/nimrod/). Retrieved 2007-10-24.
+6.  ^ Winter, David. "A.S.Douglas' 1952 Noughts and Crosses game" (http: //www.pong-story.com/1952.htm). PONG-
+7.  ^ Rabin, Steve (2005) [2005-06-14]. Int
+l opm
+8.  ^ Marvin Yagoda (2008). "1972 Nutting Associates Computer Space"
+
+Story. Retrieved 2009-07-03.
+ISBN 1-58450-377-7.
+(http: //web.archive.org/web/20081228061939/http: //www.marvin3m.com/arcade/cspace.htm). Archived from the
+original (http: //marvin3m.com/arcade/cspace.htm) on 28 December 2008.
+(http: //www.wired.com/gaming/gamingreviews/multimedia/2007/05/gallery_game_history). Wired News.
+Retrieved 2007-10-24.
+(http: //www.pbs.org/kcts/videogamerevolution/history/timeline_flash.html). PBS. Retrieved 2007-10-25.
+(http: //web.archive.org/web/20071012152258/http: //www.informit.com/articles/article.aspx?p=378141). InformIT.
+Archived from the original (http: //www.informit.com/articles/article.aspx?p=378141) on 12 October 2007.
+Retrieved 2007-10-25.
+
+10.  ^ "History of Gaming – Interactive Timeline of Game History"
+11.  ^ Miller, Michael (1 April 2005). "A History of Home Video Game Consoles"
+
+9.  ^ Orlando, Greg (15 May 2007). "Console Portraits:  A 40-Year Pictorial History of Gaming"
+
+e nt . Massachusetts:  Charles River Media.
+
+e  De
+
+r od
+
+u
+
+c
+
+t
+
+v
+
+e
+
+g
+
+é
+
+e
+
+s : Fr om
+
+y  of  Vi
+d
+
+e o Gam
+
+ Pong  t o Pok
+
+y
+b
+e
+r
+s pac
+e  h and
+t or
+e  Hi
+m at
+s
+
+e . Future plc. Retrieved 2008-09-18.
+
+b ook . Routledge. p. 122. ISBN 0-415-16835-X
+
+12.  ^ a b Jason Whittaker (2004). Th
+e  c
+13.  ^ Kent, Steven L. (2001). Th
+m on. Three Rivers Press.
+i
+t
+e  Ul
+p. 500. ISBN 0-7615-3643-4.
+14.  ^ Edge Staff (13 August 2007). "The 30 Defining Moments in Gaming" (http: //www.next-gen.biz/features/30-
+defining-moments-gaming). Ed
+15.  ^ "Atari Offers Largest Game Library"
+(http: //www.digitpress.com/library/magazines/electronic_games/electronic_games_winter81.pdf). El
+e
+1 (1):  40–41 [41]. Winter 1981. Retrieved 1 February 2012.
+magazine-1982-03/Electronic_Games_Issue_02_Vol_01_02_1982_Mar#page/n35/mode/1up). El
+e
+(2):  35–45 [36]. March 1982. Retrieved 1 February 2012.
+(http: //www.nowgamer.com/features/894697/the_definitive_space_invaders_part_1.html). Re
+Publishing) (41):  24–33. September 2007. Retrieved 2011-04-20.
+
+r oni
+16.  ^ "Players Guide To Electronic Science Fiction Games" (http: //www.archive.org/stream/electronic-games-
+
+17.  ^ "The Definitive Space Invaders"
+
+r o Gam
+
+c  Gam
+
+r oni
+
+c
+
+t
+
+e
+
+e
+
+t
+
+c  Gam
+
+e
+
+s
+
+c
+
+t
+
+s  1
+
+r  (Imagine
+
+18.  ^ Nick Montfort & Ian Bogost (2009). Rac
+
+Publishing) (41):  24–33. September 2007. Retrieved 2011-04-20.
+t ar
+(http: //books.google.co.uk/books?id=DqePfdz_x6gC&pg=PA66). MIT Press. p. 66. ISBN 0-262-01257-X.
+Retrieved 2011-05-01
+
+19.  ^ Jason Whittaker (2004). Th
+b ook . Routledge. pp. 122–3. ISBN 0-415-16835-X
+20.  ^ Consalvo, Mia (2006). "Console video games and global corporations:  Creating a hybrid culture"
+
+e o c om pu
+
+e am : t
+
+e  h and
+
+s pac
+
+i ng  t
+
+i  Vi
+d
+
+e  b
+
+e  c
+
+e  A
+
+r  s
+
+y
+
+y
+
+s
+
+r
+
+h
+
+h
+
+t
+
+t
+
+e
+
+e
+
+m
+
+b
+
+e
+
+e
+
+t
+
+e
+
+i
+
+d
+
+l
+
+w
+
+d ob
+
+e .c om
+
+i a Soc
+
+r  Gam
+
+i ng  Wor
+
+ August 2007
+
+t y  8 (1):  117–137. doi: 10.1177/1461444806059921
+
+21.  ^ Arnie Katz, Bill Kunkel, Joyce Worley (August 1988). "Video Gaming World". Com pu
+
+(http: //web.archive.org/web/20080228191914/http: //intl-nms.sagepub.com/cgi/reprint/8/1/117.pdf) (PDF). Ne
+Me
+(http: //dx.doi.org/10.1177%2F1461444806059921). Archived from the original
+(http: //nms.sagepub.com/cgi/content/abstract/8/1/117) on 28 February 2008.
+d  (50).
+p. 44. "I'm sure you've noticed that I've made no reference to the Nintendo craze that has repeated the Atari and
+Mattel Phenomenon of 8 years ago. That's because for American game designers the Nintendo is a non-event:
+virtually all the work to date has been done in Japan. Only the future will tell if the design process ever crosses the
+Pacific as efficiently as the container ships and the letters of credit now do."
+Dictionary.com. Retrieved 2007-11-03.
+Retrieved 2009-11-24.
+(http: //www.adobe.com/resources/elearning/pdfs/serious_games_wp.pdf) A
+network.com/view/4163). Retrieved 2009-11-24.
+(http: //web.archive.org/web/20090512205946/http: //www.informationweek.com/blog/main/archives/2007/04/using
+_second_li_2.html). Archived from the original
+(http: //www.informationweek.com/blog/main/archives/2007/04/using_second_li_2.html) on 2009-05-12. Retrieved
+2009-11-24.
+(http: //www.wingchunsantacruz.com/gamesandart/research/newsgames-DiGRA2009.pdf) (PDF).
+
+22.  ^ "platform - Definitions from Dictionary.com" (http: //dictionary.reference.com/browse/platform).
+23.  ^ "How Virtual Reality Military Applications Work" (http: //science.howstuffworks.com/virtual-military.htm).
+24.  ^ *Anne Derryberry, "Definition of Serious games
+25.  ^ "Serious Games in Virtual Worlds:  The Future of Enterprise Business Intelligence" (http: //www.b-eye-
+26.  ^ "Using Second Life As A Business-To-Business Tool"
+
+27.  ^ ""Newsgames:  Procedural Rhetoric meets Political Cartoons" by Mike Treanor and Michael Mateas"
+28.  ^ TAKE ACTION games (http: //takeactiongames.com/TAG/HOME.html)
+29.  ^ "Educate to Innovate | The White House" (http: //www.whitehouse.gov/issues/education/educate-innovate).
+30.  ^ "President Obama Launches "Educate to Innovate" Campaign for Excellence in Science, Technology,
+
+Whitehouse.gov.
+Engineering & Math (Stem) Education | The White House" (http: //www.whitehouse.gov/the-press-office/president-
+obama-launches-educate-innovate-campaign-excellence-science-technology-en). Whitehouse.gov. 23 November
+2009.
+31.  ^ "Video Game Competitions to Expand Stem Learning in the United States" (http: //www.prnewswire.com/news-
+releases/video-game-competitions-to-expand-stem-learning-in-the-united-states-71656557.html). District of
+Columbia:  Prnewswire.com.
+(http: //web.archive.org/web/20080822015626/http: //imaginecup.com/support/faq.aspx#Question1.1).
+Web.archive.org. 22 August 2008. Archived from the original
+(http: //imaginecup.com/support/faq.aspx#Question1.1) on 2008-08-22.
+
+32.  ^ "Imagine Cup Student Competition – Support FAQ's"
+
+11-16.
+of-dev-team), Christopher Reynolds, 18 May 2009, NOW Gamer.
+
+33.  ^ "Educational Games" (http: //nobelprize.org/educational/). Nobelprize.org.
+34.  ^ "The Edge of Reason?" (http: //www.eurogamer.net/articles/the-edge-of-reason). eurogamer.net. Retrieved 2009-
+35.  ^ "Assassin's Creed II dev team triples in size" (http: //www.nowgamer.com/news/513/assassins-creed-ii-triples-size-
+36.  ^ [1] (http: //www.giantbomb.com/downloadable-content/92-329/), Giant Bomb.
+37.  ^ [2] (http: //web.archive.org/web/20110105153819/https: //orders.bethsoft.com/dlc/), Bethesda.
+38.  ^ [3] (http: //www.joystiq.com/2011/04/11/call-of-duty-black-ops-escalation-dlc-xbox-release-date/), Gilbert, Ben,
+39.  ^ Hollywood Reporter interviewing Doug Lombardi, Quote:  "Mods absolutely helped us drive huge sales to 'Half-
+
+11 Apr 2011, Joystiq.
+Life,' "
+
+i ng
+
+40.  ^ Vargas, Jose Antonio (28 August 2006). "In Game World, Cheaters Proudly Prosper"
+
+Life,' "
+(http: //web.archive.org/web/20080506004712/http: //www.hollywoodreporter.com/hr/search/article_display.jsp?
+vnu_content_id=1000484956).
+(http: //www.washingtonpost.com/wp-dyn/content/article/2006/08/27/AR2006082701059.html). Was
+h
+Retrieved 2007-10-24.
+code). 1UP.com. Retrieved 2007-10-24.
+(http: //vgstrategies.about.com/od/faqglossary/a/WhatAreCheats.htm). About.com. Retrieved 2007-10-24.
+(http: //vgstrategies.about.com/od/basicgamingtipstricks/a/whyusecheats.htm). About.com. Retrieved 2007-10-24.
+
+t .
+t on Pos
+41.  ^ a b 1UP Staff. "Cracking the Code:  The Konami Code" (http: //www.1up.com/features/cracking-code-konami-
+42.  ^ a b c Rybka, Jason. "Video Game Cheats and Codes – What Are Cheat Codes?"
+43.  ^ Rybka, Jason. "Why Use Cheats and Codes for Console and PC Games?"
+44.  ^ Murray, Janet (1998). Ham
+45.  ^ Aarseth, Espen J. (21 May 2004). "Genre Trouble"
+
+k . MIT Press. ISBN 0-262-63187-3.
+
+(http: //www.electronicbookreview.com/thread/firstperson/vigilant). Electronic Book Review. Retrieved 2006-06-
+14.
+46.  ^ "IGN:  GDC 2004:  Warren Spector Talks Games Narrative" (http: //xbox.ign.com/articles/502/502409p1.html).
+Xbox.ign.com.
+47.  ^ Guy, Hannah (2007). "Women video gamers:  Not just solitaire" (http: //www.asiancanadian.net/2007/03/women-
+video-gamers-not-just-solitaire.html). PC Wor
+(http: //www.pcworld.ca/news/column/a7fe9b8a0a010408019ac931643ebf2c/pg0.htm) on 12 March 2007.
+
+d  Canad a. Archived from the original
+
+e  Hol od
+
+t  on t
+
+l
+
+e
+
+l
+
+h
+
+e
+
+c
+
+48.  ^ ESA. "Game Player Data" (http: //www.theesa.com/facts/gameplayer.asp).
+49.  ^ Sliwinski, Alexander (10 June 2006). "First-ever survey of gay videogamers"
+
+50.  ^ Sliwinski, Alexander (8 June 2006). "Gay video game player survey"
+
+53.  ^ Fahey, Mike (8 October 2009). "What Do Gay Gamers Want From Their Games?"
+54.  ^ Hyman, Jamie (3 September 2009). "Orlando student conducts gay gamer survey"
+
+51.  ^ Sliwinski, Alexander. "Gay gamer survey results with large hetero inclusion"
+52.  ^ Sliwinski, Alexander (8 October 2009). "New 'gaymer' survey explores sexual identity, interest in games"
+
+(http: //web.archive.org/web/20060618040019/http: //www.washingtonblade.com/thelatest/thelatest.cfm?
+blog_id=7415). Washington Blade. Archived from the original
+(http: //www.washingtonblade.com/thelatest/thelatest.cfm?blog_id=7415) on 18 June 2006.
+(http: //web.archive.org/web/20090101100249/http: //www.innewsweekly.com/innews/?
+class_code=Ga&article_code=2071). In Newsweekly. Archived from the original
+(http: //www.innewsweekly.com/innews/?class_code=Ga&article_code=2071) on 1 January 2009.
+(http: //i.joystiq.com/2007/02/26/gay-gamer-survey-results-with-large-hetero-inclusion/). Joystiq.
+(http: //www.joystiq.com/2009/10/08/new-gaymer-survey-explores-sexual-identity-interest-in-games/#continued).
+Joystiq.com.
+(http: //kotaku.com/5377127/what-do-gay-gamers-want-from-their-games). Kotaku.com.
+(http: //www.watermarkonline.com/w-news/orlando/item/403-orlando-student-conducts-gay-gamer-survey).
+Orlando Watermark.
+aged-2-17-playing-video-games-says-report/?
+utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29).
+Retrieved 12 October 2011.
+(http: //www.strategyinformer.com/news/6545/ccp-reveals-new-eve-online-record-with-54446-concurrent-users).
+Strategyinformer.com.
+57.  ^ Green, C. Shawn;  Bavelier, Daphne (2003). "Action video game modifies visual selective attention". Nat
+u
+(6939):  534–537. doi: 10.1038/nature01647 (http: //dx.doi.org/10.1038%2Fnature01647). PMID 12774121
+(//www.ncbi.nlm.nih.gov/pubmed/12774121). Green & Bavelier.
+Ne
+(http: //web.archive.org/web/20060329174957/http: //www.bcs.rochester.edu/people/daphne/GreenandBavelier.pdf)
+(PDF). Nature/University of Rochester. Archived from the original
+
+58.  ^ Gladwell, Malcolm. "Brain Candy" (http: //www.newyorker.com/archive/2005/05/16/050516crbo_books). Th
+59.  ^ Daphne Bavelier e
+
+55.  ^ "91% Of Kids Aged 2–17 Playing Video Games, Says Report" (http: //techcrunch.com/2011/10/11/91-of-kids-
+
+56.  ^ "CCP reveals new EVE Online record with 54,446 concurrent users"
+
+t  al . (2003). "Action video game modifies visual selective attention"
+
+e  423
+
+ Y or
+
+r .
+
+r
+
+e
+
+w
+
+k
+
+e
+
+r
+
+f
+
+f
+
+i ng
+
+t .
+
+(PDF). Nature/University of Rochester. Archived from the original
+(http: //www.bcs.rochester.edu/people/daphne/GreenandBavelier.pdf) on 29 March 2006. Retrieved 29 April 2006.
+60.  ^ Gee, James Paul (2003). Wh at  Vi
+b ou
+d
+Macmillan. ISBN 1-4039-6169-7.
+61.  ^ James Paul Gee e
+Codenet, Inc. Retrieved 4 December 2007.
+62.  ^ Glazer, S. (2006). "Video games". CQ Re
+63.  ^ "iRobot Receives New Military Orders 14 PackBot Robots"
+
+t  al . (2007). "Wired 11.05:  View" (http: //www.wired.com/wired/archive/11.05/view.html).
+
+r  16:  960–937. cqresrre2006111000.
+
+y  and  Le ar ni ng . Palgrave
+
+e  t o Te ac
+h  u
+
+e o Gam
+
+s  Hav
+
+t  Li
+t
+
+e ar
+c
+
+r ac
+
+s  A
+
+s
+
+e
+
+e
+
+h
+
+e
+
+r . B
+
+t on Pos
+
+i ol . 22 (6):  R197–206.
+
+66.  ^ Green CS, Bavelier D (March 2012). "Learning, attentional control, and action video games"
+
+69.  ^ "Dad charged with killing newborn son after video game session interrupted" (http: //articles.sun-
+
+68.  ^ Prieto, Bianca (6 April 2012). "Lakeland man charged with killing infant son after video game session
+
+67.  ^ Posted:  04/ 9/2012 1: 02 pm Updated:  04/ 9/2012 3: 45 pm. "Jacob Hartley Killed Crying Son For Interrupting
+
+(http: //www.spacedaily.com/reports/iRobot_Receives_New_Military_Orders_14_PackBot_Robots_999.html). 2007.
+Retrieved 25 July 2007.
+64.  ^ Playing Video Games Offers Learning Across Life Span (http: //newswise.com/articles/view/543366/) Newswise.
+Retrieved 17 August 2008.
+65.  ^ a b Boot WR, Blakely DP, Simons DJ (2011). "Do action video games improve perception and cognition?"
+h ol  2:  226. doi: 10.3389/fpsyg.2011.00226
+(//www.ncbi.nlm.nih.gov/pmc/articles/PMC3171788). Fr ont  Ps
+c
+y
+(http: //dx.doi.org/10.3389%2Ffpsyg.2011.00226). PMC 3171788
+(//www.ncbi.nlm.nih.gov/pmc/articles/PMC3171788). PMID 21949513
+(//www.ncbi.nlm.nih.gov/pubmed/21949513).
+(//www.ncbi.nlm.nih.gov/pmc/articles/PMC3461277). Cu
+doi: 10.1016/j.cub.2012.02.012 (http: //dx.doi.org/10.1016%2Fj.cub.2012.02.012). PMC 3461277
+(//www.ncbi.nlm.nih.gov/pmc/articles/PMC3461277). PMID 22440805
+(//www.ncbi.nlm.nih.gov/pubmed/22440805).
+Video Game, Cops Say" (http: //www.huffingtonpost.com/2012/04/09/dad-shakes-baby-jacob-david-
+hartley_n_1412111.html). Hu
+interrupted" (http: //articles.orlandosentinel.com/2012-04-06/news/os-lakeland-dad-infant-dead-
+20120406_1_hartley-claims-lakeland-man-infant-son). Articles.orlandosentinel.com.
+sentinel.com/2012-04-09/news/sfl-video-game-20120409_1_newborn-son-farmville-game-bad-dad). Articles.sun-
+sentinel.com. 9 April 2012.
+(http: //www.dailymail.co.uk/news/article-2126585/Jacob-David-Hartley-killed-3-week-old-son-Colton-CRIED-
+Xbox-marathon.html?ito=feeds-newsxml). Dai
+(http: //www.consolewatcher.com/2006/01/grand-theft-auto-makers-sued-by-la-attorney-for-hidden-porn/). Console
+Watcher. 2006. Retrieved 26 October 2006.
+(http: //www.joystiq.com/2006/08/18/the-political-game-a-brief-history-of-video-game-legislation/). j oy
+joystiq.com. Retrieved 20 January 2013.
+(http: //web.archive.org/web/20110525065730/http: //www.bbfc.co.uk/classification/guidelines/introduction/).
+British Board of Film Classification. Archived from the original
+(http: //www.bbfc.co.uk/classification/guidelines/introduction/) on 2011-05-25. Retrieved 23 November 2011. "The
+BBFC classifies video works which are released as video recordings under the Video Recordings Act 1984. (The
+video games covered by the VRA are those whose exemption is forfeited under section 2(2) because they depict
+human sexual activity, gross violence or other matters of concern.)"
+Bundesstelle für die Positivprä dikatisierung von Computer- und Konsolenspielen. Retrieved 23 November 2011.
+"Eine Kennzeichung mit der PEGI-Altersempfehlung ist in Wien seit April 2008 verpflichtend:  Es dürfen nur
+Spiele verkauft werden, die eine PEGI-Kennzeichnung tragen. Und es dürfen die Spiele nur an Jugendliche
+verkauft werden, wenn diese zumindest das Alter gemä
+der Übergangsfrist alternativ auch die Kennzeichnung der USK."
+(http: //web.archive.org/web/20080624233600/http: //www.elspa.com/assets/files/c/computerandvideogamesabritishp
+
+74.  ^ "Pan European Game Information" (http: //bupp.at/chancen-amp-risiken/jugendschutz/pegi/) (in German).
+
+70.  ^ Laura Cox. "Dad killed three-week-old son because he CRIED too much during Xbox marathon"
+
+72.  ^ McCauley, Dennis. "The Political Game:  A Brief History of Video Game Legislation"
+
+75.  ^ Computer And Video Games:  A British Phenomena Around the World
+
+71.  ^ "Grand Theft Auto Makers Sued By LA Attorney For Hidden Porn"
+
+ß  PEGI-Kennzeichung erreicht haben. Bis Ende 2009 gilt in
+
+73.  ^ "Classification:  Guidelines:  Introduction"
+
+l .
+l y  Mai
+
+i q.c om
+
+s
+
+t
+
+.
+
+(http: //web.archive.org/web/20080624233600/http: //www.elspa.com/assets/files/c/computerandvideogamesabritishp
+henomenonaroundthewo_174.pdf) (PDF)
+
+76.  ^ Global Entertainment and Media Outlook: 2009–2013
+77.  ^ Sambe, Yukiharu (2009). "Japan's Arcade Games and Their Technology"
+
+e nd . Cinema
+
+e
+
+t
+
+e
+
+t
+
+u
+
+l
+
+r
+
+e nc
+
+i ng  B
+
+r  Sc
+i
+
+e  Not
+
+s  i n Com pu
+
+e . Entertainment
+
+78.  ^ Usher, William (11 March 2012). "PC Game Sales Top $18.6 Billion In 2011"
+
+79.  ^ Jou, Eric (19 March 2012). "The Wonderful and Seedy World of Chinese Arcades"
+
+(http: //www.springerlink.com/content/tkv51714762l3645/). Le
+c
+Computing– ICEC 2009 5709:  338. doi: 10.1007/978-3-642-04052-8_62 (http: //dx.doi.org/10.1007%2F978-3-642-
+04052-8_62). ISBN 978-3-642-04051-1. Retrieved 25 January 2012.
+(http: //www.cinemablend.com/games/PC-Game-Sales-Top-18-6-Billion-2011-40337.html). Gam
+Blend. Retrieved 17 March 2012.
+(http: //kotaku.com/5894415/the-wonderful-and-seedy-world-of-chinese-arcades/gallery/1). Kotaku. Retrieved 9
+April 2012.
+80.  ^ a b "U.S. video game industry sales dip in 2004" (http: //gameinfowire.com/news.asp?nid=5650). Game Info
+Wire. 18 January 2005. Retrieved 12 February 2006.
+81.  ^ "Sales & Genre data"
+(http: //web.archive.org/web/20060208194822/http: //www.theesa.com/facts/sales_genre_data.php). Entertainment
+Software Association (ESA). 2004. Archived from the original (http: //www.theesa.com/facts/salesandgenre.asp) on
+8 February 2006. Retrieved 12 February 2006.
+(http: //web.archive.org/web/20080103014804/http: //www.forbes.com/2005/07/18/videogame-piracy-worldwide-
+cx_ld_0718piracy.html). For
+piracy-worldwide-cx_ld_0718piracy.html) on 3 January 2008. Retrieved 29 October 2007.
+(http: //www.reuters.com/article/2008/06/18/us-videogames-idUSN1840038320080618?
+pageNumber=1&virtualBrandChannel=0). reuters. Retrieved 2011-03-12.
+bin/sinodisp/au/cases/cth/HCA/2005/58.html). Austlii.edu.au.
+
+84.  ^ "High Court of Australia enforcing region free" (http: //www.austlii.edu.au/cgi-
+85.  ^ "Nintendo Australia" (http: //www.nintendo.com.au/). Nintendo.com.au.
+86.  ^ "Research report into excessive delays in release of Wii software by
+
+83.  ^ Bond, Paul (18 June 2008). "Video game sales on winning streak, study projects"
+
+s . Archived from the original (http: //www.forbes.com/2005/07/18/videogame-
+
+82.  ^ DiCarlo, Lisa (18 July 2005). "Do Game Publishers Ignore Piracy?"
+
+e
+
+b
+
+(http: //homepages.ihug.co.nz/~aaronights/2007-8-11_report_into_software_releases.pdf) Nintendo in Australia and
+New Zealand regions" by Aaron Rex Davies (PDF)
+nintendo.com.
+
+part-7-the-museum-of-soviet-arcade-machines.php). redpenguin.net.
+Computerspielemuseum.de.
+
+87.  ^ "Australia to Nintendo:  Knock It Off" (http: //www.aussie-nintendo.com/?v=news&p=16776). Aussie-
+88.  ^ "Museum of Soviet arcade machines" (http: //www.15kop.ru/en/). 15kop.ru.
+89.  ^ "Red Penguin:  Review of the Museum of Soviet arcade machines" (http: //www.redpenguin.net/trans-siberian-
+90.  ^ "Computerspielemuseum – Berlin" (http: //www.computerspielemuseum.de/index.php?lg=en).
+91.  ^ "About The MADE" (http: //www.themade.org/content/what-are-we). themade.org.
+92.  ^ "ViGaMus" (http: //www.vigamus.com/en/). vigamus.com.
+93.  ^ Wolf, Mark J. P., ed. (2012). "International Center for the History of Electronic Games (ICHEG)".
+y , and  A
+94.  ^ Jacobs, Stephen (2010-11-22). "Strong's eGameRevolution Exhibit Gives Game History Its First Permanent
+
+Enc
+l ope
+Home"
+(http: //www.gamasutra.com/view/news/31666/Strongs_eGameRevolution_Exhibit_Gives_Game_History_Its_First_
+Permanent_Home.php). Gamasutra. Retrieved 2013-05-26.
+Electronic Games. Retrieved 2013-05-26.
+(http: //americanart.si.edu/exhibitions/archive/2012/games/). Americanart.si.edu. Retrieved 2012-07-08.
+(http: //www.washingtonpost.com/gog/exhibits/the-art-of-video-games,1215143/critic-review.html). Th
+e
+Was
+h
+
+95.  ^ "eGameRevolution" (http: //www.icheg.org/see-do/egamerevolution). International Center for the History of
+96.  ^ "Exhibitions:  The Art of Video Games / American Art"
+97.  ^ Barron, Christina (April 29, 2012). "Museum exhibit asks:  Is it art if you push ‘start’?"
+
+t . Retrieved 02/12/2013.
+
+i ng . p. 329.
+
+t  of  Gam
+
+i a of  Vi
+d
+
+e o Gam
+
+t on Pos
+
+h nol og
+
+e , Te
+c
+
+s : Th
+
+e  Cu
+
+i ng
+
+y
+
+r
+
+r
+
+c
+
+d
+
+e
+
+l
+
+t
+
+u
+
+98.  ^ Kennicott, Philip (March 18, 2012). "The Art of Video Games"
+
+98.  ^ Kennicott, Philip (March 18, 2012). "The Art of Video Games"
+
+(http: //www.washingtonpost.com/gog/exhibits/the-art-of-video-games,1215143/critic-review.html). Th
+Was
+h
+
+t . Retrieved 02/12/2013.
+
+i ng
+
+e
+
+t on Pos
+References
+
+e  De
+
+s
+
+e  Gam
+
+Lieu, Tina (August 1997). "Where have all the PC games gone?"
+(http: //web.archive.org/web/19980112155115/http: //www.cjmag.co.jp/magazine/issues/1997/aug97/0897pcgames.ht
+ml). Computing Japan. Archived from the original
+(http: //www.cjmag.co.jp/magazine/issues/1997/aug97/0897pcgames.html) on 12 January 1998.
+Costikyan, Greg (1994). "I Have No Words & I Must Design" (http: //www.costik.com/nowords.html).
+Crawford, Chris (1982). "The Art of Computer Game Design" (http: //library.vancouver.wsu.edu/art-computer-
+game-design).
+Salen, Katie;  Eric Zimmerman (2005). Th
+y . The MIT Press.
+ISBN 0-262-19536-4.
+Smuts, Aaron (2005). "Are Video Games Art?" (http: //www.contempaesthetics.org/newvolume/pages/article.php?
+articleID=299).
+Blodget, Henry (12 April 2005). "How to Solve China's Piracy Problem"
+(http: //www.slate.com/articles/arts/go_east_young_man/2005/04/how_to_solve_chinas_piracy_problem.html).
+Slate.com. Retrieved 12 February 2006.
+Winegarner, Beth (28 January 2005). "Game sales hit record highs" (http: //www.gamespot.com/news/game-sales-
+hit-record-highs-6117438). Gamespot. Retrieved 12 February 2006.
+John Wills (1 October 2002). "Digital Dinosaurs and Artificial Life:  Exploring the Culture of Nature in Computer
+and Video Games". Cu
+h
+doi: 10.1080/1362517022000047334 (http: //dx.doi.org/10.1080%2F1362517022000047334).
+Williams, J. P., & Smith, J. H., eds. (2007). The players' realm:  studies on the culture of video games and gaming.
+Jefferson, N.C.:  McFarland & Co. ISBN 978-0-7864-2832-8
+
+)  (Routledge) 6 (4):  395–417.
+
+s  of  Pl ay  A nt
+
+r nal  f or  Cu
+
+g n Re ad
+
+r al  Val
+u
+
+r al  Re
+
+s
+
+s  ( Jou
+
+h ol og
+
+ Ru
+
+l
+
+e
+
+e ar
+c
+
+r : A
+
+l
+
+t
+
+u
+
+i
+
+e
+
+e
+
+l
+
+t
+
+u
+
+External links
+
+Video Games (http: //www.dmoz.org/Games/Video_Games/) on the Open Directory Project
+The Virtual Museum of Computing (VMoC) (http: //archives.icom.museum/vlmp/computing.html)
+Tom Chatfield writes (http: //www.prospectmagazine.co.uk/2008/06/rageagainstthemachines/) on the
+culture and future of video games for Pr os pe
+CBC Digital Archives:  The Arcade Age (http: //archives.cbc.ca/arts_entertainment/media/topics/3607/)
+An interactive video game history timeline (http: //www.mauriciogiraldo.com/vgline/beta/)
+Video Game museum in Paris (http: //www.museedujeuvideo.com/)
+Off Book:  Video Games (http: //video.pbs.org/video/2160226443) Documentary produced by Off Book
+
+t
+
+c
+
+Retrieved from "http: //en.wikipedia.org/w/index.php?title=Video_game&oldid=589697711"
+Categories:   Video games
+
+This page was last modified on 8 January 2014 at 01: 57.
+Text is available under the Creative Commons Attribution-ShareAlike License;  additional terms may
+apply. By using this site, you agree to the Terms of Use and Privacy Policy. 
+Wikipedia®
+ is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+

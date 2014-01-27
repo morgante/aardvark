@@ -1,0 +1,2342 @@
+Atomic Collisions and Local Thermodynamic Equilibrium in Stellar Atmospheres
+Author(s): B. E. J. Pagel
+Source: Proceedings of the Royal Society of London. Series A, Mathematical and Physical
+Sciences, Vol. 306, No. 1484 (Jul. 30, 1968), pp. 91-118
+Published by: The Royal Society
+Stable URL: http://www.jstor.org/stable/2416375 .
+Accessed: 06/01/2014 01:30
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+ .
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+ .
+
+The Royal Society is collaborating with JSTOR to digitize, preserve and extend access to Proceedings of the
+Royal Society of London. Series A, Mathematical and Physical Sciences.
+
+http://www.jstor.org 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Proc.  Roy.  Soc.  A.  306,  91-118  (1968) 
+Printed  in  Great Britain 
+
+Atomic  collisions  and local thermodynamic equilibrium 
+
+in stellar atmospherest 
+
+BY  B.  E.  J.  PAGEL 
+
+Royal  Greenwich Observatory 
+
+(Communicated by M.  J.  Seaton,  F.R.S.-Received 
+
+10 January  1968) 
+
+Theoretical  and  observational  evidence  for  the  role  of  collisions  with  electrons  and  neutral 
+atoms  in  establishing  the  populations  of  atomic  energy  levels  in  stellar  atmospheres  are 
+reviewed,  with  special  reference  to  the  problem  of  defining  the  range  of  validity  of  the 
+approximation  of  local  thermodynamic  equilibrium.  The  discussion  refers  to  stellar  con- 
+tinuous  spectra,  absorption  lines and emission  lines believed  to come from extended  envelopes 
+surrounding  certain  hot  stars. 
+
+1.  INTRODUCTION 
+
+One  of  the  chief  aims  of  stellar  spectroscopy  is  the  diagnosis  of  interesting  para- 
+meters  such  as  effective  temperature,  surface  gravity,  velocity  fields  and  the 
+abundances  of the  elements.  These  parameters  are related  to  observable  features 
+(continuum  intensity  at  different  wavelengths,  and  profiles  or total  intensities  of 
+absorption  lines)  by  a series  of theoretical  assumptions  on the  structure  of  stellar 
+atmospheres.  The  most  natural  assumptions  to  begin  with  are  (a) that  the  atmo- 
+sphere  is  in  radiative  equilibrium,  (b) that  it  is  in  hydrostatic  equilibrium,  and 
+(c) that  it  is  in  a  steady  state.  These  assumptions  are  each  self-consistent  within 
+quite  a wide range  (though  not the  whole range)  of stellar  atmospheric  parameters, 
+and whether  or not  all of them  are valid  in any particular  case is ultimately  decided 
+by  observation. 
+
+To predict  a stellar  spectrum  for comparison  with  observation,  it  is necessary  to 
+use assumptions  such as (a), (b) and  (c) to  construct  a 'model  atmosphere'  in which 
+the  kinetic  temperature,  the  electron  pressure  and  the  distribution  of  atoms 
+over  their  various  states  of  excitation  and  ionization  are  given  as  functions 
+of  optical  depth.  The  most  logical  procedure  for  doing  this  is  to  formulate  the 
+equations  of  statistical  equilibrium  expressing  the  constancy  of  the  population 
+of  each  atomic  state,  write  down  equations  of radiative  transfer  for  each  of  the 
+important  spectral  lines  and  continua,  and  solve  them  subject  to  conditions  (a) 
+and  (b). 
+
+This  rigorous  procedure  requires  knowledge  of  all  the  radiative  and  collisional 
+rates  for the  processes  affecting  the  statistical  equilibrium,  and  furthermore  leads 
+to  a  complicated  system  of  coupled  differential  equations  which  have  only  been 
+solved  in certain  special  cases and mostly  quite recently  by using modern electronic 
+
+t  Based  on  a  review  presented  at  the  International  Astronomical  Union  Colloquium  on 
+for  Laboratory  Astrophysics,  Boulder, 
+
+Atomic  Collision  Processes  held  at  the  Joint  Institute 
+Colorado,  July  1966. 
+
+[91] 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+92 
+
+B.  E.  J.  Pagel 
+
+computers.  In practice,  therefore,  both the diagnostic  problem and the  construction 
+of a model  are often  enormously  simplified  by  introducing  the  assumption  of local 
+thermodynamic  equilibrium  (l.t.e.),  according to which the atomic level  populations 
+are given  at  every  point  in the  atmosphere  by  applying  the  Boltzmann  and  Saha 
+equations  with  the  local temperature  and density.  Now  in a steady  state  the  distri- 
+bution  of kinetic  energy  among  electrons,  atoms  and ions is accurately  Maxwellian 
+under a wide range of conditions,  because  elastic  collisions  are much  more frequent 
+than  other interactions  (Bohm  & Aller  I947),  and the  electron  kinetic  temperature 
+is  virtually  equal  to  that  of  the  atoms  and  ions  (Bhatnagar,  Krook,  Menzel  & 
+Thomas  I955).  Consequently  l.t.e.  gives  a very  good  approximation  if the  relevant 
+atomic  states  are populated  and  depopulated  much  more  frequently  by  collisions 
+than  by radiative  processes,  since  collisions  couple the  level  population  to  the  local 
+kinetic  temperature.  The radiation  field, on the  other hand,  depends  on the  popula- 
+tions  (and  hence  temperatures)  in  the  whole  portion  of  the  atmosphere  that  is 
+'visible'  from the  particular  point  being  considered.  In  many  laboratory  plasmas, 
+electron  densities  are high  ( >  1014 cm-3)  and radiation  fields weak,  so that  the levels 
+responsible  for, say, the Balmer lines have their l.t.e.  populations  relative  to protons 
+and  electrons  (Griem  I964).  In  stellar  atmospheres,  however,  where  the  electron 
+densities  are generally  <  1014 cm-3  and radiation  fields  strong,  it  is frequently  the 
+latter  which dominate,  except  at such great optical  depths that  radiative  transitions 
+are effectively  cancelled  out by the  inverse  processes.  Consequently  the  assumption 
+of  l.t.e.  in  stellar  atmospheres  is  not  really  self-consistent.  This  point  has  been 
+particularly  stressed  by  Thomas,  Jefferies  and  their  collaborators  (see Thomas  & 
+Athay  I96I;  Thomas  I965a),  who  have  developed  a  non-l.t.e.  theory  which  is 
+especially  useful in discussing  problems  in which  the  departures  from l.t.e.  are large 
+and radiative  transfer effects  important,  e.g. those  arising in the solar chromosphere 
+and  in the  theory  of strong  spectral  lines.  However,  as  an  approximation  to  what 
+at those  somewhat  deeper levels  where  stellar 
+happens  at  photospheric  levels-i.e. 
+continua,  weak  absorption  lines  and the  wings  of strong  absorption  lines  arise-the 
+l.t.e.  approximation  has generally  proved  to  be accurate  enough  to  be a very  useful 
+diagnostic  tool.  The present  article  reviews  the  justification  for this  statement,  the 
+reasons  why  it  is  true  (in which  atomic  collisions  play  varying  roles  in  different 
+circumstances)  and  the  effects  of  collisions  on  continua  and  absorption  lines  in 
+general,  particularly  in the  spectrum  of the  Sun; some aspects  of this  problem  have 
+previously  been discussed from a somewhat  different point  of view by Uns6ld  (i 963) . 
+We  shall  also  make  some  comments  on the  role of collisions  in extended  envelopes 
+surrounding  certain  hot  stars with  emission  lines  of hydrogen  and  helium. 
+
+2.  STELLAR  CONTINUOUS  SPECTRA 
+
+An  atmosphere  having  geometrical  depth  much  smaller  than  the  stellar  radius 
+can be  considered  as though  it  were  stratified  in plane  parallel  layers.  In  this  case, 
+a  combination  of  the  assumptions  of radiative  equilibrium  and  l.t.e.  applied  to  a 
+grey  atmosphere  (opacity  independent  of wavelength)  leads  to  the  prediction  that 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+93 
+
+temperature  T increases  with  optical  depth  T according  to  the  lawt 
+
+T4 =  IT'  f[T + q(T)] -  T 4 
+
+f[  +  2],  (l 
+
+where  Teff is  a  constant  (the  effective  temperature)  and  is  defined  by  force-fitting 
+Stefan's  law  to  the  total  flux  at  the  surface,  Y  =  oT4ff.  In  the  non-grey  case 
+(opacity  variable  with  wavelength),  an  approximate  relation  similar  to  (1) can  be 
+derived  in terms  of a suitably  defined  mean  optical  depth  T; a more exact  relation 
+T(,r,) in  terms  of  monochromatic  optical  depth  can  be  obtained  numerically  by 
+iteration. 
+
+In  general  the  continuous  opacity  consists  of  two  components:  absorption,  in 
+which  a photon  causes  photo-ionization,  for example,  and its  energy  is transferred 
+to  the  electron  gas  through  collisions;  and  scattering,  in  which  the  photon  is  re- 
+emitted  at  nearly  the  same frequency.  One can define an  absorption  coefficient  K, 
+and  scattering  coefficient  o;  such that 
+
+dTV = 
+
+-p(K+ov) 
+
+dz 
+
+where p  is the  density.  Examples  of scattering  are Thomson  scattering  in very  hot 
+stars  (O stars  and  B  super-giants)  and  Rayleigh  scattering  in  cool  giants  (late 
+K or M); but  continuous  scattering  plays  a very  minor role in stars  of intermediate 
+spectral  types  A, F,  G and moderate  or low luminosity  such  as the Sun  (dwarf G 2). 
+The  emergent  flux  is  given  by  the  integral 
+
+Yv  =  2ir{  S,(Tr) E2(Tr) dT-, 
+
+00 
+
+(2) 
+
+where 
+
+E2(x) 
+
+y-2exydy 
+
+e-Xd3, 
+
+and the  'source  function'  S,(Tr) is defined  as the  ratio  of emission  per unit  volume 
+into  one steradian  to  absorption  per unit  length  and is given  in l.t.e.  by 
+
+Sv (TV)  =7(~+~ 
+47r(v+) 
+____ 
+
+v 
+
+v 
+
+- 
+
+~,+K 
+Kv+S 
+
+BvET(7Tv)1+ 
+
+' 
+O'v+ 
+
+j J(Ti), 
+
+(3) 
+
+where  Bv(T)  is  the  Planck  function  and  J,  the  specific  intensity  averaged  over 
+direction.  It is through the BV term in (3) and relations  (1) and (2) that  measurements 
+of  intensity  in stellar continua  give information  on  Teff;  for convenience  we neglect 
+o-V in what  follows  so that,  in l.t.e.,  S,  =  B,(T).  In the  case of the  Sun, more detailed 
+information  on Sv(Tr) can be derived  from limb-darkening  observations,  which thus 
+provide  an empirical  check  on the  assumptions. 
+
+Wildt  (I956)  showed  on thermodynamic  grounds that  S, cannot  be equal to BV in 
+those  layers  of  a  grey  radiative  atmosphere  where  the  net  outward  flux  O-T4ff is 
+comparable  to  the  total  flux,  i.e.  in the  visible  layers  of a star.  The thermodynamic 
+argument  does not  give  a means  of readily  estimating  the  departure  of  Sv from Bv, 
+
+t  Optical  depth  in  a  stellar  atmosphere  may  be  defined  in  terms  of the  attenuation  of  an 
+upward-directed  beam  of  radiation  when  it  emerges  after  emission  from  the  relevant  layer: 
+I= 
+
+lo e-T. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+94 
+
+B.  E.  J.  Pagel 
+
+but this can be done on the basis of a microscopic examination of the  processes 
+of  absorption and re-emission. Consider a transition between a narrow band  of 
+energy states u belonging to  an upper level and another narrow band of energy 
+states  I belonging to  a  lower  level;  each  level  may  be  either  continuous or 
+discrete, and the two bands are considered to be so narrow that the variation of 
+the emission and absorption coefficients across either band is negligible. Then the 
+source function is immediately given in terms of the Einstein coefficients (cf. Milne 
+I930): 
+
+_____ 
+
+X NuAu, 
+
+-4giuc1p  -,  NB,.  - NuBul 
+
+2hV3  (N/g 
+c2/N/g 
+
+)( 
+7 
+
+where gl, gu are the statistical  weights of  the  bands. The general expression (4) 
+reduces to  Bp(T) if  NI/Nu has its  thermal-equilibrium value; it  follows that,  for 
+free-free absorption between two  continuum states,  S, = B,(T),  where T  is  the 
+electron temperature, to a high degree of accuracy, because of the Maxwell velocity 
+distribution. For bound-free absorption, it is convenient to introduce dimension- 
+such that the population 
+less non-equilibrium factors, bi, following Menzel (I937), 
+of the bouird level i is 
+
+Xi =  bbileNjN(T), 
+
+where Ne, N+ are the densities of electrons and positive ions (or neutral atoms if 
+state i belongs to a negative ion) andf(T)  is given by substituting the local electron 
+temperature T in the Boltzmann and Saha equations (bi =  1 in l.t.e.).  Hence the 
+free-bound source function is 
+
+Ski  = 
+
+2hV3 
+
+1 
+
+b3 b  ehvlkT _ 
+
+5 
+( 
+
+where we use the suffix k to denote a continuum state.  Ski  will thus approximate 
+to B,(T) either: (i) if the statistical equilibrium of state i relative to the continuum 
+is governed by collisional processes; or (ii) if it is governed by radiation fields which 
+for some reason approximate to B,(T) in the relevant ranges of wavelength. It will 
+be shown below that condition (i) normally holds in the case of H-,  which provides 
+the main source of continuous opacity in stars (other than some supergiants) of 
+spectral types  between A5  and K5  (8000?K >  TRff >  3800?K). For hotter stars, 
+in  which  continuous absorption is  mainly  due  to  photo-ionization of  neutral 
+hydrogen, the situation is more complicated, but here it seems that  (ii) is satisfied 
+to quite a high degree of accuracy in radiative equilibrium because of the frequency 
+of collisional interactions of highly excited levels among themselves and with the 
+continuum. The two cases are discussed below. 
+
+2*1.  The case of H 
+
+In solar-type stars, hydrogen is mainly neutral and electrons are supplied either 
+by a small degree of ionization of hydrogen or by a high degree of single ionization 
+of metals, which are present in the Sun with a total atomic abundance of about 10-4 
+relative  to hydrogen.  Typical  densities  in the photosphere  are NH  =  1016 to  1017 cm-3 
+for neutral hydrogen and NW =  1012  to  1013 cm-3  for electrons. The absorption and 
+emission of radiation in the visible part of the spectrum mainly occur through photo- 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic collisions in  stellar atmospheres 
+
+95 
+
+detachment  and  recombination  of the  H-  ion: 
+
+H  +hv(>  0O747eV)  H +?e, 
+
+while in the infrared beyond  1 6 jtm, radiative  transfer is due to free-free  transitions 
+of the  H  system. 
+
+The  statistical  equilibrium  of  H 
+
+is  governed  by  three  types  of  interaction: 
+radiative,  collisions  with  electrons  and  collisions  involving  neutral  particles. 
+show  that  the  rate  of  detachment  by  electron 
+Calculations  by  Geltman  (I960) 
+collisions  is negligible  in  comparison  with  that  of photo-detachment 
+in the  visible 
+layers  of the  Sun; but  the  large  value  of NI/N, suggests  that  collisions  with  neutral 
+particles  may  be much  more important.  In  1959, A. Dalgarno  pointed  out  that  the 
+rate  coefficient  for the  associative  detachment  reaction 
+
+H-  + H  --  H2+  e 
+
+was likely  to be of the  order of  10-9  5 cm3 s-1, and this  figure implies  that  associative 
+detachments  are more frequent  than  photo-detachments  for optical  depths  T0 in the 
+i.e.  at  all  depths  contributing 
+visible  region  (A5000)  exceeding  10-3  (Pagel  I959), 
+appreciably  to  the  continuum.  A  slightly  higher  rate  coefficient  for  associative 
+detachment  was  estimated  afterwards  by  McDowell  (I96I). 
+
+Associative  detachment  and  its  inverse  lead  to  a  close  coupling  between  the 
+dissociation  equilibria  of H  and  H2,  so that  a proper  discussion  of the  solar conti- 
+nuum  source function  requires an investigation  of the  molecular  equilibrium  of H2. 
+This  was  carried out  by  Uns6ld  (I963),  who  pointed  out  the  importance  of three- 
+body  collisions 
+
+31  H 
+
++1H2 
+
+in this  context  and estimated  that  the  rate  of formation  of H2 by  this  reaction  was 
+so  much  greater  than  that  by  associative  detachment  from  H-  that  NH-/NH 
+is 
+correctly  given  by  Saha's  equation  over  a wide range  of conditions. 
+
+Advances  in atomic physics  in recent years have made it worthwhile  to re-examine 
+the  rates  of  various  reactions  entering  the  H  and  H2 equilibria  (Lambert  I965; 
+Lambert  & Pagel  I968).  New  calculations  of  electron  resonances  in  the  H_  ion 
+(Bardsley,  Herzenberg  & Mandl  I966)  have  enabled  Dalgarno  & Browne  (I967) 
+to  give  a revised  estimate  for the  rate  of associative  detachment 
+
+kE3 =  1X3 x  10-9  cm3  S-1 
+
+at  solar  photospheric  temperatures,  the  dependence  on  temperature  being  very 
+slight.  The theoretical  coefficient for T  =  300 ?K exceeds  that  recently  measured  in 
+the  laboratory  (Schmeltekopf,  Fehsenfeld  & Ferguson  I697)  by  a factor  of  1-5, so 
+that  an assumed  value 
+(6) 
+
+=  1-0 x  10-9 cm3 s-1 
+
+k.H 
+
+for the  Sun is unlikely  to  be in error by  as much  as a factor  of 2. 
+
+For the three-body  reaction,  Uns6ld's  estimate  of the rate coefficient now appears 
+to be substantially  too high in view  of experimental  measurements  in shock tubes  at 
+temperatures  between  3000  and  5000?K  (Gardiner  & Kistiakowsky 
+I96I;  Patch 
+i962;  Rink  i962;  Sutton  i962;  Jacobs,  Giedt  & Cohen  I967).  These  measurements 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+96 
+
+B.  E.  J.  Pagel 
+
+still  scatter  over  a factor  7,  but  a fair average  would  suggest  a rate  coefficient 
+
+k3lf  -10-320 
+
+cm6  S-1 
+
+5040/T)  or  about  1/100  of  the  value  used  by  Unsold.  Other  relevant 
+(where  0 
+reactions  that  we  have  considered  are charge neutralization  (Bates  & Lewis  I955) 
+
+H  + H+--  H(1,)  + H(ns, p  or d) 
+
+and  decomposition  of  molecules  such  as OH  (Kaufman  & Del  Greco  I963) 
+
+OH + H --  H2 + 0 
+
+However,  the  first  of  these  reactions  is  negligible  in  comparison  with  associative 
+detachment  for stars of spectral  type  later than  F 5, while the  second is negligible  in 
+comparison with three-body  collisions for spectral types  earlier than K 2. It is readily 
+shown  that  the  rate  of formation  of H2 by  direct  recombination  falls  short  of that 
+due to three-body  collisions  by many  orders of magnitude  at photospheric  densities 
+because  the  stabilizing  transition  to  the  ground  state  is highly  forbidden  (Gould  & 
+Salpeter  I963). 
+
+Assuming  that  the  equilibria  of  H  and  H2  are  governed  entirely  by  photo- 
+ionization,  associative  detachment  and  three-body  collisions,  together  with  the 
+inverse reactions,  we suppose that  the densities  NH, Ne and the electron temperature 
+T are specified  at  some  optical  depth  and write 
+
+N1H-=b-NH-),  NH2 =  b2N 
+
+where  the  'stars'  refer to  densities  computed  assuming  l.t.e.  Complications  intro- 
+duced by the fact  that  associated  detachment  leads to the  formation  of H2 in highly 
+excited  vibrational  states  are discussed  by  Lambert  and  Pagel  (I968)  and  shown 
+to  have  only  a minor  effect  on  the  value  of  b_. We  now  introduce  dimensionless 
+numbers  o,  ,8, W, defined  by  the  equations 
+
+NH3H3I =  aNd-417T fI  cB,(T)  dv/hv 
+
+NH NH- kl  =  8lN*-41T{  av B,(T)  dv/hv 
+
+00 
+
+c~~~~~~o 
+
+f 
+
+, J, dv/hv =  W 
+
+av B,(T) dvlhv, 
+
+where  ac is the  absorption  cross-section  of H_  (corrected  for stimulated  emission), 
+and use the  steady-state  conditions  for H  and H2 to  derive the  values  of b_ and b2: 
+
+b= 
+
+b  w +a+?wl 
+1+1/13 
+1+cij?c/3 
+-1  +w/f 
+-  W + oc + Wal,8 -  1 + W//3 ' 
+
+b  _ 
+l+o+Wci/3 
+b2  =WI++W/fl 
+W +oc+ Woc//-8 
+
+1* 
+
+since  a  >,  100 for  T0  ,  10-3  in  the  Sun  and  0-8  <  W <  1-6. With  k11 given  by  (6), 
+,8 increases from about  2 at T0 =  10-3  to 30 at T0 =  10-1, so that  b_ in the photosphere 
+(%r >  0.005)  and  low  chromosphere  does  not  depart  substantially  from  unity  even 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmrospheres 
+
+97 
+wheni W does.  It  follows  that  S.  =  B^(T) in  the  visible  and  infra-red  continua  of 
+solar-type  stars,  and  also  that  the  non-l.t.e.  radiative  mechanism  for  heating  the 
+low  chromosphere  put  forward  by  Cayrel  (I963) 
+can  lead  to  only  a  small  rise  in 
+electron  temperature. 
+
+Turning  to  stars  other  than  the  Sun,  we  find  that  the  l.t.e.  condition  is  safely 
+fulfilled  in  dwarf  stars  cooler  than  about  spectral  type  FO(Teff =  7200 ?K).  In  K 
+giants,  associative  detachment  becomes  unimportant 
+in  the  very  outer  layers, 
+Ir  <  0 03,  but  departures  from  l.t.e.  in  these  layers  will  not  have  any  appreciable 
+effect  on  the  observable  continuum  from  a  star.  For  this  and  other  reasons  we 
+disagree  with  the  suggestion  by  Strom  (I967)  that  the  infra-red  colour  indices  of 
+K  giants  are affected  by  departures  from l.t.e.  (Lambert  & Pagel  I968).  It  is  more 
+difficult  to  make  predictions  about  the  ultraviolet  solar  spectrum  (A <  3600 A), 
+where  the  continuous  absorption  is  due  to  neutral  metals  and  possibly  other,  un- 
+known,  sources,  rather  than  to  H  . 
+
+2-2.  Early-type  stars with neutral hydrogen opacity 
+
+The  case of H-  is especially  simple  because  there  is only  onie bound  level  and the 
+dissociative  equilibrium  is  governed  by  collisions.  In  a  hotter  star  of  type  AO 
+104 ?K) or earlier, the  absorption  is due to neutral  hydrogen  which  has many 
+(Teff 
+energy  levels  and correspondingly  complicated  equations  of statistical  equilibrium. 
+Since hydrogen  is now ionized to an extent  of 10 00  or more (Mihalas I965),  electrons 
+are  at  least  cornparable  in  abundance  with  neutral  hydrogen  atoms  and  conse- 
+quently  more  effective 
+in  promoting  collisional  interactions;  but,  at  enlergies 
+corresponding  to  optical  or  u.v.  wavelengths, 
+these  interactions  are  generally 
+greatly  exceeded  in frequency  by  radiative  transitions. 
+
+I965),  Kalkofen 
+
+The  problem  of early-type  stellar  atmospheres  in radiative  equilibrium  and  in  a 
+steady  state  has  been  considered  by  Lecar  (I964, 
+(I964), 
+Strom  & Kalkofen  (I966,  I967),  Kalkofen  & Strom  (I966),  Mihalas  (I967a,  b) and 
+Mihalas  & Stone  (I968).  The  approach  used  by  Lecar  consisted  in  computing  a 
+model under the  assumption  of l.t.e.  and then  calculating  steady-state  atomic popu- 
+lations  by  solving  the  equations  of  statistical  equilibrium  for  hydrogen,  taking 
+into  account  ten  energy  levels  and  the  continuum  and  assuming  collisional  and 
+radiative  rates  based  on  the  l.t.e.  model.  Lecar  employed  experimental  cross- 
+sections 
+-12 and  oylk for excitation  of Lyman-a  and  Lyman  continuum  respectively 
+measured  by  Fite  and  his  collaborators  (I958, 
+I959)  and  estimated  cross-sections 
+for  higher  levels  using  an  approximation  developed  by Milford (I960)  for  bound- 
+bound  transitions  and  the  classical  formula  of  Thomson 
+for  bound-free 
+transitions: 
+
+(I912) 
+
+Qik(E) 
+
+~ 
+
+2E72  (-17 
+~ 
+lI 
+
+,(7) 
+
+where Eik  is the ionization  energy from level  i and e ( >  1) is the energy of the electron 
+in  units  of  Eik.  For  Eik>  kT (or 1 eV  for  an  AG star),  Lecar  derives  the  following 
+formula for the ratio of collisional ionizationst  to the corresponding photo-ionizations 
+
+t  A  general  semi-empirical 
+
+by  Lotz  (I967). 
+
+formula  for  collisional 
+
+ionization  rates  has  recently  been  given 
+
+7 
+
+Vol.  306. 
+
+A. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+98 
+
+B.  E.  J.  Pagel 
+
+in a Planckian  radiation  field: 
+
+Pu 
+Pik 
+
+'l 
+-ye 
+4  x1017  kT 
+
+2 
+
+(8) 
+
+At  the  optical  depths  contributing  most  to  the  visible  flux,  Mihalas's  models  show 
+that  the  electron  density  in main-sequence  AO stars  (log10 g 
+4) is somewhat  above 
+>  1 when  i  >  2, in the  Paschen  and  higher  continua;  for 
+1014 cm-3,  so that  Cik/Pik 
+giant  stars,  collisions  start  to  dominate  in the  Brackett  continuum.  Since  the  line 
+transitions  almost  balance  out owing to high local opacity,  one may therefore expect 
+l.t.e.  populations  relative  to Ne N+ to prevail  among the higher levels  with  i  >  3, but 
+departures  for the  Lyman  and  Balmer  levels.  Lecar  (I964)  in fact  found  negligible 
+departures  from l.t.e.  in  all level  populations  for mean optical  depth 
+even 
+when  collisions  were neglected  altogether,  but  subsequent  investigation  taking  the 
+line transfer problem into  account  (Lecar  I965)  showed  that  this result  was in effect 
+the  first  step  of  an  iteration  process  which  does  not  reach  convergence.  In  other 
+words, the  l.t.e.  solution  is self-consistent  to  a certain  degree of approximation,  but 
+its  accuracy  is not  demonstrated  by  this  method. 
+
+>  10-4, 
+
+- 
+
+The reasons for the failure of this approach are connected  with the large scattering 
+terms  in the  line source-functions  and the  enormous  difference in opacity  or optical 
+free  path  between  the  lines  and  continuum  (Lecar  I965;  Mihalas  i967a).  On  the 
+other  hand,  the  latter  feature  suggests  an immediate  simplification,  since radiative 
+transitions  in the lines are virtually  cancelled  out by the inverse  transitions  in those 
+layers that  contribute  significantly  to the  continuum  (Kalkofen  I964;  cf. also  ? 3.1). 
+Consequently  it  is a good  approximation  to  omit  the  radiative  transitions  between 
+bound levels  in the steady-state  equations  and by this means the iterative  procedure 
+is made  convergent.  Strom  & Kalkofen  (I966)  used  this  method  to  compute  a grid 
+of models  for main-sequence  stars  with  9000 ?K <  Teff <  15 000 ?K (spectral  types 
+A 0  to  B 5)  allowing  departures  from  l.t.e.  in  the  first  three  levels  of  hydrogen. 
+Collisional  transitions  between  bound  levels  were  first  treated  in  a schematic  way 
+by  altering  the  bound-free  rates,  but  afterwards  they  were  included  explicity 
+(Kalkofen  & Strom  I966)  using  the  formula  given  by  Seaton  (I962)  on the  basis  of 
+an  empirical  adjustment  of  the  Bethe  approximation.  When  this  was  done,  the 
+departures from l.t.e.  were found to be smaller than in the more schematic  treatment, 
+and  quite  sensitive  to  the  collision  cross-sections,  but  probably  large  enough  to  be 
+measured. 
+
+A  more  detailed  treatment  of  this  problem  has  been  carried  out  by  Mihalas 
+(I967  a),  who  uses  a  similar  method,  but  allows  for  departures  from  l.t.e.  in  ten 
+levels  of the hydrogen  atom  instead  of only three and estimates  what  are reasonably 
+likely  to  be upper and lower limits  to  the  collision  cross-sections  using  respectively 
+a  modification  of  the  Bethe  approximation  and  theoretical  results  due  to  Saraph 
+(I964).  With  either  set  of  cross-sections,  the  predicted  departures  from  l.t.e.  are 
+greatly  reduced,  apparently  because  collisions  between  bound  states  (especially  for 
+An =  + 1) have  an important  effect  in  coupling  the  lower  levels  to  the  higher  ones 
+which  are themselves  closely  coupled  to the  continuum.  When  the  higher levels  are 
+assumed to have exactly  their l.t.e.  populations,  collisional transitions  between  them 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+99 
+
+are  cancelled  out  by  detailed  balancing.  Further  papers  (Mihalas  i967b;  Mihalas 
+& Stone  I968)  take  into  account  a more detailed  theory  of  transfer  in  the  Lyman 
+continuum  and  departures  from l.t.e.  in  He  i  and  He  ii.  The  results  are that,  for 
+a series of models with  10 000 OK <  Teff <  36 000 OK and log1o g =  4 (main sequence) 
+or 3 (between  giants  and supergiants),  departures  from l.t.e.  populations  exceeding 
+and  their  effects  on 
+a  few  per  cent  are  confined  to  a  very  thin  layer,  r0 <  10-3, 
+such  measurable  features  as the  jump  in  the  continuous  spectrum  at  the  Balmer 
+(The  main 
+limit  are  in  most  cases  too  small  to  be  detected  observationally. 
+exception,  within  this  range  of  parameters,  is provided  by luminous  AG giants,  for 
+whiclh the  logarithm  DB of the  intensity  ratio  at  the  Balmer  jump  is reduced  from 
+0-64  (l.t.e.)  to  0-54  (non-l.t.e.)).  In  the  Lyman  continuum,  however,  b,  can  reach 
+values  of  4  or  5  at  appreciable  optical  depths  (Mihalas  i967b);  here  the  exact 
+numerical  results  are not  final  because  the  assumption  of  complete  opacity  in  the 
+lines  may  not  be valid. 
+
+An  observational  test  for the  presence  of departures  from l.t.e.  has been  pointed 
+out  by  Strom  & Kalkofen  (I967).  Although  the  Balmer  discontinuity  on its  own is 
+sensitive  to  effective  temperature  and  rotation,  the  ratio  of  Balmer  to  Paschen 
+is  quite  insensitive  to  these  factors  and  chiefly  depends  on  the 
+discontinuities 
+departures  from l.t.e.  Predicted  values  of DB/Dp,  for Teff =  10 000 OK and log g =  4, 
+l.t.e.,  6-6;  steady  state,  6-5.  Strom  & Kalkofen 
+are  as  follows:  Mihalas  (i967a) 
+(I967) 
+
+l.t.e.,  5-9; steady  state  4-5. 
+
+Photographic  observations  by Bloch  & Tcheng  Mao-Lin (I 956) give  a mean value 
+for DB/Dp  of 5 0 for stars covering a wide range of spectral  type,  and this is regarded 
+by  Strom  & Kalkofen  as  observational  confirmation  of  the  departures  from  l.t.e. 
+predicted  by  them.  This  conclusion  is to  be treated  with  reserve,  however,  because 
+some  uncertainties  arise  in  comparing  a  photographic  spectral  tracing  with  the 
+predictions  from  a  model,  especially  in  the  presence  of  overlapping  lines  of  the 
+Balmer  series and when  the  jumps  in intensity  are small.  For the  particular  case of 
+Vega,  both  discontinuities  have  nearly  their  maximum  values  and  they  have  been 
+measured  photo-electrically  as well as photographically,  with  the  following  results: 
+
+photographic 
+
+DP  -  0-52 (Chalonge  & Divan  1952) 
+DP =  0 093  (Bloch  & Tcheng  Mao-Lin  1956) 
+
+DB/Dp=  5-6 
+
+photoelectric 
+
+DB  =  0 54 (Bahner I963) 
+DP  =  0-092  (Hall  & Williams  1942) 
+
+DB!D1,  =  5.9 
+
+Mihalas (I966)  has noted  that  the  photoelectric  value  of DB gives  better  agreerment 
+with  a  line-blanketed  model  in  l.t.e.  than  the  photographic  value,  but  in  neither 
+case  do  the  observations  of  DBIDP  differ  significantly  from  l.t.e.  predictions, 
+especially  if one takes  the  l.t.e.  figure given  by  Strom  & Kalkofen. 
+
+The  results  so  far  can  be  summarized  by  saying  that,  directly  or  indirectly, 
+collisions  seem  to  ensure  that  l.t.e.  is  a  good  approximation  in  discussions  of  the 
+optical  and infra-red continua  of main-sequence  stars and most normal giants in the 
+
+7-2 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+100 
+
+B.  E.  J.  Pagel 
+
+range of spectral types B 0 to K 5 or so. For supergiants, where atmospheric densities 
+are low, and in the  Lyman continuum (which, while unobservable in the  case of 
+most  stars of  the  Galaxy, has an observable effect on  the  ionization of  gaseous 
+nebulae), departures from l.t.e. may become appreciable. 
+
+3.  ABSORPTION LINES 
+
+Absorption lines occur in stellar spectra because the selective absorption acts as 
+a blanket on radiation at line frequencies and causes it to have a reduced probability 
+of escaping from the boundary in comparison with frequencies in the neighbourinlg 
+continuum. 
+
+The intensity at some point of the line profile depends on the ratio l/K of selective 
+to continuous opacity (we now drop the use of suffixes for continuum quantities that 
+have negligible variation over the line profile) and on the  manner in  which the 
+energy of an absorbed photon is subsequently lost to the atom. Assuming l.t.e.  to 
+apply in the continuum, the specific intensity I1,(-r, ,C), where It is the cosine of the 
+angle between the beam and the outward normal to the surface, varies with depth 
+according to the equation of radiative transfer 
+
+d1, 
+dx- 
+dt-  = 
+
+1+1 
+K 
+
+I 
+
+PI VI-B- 
+
+1S 
+`SV, 
+K 
+
+9 
+(9) 
+
+where S, is now the source function for line radiation at the particular point of the 
+profile being considered. The equation of transfer can be formally solved to yield 
+either the emergent intensity from some point of the solar disk (,t =  1 at the centre 
+of the disk and It <  1 towards the limb): 
+
+i, (?7 IA) = 
+
+f 
+
+(B  + KV Sv) e-(l+T)It du, 
+
+(10) 
+
+where tv is the selective optical depth (dt, =  (lu/K) dr), or the fractional depression 
+below the continuum: 
+
+A.c(0, p) 
+
+1 
+
+- 
+
+'[cont (0,,  J0 
+
+[&(T, It) -  S(T) 
+
+e-TI/l] e-h-lt 
+
+- 
+
+|(, 
+
+gt) e-1p/t dt^, 
+
+(11) 
+
+(12) 
+
+where 
+
+1  (T, Ic) 
+
+f 
+
+T 
+
+B(T') e-T'li/dT'/dt. 
+
+y(T,,u) is  called the  'weighting function' and 'cont(0' jt) =  0I(0, It). Integrated flux 
+3-1;  an exact  analogue  of (12) in closed form 
+from a star corresponds roughly  to ,Cb 
+cannot  be given  for this  case unless  tv --  0. 
+
+The older discussions  of line formation  refer to two extreme  cases which basically 
+represent  different  assumptions  about  Sv: pure absorption,  or Sv =  B; and coherent 
+scattering  (i.e. scattering  without  change  of frequency),  for which 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+101 
+
+In either case, lu/K has most  commonly  been  assumed  to  be given  by the  Boltzmann 
+and  Saha  equations;  together  with  S,  =  B,  this  constitutes  the  assumption  of l.t.e. 
+Pure absorption  actually  corresponds to a case in which the atom,  excited  through 
+the  absorption  of  a  photon,  is  mostly  de-excited  by  undergoing  a  superelastic 
+collision  before  it  has  time  to  radiate;  this  situation  does  not  niormally  occur  in 
+stellar  atmospheres,  but  the  assumption  %, =  B  is often  made  for simplicity  when 
+re-radiation  can occur to  many  levels.  It  will  be seen  below  that  this  is a tolerably 
+good  device  for  getting  an  approximately  right  answer  in  photospheric  layers,  as 
+long as it is not taken too seriously.  For strong resonance lines,  and for certain strong 
+subordinate  lines like  Hc,  the  absorbed radiation  is predominantly  re-radiated  at a 
+nearby frequency  in the same line, i.e. it is scattered;  but changes in frequency  due to 
+thermal  Doppler  effects  and  collision  damping  make  the  scattering  non-coherent 
+1965 a) and it is in fact quite 
+(Holstein I947;  Woolley & Stibbs I953;  Thomas I957, 
+a good  approximation  to  assume  that  S,  is independent  of frequency  across the  line 
+profile except  in line wings  due to natural  damping  (for discussion  see Hummer  i 968 
+and references  cited  there).  We  make  this  assumption  in what  follows,  noting  that 
+it  permits  us to  write  for two  bound  levels  L (lower) and  U (upper). 
+
+Sv=  SUL  =  ~2hv 
+
+c2  (bL/bu)  ehv/kT- 
+
+1  = 
+
+UL)' 
+
+(13) 
+
+where  Tx,  UL  is  an  'excitation  temperature'  derived  by  force-fitting  Boltzmann's 
+equation  to  the  populations  of the  two  levels. 
+
+i929),  Milne  (I930) 
+
+The  formation  of  lines  by  scattering  has  been  discussed  by  (among  others) 
+and  Stromgren  (I935),  all  of whom  assumed 
+Eddington  (1926, 
+i965a)  whose  approach 
+coherent  scattering,  and  more  recently  by  Thomas  (I957, 
+represents  a considerable  advance  on the  earlier work  and  will  be  closely  followed 
+here. Consider first a simplified atomic model with two bound levels and a continuum. 
+For  each level  there  is an equation  of statistical  equilibrium: 
+
+NL[CLU Jr  BLU  J+ 
+
+81?J 
+
+-NU[AUL+BULJ+CUL] 
+
+=  NeN+FRkL +  82, 
+
+-L[CLU  +uBLuJ 
+
++  Nu[AUL+BULJ+CUL+8 
+
++  3]  =  NeN+RkU  +  84, 
+
+(14) 
+
+(15) 
+
+where  CLU,  CUL represent  collisional  excitation  and de-excitation  rates,  AUL,  BUL, 
+BLU  are Einstein  coefficients,  J  is the  mean  intensity  averaged  over the  line profile, 
+and  RkcL'  RkU  are recombination rates. For the two-level atom, 
+J-=_  f,Jdv/lflvdv, 
+the  8's have  the  following  values: 
+
+=1  PLk  +  CLk(l  1-1/bL), 
+
+83  =  PUk +  CUk(l-lIbu), 
+
+(16) 
+
+(17) 
+
+(18) 
+where  PL7.,  PUk  are photo-ionization  rates  and  CLk>, CUk collisional  ionization  rates. 
+Solution  of  (14)  and  (15),  together  with  (13),  then  yields  the  expression  for  the 
+source function 
+
+82=  84= -0 
+
+(9 
+
+5UL 
+
+J +eB(T)  +YB* 
+i~1+ e+yj(9 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+102 
+
+where 
+
+c 
+
+B.  E.  J.  Pagel 
+
+CUL(1-e-hvlkT) 
+-20__ 
+
+__ 
+
+AUL 
+
+_ 
+
+CU L 
+_ 
+_ 
+AL' 
+UL 
+
+83R 
+
+RkL+&82 
+
+_1 
+
+_9L_ 
+
+RkU__4 
+
+PUk 
+
+B* =  2hc3 IRicU+ 
+
+q 
+
+1)  B(Tr) (22) 
+
+(20) 
+
+1 
+
+where T? is a temperature  parameter  characterizing  the distribution  of energy  in the 
+radiation  field  between  the  two  photo-ionization 
+limits.  The  emergent  radiation 
+field is calculated  by  combining  (19) with  the  equation  of radiative  transfer  (9), the 
+two  being  coupled  together  through  the  J  term,  and  solving  the  transfer  equation 
+subject  to  the  bounidary  conditions 
+
+Iv(0, It  <  0)  =  0,  Iv(r, It) ->  B(r)  as  T  -  X oo. 
+
+The  two  terms  eB(T)  and  yB*  in  the  numerator  of  (19)  represent  processes 
+populating  the  upper  level  of  the  transition,  through  collisional  excitations 
+(cf. 
+respectively,  and  are 
+Eddington 
+therefore  called 'source terms'  by Thomas,  who refers to e and y in the denominator, 
+representing  the  converse  processes,  as  'sink  terms'  and to  the  scattering  term,  J, 
+as a  reservoir'. 
+
+I926)  or  recombinations  (cf.  Str6mgren  I935) 
+
+For  resonance  lines  in,  say,  the  solar  spectrum,  both  e  and  y  are  small  but  for 
+strong  lines  the  source  and  sink  terms  together  control  the  value  of  J  near  the 
+surface.  Approximate  values  of  e  for permitted  transitions  are given  by  a general 
+formula  due to  van  Regemorter  (I962): 
+
+e=  206A3N  T-P(AE/kT), 
+
+(23) 
+
+which  is based  on the  Bethe  approximation  with  effective  Gaunt  factors  deduced 
+from  experimental  results  discussed  by  Seaton  (I962).  The  function  P(AE/IkT), 
+representing  an  integrated  Gaunt  factor,  is  tabulated  by  van  Regemorter  for 
+neutral  atoms  and ions: in the  Sun,  AE/IkT  5 at A 5000 and P(AE/IkT) 
+0 04  and 
+2 x  10-3  if N  =  1012. (A semi- 
+0-20 in the  two  cases,  so that  for neutral  atoms  e 
+classical  calculation  by  Woolley  &  Stibbs  (I953) 
+gives  values  corresponding  to 
+0  1.)  A  corresponding  formula  for  y  can  only  be  given  in  the  case  of 
+P(AE/IkT) 
+hydrogenic  atoms  (see equation  (34) below  and Thomas  I965 a),  but  many  cases  of 
+interest  can be computed  in detail  from the work on photo-ionization  cross-sections 
+by  Burgess  & Seaton  (I960)  and Peach  (I967). 
+
+Classification  of various  spectral  transitions  according  to which  are the  dominant 
+source and sink terms under particular  sets of physical  conditions  has been discussed 
+by  Thomas  (I965 a).  In  the  solar  spectrum,  the  Balmer  lines  are photoelectrically 
+controlled  in the  chromosphere  (for Hoc, y  >  c if Ne <  2 x  1012), but we would predict 
+from  equation  (34)  below  that  e  >  y  in  the  deep  photospheric  layers  where  their 
+collision  and Stark-broadened  wings  are formed.  Other lines that  have  been  studied 
+-Ca'  H  and K  and the  Na  D lines-appear 
+to  be collisionally  controlled,  i.e.  c >  y 
+and eB  >  yB*,  while Lyman  a  has a mixed  classification  (e <  q, but  eB  >  yB*).  The 
+chief significance  of this difference lies in the fact that,  if eB  >  yB*,  the level  popula- 
+tion  in  the  outer  parts  of the  atmosphere  is  influenced  by  the  local  electron  tem- 
+perature  through  collisions  and  so,  for  example,  a  doubly  reversed  emission  core 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+eB+rqB* 
+
+j = 
+
+SUL 
+
+~~~~~~~~~~(24) 
+
+Atomic  collisions  in  stellar  atmospheres 
+
+103 
+
+may appear at the centre of a strong line as a consequence  of high kinetic temperature 
+in the upper chromosphere  (Jefferies  & Thomas  I960),  whereas in the  case of photo- 
+electric  control,  the  central  intensity  of the  line  only  depends  on the  radiation  field 
+emerginlg from  the  photosphere.  In  deep  layers,  where  the  radiation  fields  are  in 
+any  case nearly  Planckian,  the  distinction  is much  less  significant. 
+
+3 1.  Formation of strong absorption lines 
+
+When  the  value  of the  selective  optical  depth  at the  line  centre,  to, is sufficienitly 
+large, line radiation  is effectively  imprisoned  and radiative  transitions  are balanced 
+locally  by the  inverse  transitions.  (How large to has to be is discussed  below.)  Under 
+these  conditions  there is radiative  detailed balancing  in the line and (if to is sufficiently 
+large  in  comparison  with  the  scale  length  of  variation  in  physical  conditions;  cf. 
+Thomas  I965a) 
+
+This  situation  can  also  be  expressed  by  introducing  the  'net  radiative  bracket' 
+(Thomas  I960)  which  represents  the  departure  from  radiative  balancing.  The  net 
+downward  transition  rate  per unit  volume  is 
+
+NET AUL[NRB]UL  =  NLT(AUL  +  BUL J)-NL 
+
+BLU  J 
+
+(l-JISUL). 
+
+-NU  AUl 
+
+(25) 
+For  decreasing  to, J  and  S  steadily  decrease  by  virtue  of  the  transfer  equation. 
+In  effect,  a scattered  photon  has  a probability  of  only  -  of  being  scattered  in  the 
+outward  direction  and  so  the  population  of  the  upper  level  becomes  smaller  and 
+smaller towards  the  surface.  This tendency  is limited  by  the  source terms.  Taking  e 
+to  represent  the  whole  source term,  and neglecting  the  continuum,  solutions  of the 
+transfer  equation  for  a  uniform  isothermal  atmosphere  with  B  =  1  by  Jefferies 
+(quoted  by  Thomas  i965a),  Avrett  (I965)  and  Avrett  & Hummer  (i965)  givet 
+
+(0) 
+
+el , 
+
+Io(O,) 
+
+(26) 
+a  result  that  also  follows  from  the  formula  given  by  coherent-scattering  theory 
+I929).  Thus  for  the  Na  D  lines,  Ne_  1011,  _  2 x  10-  and  the 
+(Eddington  I926, 
+central intensity  would be between  1 and 2 % according to  (26). Accurate  numerical 
+calculations  (Chamaraux  I967;  Mugglestone  I965)  give  values  between  5-9  and 
+2X9 ?/  for D 1 according  to  whether  a  chromospheric  temperature  rise  is  or is  not 
+included;  the  observed  value  is  50  % (Waddell  I962). 
+In  each  case  the  electron 
+collision  cross-section  was  based  on  measurements  by  Haft  (I933)  placed  on  all 
+absolute  scale by fitting  to  a Born  calculation  at high energy  (Bates,  Fundaminsky, 
+Leech  & Massey  I950;  Johnson  I965).  The  agreement  with  observation  is encour- 
+aging,  but  does not  completely  exclude  the  possibility  suggested  by Plaskett  (I955) 
+that  neutral-atom  collisions  make a contribution  to e; such a contribution,  however, 
+is unlikely  to exceed  the electron  contribution  by an order of magnitude,  and it may 
+well  be negligible. 
+
+t  Methods  of  sol-ving  the  transfer  equation  for  non-coherent  scattering  are  described 
+
+systematically  by  Hummer  & Rybicki  (I967). 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+104 
+
+B.  E.  J.  Pagel 
+
+Detailed calculations of the K emission core and Lyman -oc are much more difficult 
+to carry out because too little is known about conditions in the upper chromosphere 
+(cf. Hearn i967).  The problem is of especial interest because of the  remarkable 
+correlations that  exist  between  the  width  of  the  K-emission  core and  stellar 
+luminosity (Wilson & Bappu  I957)  and between its intensity and stellar age and 
+rotation  (Wilson  I963,  I966). 
+
+Collisional de-excitations and photo-ionizations (sink terms) limit the number of 
+times that  a photon is scattered before it  is destroyed and added to  the pool of 
+thermal energy of the  gas  (cf. Jefferies I960).  The optical path traversed by  an 
+average photon before this happens is called the  'thermalization length',  A, and 
+represents the optical distance over which conditions in one part of an atmosphere 
+influence another part. Thus the  condition for local opacity leading to  (24) in a 
+uniform  atmosphere  is  to1T-  >  A,  while  in  a stratified  atmosphere  the  condition  is 
+that  the  scale-length  of variation  (in terms  of to iT-d) exceeds  A. 
+
+Values of  A  in  a  uniform atmosphere (with  e >  y)  have  been  computed by 
+Hummer  (I964),  Avrett  (I965)  and Avrett  & Hummer  (I965);  see also Hummer  & 
+Stewart  (I966).  If  continuous  absorption  is  negligible,  then  for  a purely  Doppler- 
+broadened profile 
+(27) 
+
+A 
+
+/, 
+
+while for a Voigt profile with Doppler broadening and collision damping 
+
+A 
+
+ae-2 
+
+if  a>  e, 
+
+(28) 
+
+where a is the  damping parameter y/4nAAVD; for coherent scattering A  -_-s, 
+i.e. 
+it is much smaller. If the continuum is important (7Td10/K  <  1/c), then the effective 
+value of e  is increased and the source function saturates in any case for T >  1. 
+
+For a real strong line, formed in a situation where e and B both increase with depth, 
+relations (27) and (28) can give only a very rough idea. Taking e  =  10-3,  a 
+10-2  as 
+representative of the inner wings of, say, the solar Na D lines, S --  B for to  104. The 
+level  corresponding to  this has t, =  1 (where the greatest contribution to  J,(0, 1) 
+arises) at an interval of 8 Doppler widths or 0 3 A from the centre of the line, and so 
+we expect S  B in computing the intensities of the line wings beyond this point, 
+where the depression below the continuum is about 40 00. 
+
+Semi-empirical investigations of the solar source function in the sodium D-lines 
+(Jefferies  &  Curtis  I965;  Mugglestone  I965)  and  in  Ca  i  A6162  (Gompertz  & 
+Hindmarsh I963)  indicate S  B even considerably closer to the line centre than 
+8 Doppler widths. Since the source function in a uniform atmosphere is always less 
+than B in the neighbourhood of the boundary, it is not surprising that the departures 
+from l.t.e. are reduced when B is itself allowed to decrease outwards (cf. Athay & 
+Skumanich I967). This conclusion is confirmed by the detailed theoretical results of 
+i965)  and  of Chamaraux  for the  D-lines,  which  give  S  B  (closer 
+Johnson  (I964, 
+than  10 00)  for to >  102; this corresponds to the level of formation of a part of the 
+line  profile only  2-2 Doppler widths  or 0 09A  from the  line  centre, where the 
+depression is 80 00.  There is no theoretical justification, however, for the view put 
+forward by Holweger (I967)  that  l.t.e.  holds even much closer to  the  centres of 
+strong lines than tbis, and that the  5 00  central intensity implies the presence of 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions 
+
+in  stellar  atmospheres 
+
+1]05 
+
+very low electron temperature  (39000)  in the chromosphere; it seems on the coiitrary 
+to require  a temperature  rise. 
+
+3*2.  Interlocking in  the 8odium D-line8 
+
+The two-level  atom  treatment  constitutes  an oversimplification  in  cases  such  as 
+that  of the  D-lines  where  there  are two  or more  atomic  energy  levels  (in this  case 
+two  upper  levels)  very  close  together.  In  such  a  case,  the  close-lying  levels  are 
+interlocked,  e.g.  by  collisions  with  neutral  atoms,  and  consequently  the  source 
+functions  in  the  two  lines  should  be  equal  to  each  other  at  considerably  smaller 
+depths  than  that  at which they  both  become  equal to B(T)  (Jefferies  I960;  Waddell 
+I962;  Jefferies  I965).  If we call the  common  lower level  1 and the two  upper levels  2 
+and 3, then  the relevant  thermalization  length  is the  distance  that  a photon  in  one 
+of  the  lines  travels  before  being  converted  into  a  photon  in  the  other  line  and  is 
+given  by 
+(29) 
+
+to  A21/032, 
+
+where  A,  C represent  radiative  and  collisional  rates  respectively  and  we  assume 
+A21  =A31>A32; 
+
+C31 ?  C21 < C32. 
+
+Waddell  (I962)  tested  the  equality  of source  functions  S1, S2 in the  two  D-lines 
+by  comparing  the  residual  intensity  12(0, ,u) of D2 at small  angles  from the  centre  of 
+the  solar disk with  the  corresponding  quantity  11(0, j2t)  for D1 at larger angles.  For 
+U/K >  1,  equation  (10)  shows  that  these  two  intensities  are  equal  if  the  source 
+functions  S1(T),  S2(T)  are  equal  at  all  relevant  geometrical  depths,  since  t2 =  2tj. 
+error  of  01  00  even 
+Waddell  found  that  12(0, ,u) =  J1(0, ,u/2)  within  the  observational 
+at  the  very  centres  of  the  lines  and  concluded  that  the  two  source  functions  are 
+identical  for  to >  0 3,  say.  The  congruence  of  the  profiles  has  been  confirmed  by 
+Jefferies  & Curtis  (I965)  for the  D-lines  and  extended  by  Waddell  (I963a)  to  the 
+components  of the  Mg b triplet. 
+
+The significance  of this result has been discussed  further by Waddell  (i 963 b), who 
+concludes  from a solution  of the equations  of radiative  transfer using the Eddington 
+approximation  that  (29) with  to <  1 is a necessary  as well  as a sufficient  condition 
+for equality  of the source functions.  The most effective  contributor  to C32 seems to be 
+neutral  hydrogen,  for  which  cross-sections  approaching  100ITaO or  10-4  cm2  may 
+occur  in  exciting  the  hyperfine  transition  of  hydrogen  (Purcell  &  Field  1956; 
+Burgess,  Field  & Michie  I960).  For the  reaction 
+
+Na(2Pa)+H->Na(2Pj)+H 
+
+which  concerns us here, a preliminary  calculation  by Zare & Bender  (I965)  suggests 
+a  cross-section  of about  607Ta2. The  corresponding  rate  coefficient  is 
+
+k]q =  &v 
+
+5x  10-9cm3s-1. 
+
+The centres of the D-lines  are formed at an optical  depth  T0 
+1014 cm-3,  so that 
+with  a neutral  hydrogen  density  NH 
+5 x  105 S-1. 
+
+C32 
+
+10-6  in the continuum, 
+
+This  falls  short  of the  radiative  transition  probability  by  a factor  of about  100, so 
+that  one was faced  with  an apparent  dilemma  which  gave  rise to  some  controversy 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+106 
+
+B.  E.  J.  Pagel 
+
+(Athay I964;  Waddell I964).  The problem appears to have been resolved by Avrett 
+(I966),  who  points  out  that  the  effective  conversion  length  is  reduced  by  the 
+similarity between the two source functions which exists in any case, even in the 
+uncoupled problem, and carries out detailed calculations for a number of different 
+assumptions as to the values of the parameters. In  certain cases, the two source 
+functions actually cross over near to =  1, and calculations of the line profiles with 
+=10-4  and C31/A31  =  10-2  give perfect  congruence,  provided  that  the temperature 
+does not increase too rapidly outwards, basically because the two lines have the 
+same e and values of t, at any depth differing by only a factor 2. It thus appears that 
+existing knowledge of collision cross-sections is sufficient to account for the observa- 
+tions. The Ca ii  and Mg ii  doublets behave differently from the D-lines (Goldberg 
+I965  and subsequent discussion), because transitions involving other levels than 
+1, 2, 3 are of greater importance; in these cases the source functions may be propor- 
+tional,  but  not  equal  (Zirker I965). 
+
+3-3.  Weak and medium-strong lines and abundance determinations 
+
+For most spectral lines, the two-level atomic model needs to be generalized, but 
+the same notation can be used if the symbols y and B* are re-interpreted by changing 
+the significance of '1 ... 84 to include net rates of transition between the levels L, U 
+of the spectral line being considered and other levels of the atom (Thomas & Athay 
+I96I;  Thomas I965a). y and yB* now represent all  indirect routes between the 
+upper and lower levels of the line, and the d's become 
+
+al  =  PL7 +  E  CLj(1-bj/bL)+  E  ALANRB]Li, 
+
+L<j*U 
+
+L>i 
+
+82  = 
+
+E  Nj AjL[NRB]L +  E  Ni CiL(l -bLIbi), 
+
+L<j*U 
+
+L>i 
+P3=Puk+ E  Cuj(1-bj!bu)+ 
+
+U<j 
+
+E  Au[NRB]ui 
+
+U>itL 
+
+84= 
+
+E  NjAju[NRB]ju+ 
+U<j 
+
+U>itL 
+
+N N2CiU(1-bu!b1), 
+
+where the sums over collisional terms in 81, 83  are understood to  include the con- 
+tinuum. The factors (1 -  bj/bu), etc., convert the total rates of collisional excitation 
+into net rates and are referred to as 'net collisional brackets'. The additional radiative 
+and collisional terms vanish under conditions of local opacity and l.t.e. respectively. 
+The expression (19) for the source function is unchanged (using the new 6's), but 
+now we may have y >  1 because of the extra radiative term in 63. Whether for this 
+reason, or simply because a line is faint, S is no longer governed by radiative transfer 
+in the line itself, but depends on what is happening in other lines and in the  con- 
+tinuum. Furthermore, it now becomes of greater importance to consider the value of 
+lu/K, which  fixes  the  relation  between  T and t, and  depends  on NL or bL.  (In  certain 
+cases the calculation of 1,/K presents no special problem because effectively all atoms 
+of the element are in state L, e.g. for resonance lines of singly ionized metals and 
+neutral oxygen in the Sun or of most neutral elements in M-type stars.) 
+
+The form of the equations of statistical equilibrium and radiative transfer in this 
+general case is discussed by Kalkofen (I965).  The problem is generally a non-linear 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+107 
+
+one owing to the dependence  of terms in the denominator  of (19) on various radiation 
+fields and level  populations,  and its solution  requires  at least  approximate  estimates 
+of the net radiative  and collisional rates between  all levels  (including the continuum). 
+As a result of these two types  of difficulty,  solutions  have so far only been obtained- 
+a few  relatively  simple 
+taking  into  account  a  finite  number  of  energy  levels-for 
+cases relevant  to solar and stellar abundance  determinations:  lithium  and beryllium 
+I965;  Chamaraux  I967);  and  magnesium 
+(Johnson  I963);  sodium  (Johnson  I964, 
+(A. M. Wilson  I966). 
+
+As  far  as  photospheric  levels  (T0  >  0.005)  are  concerned,  the  results  of  these 
+calculations  (which  mainly  apply  to  the  Sun  and  similar  stars)  show  that  the 
+departures  from l.t.e.  are very small, so that abundance determinations  from absorp- 
+tion  lines  are  unlikely  to  be  noticeably  in  error  from  this  cause.  This  result  is 
+extended  to  more  complex  atoms  by  a  considerable  amount  of  observational 
+evidence  to  be  described  below,  so  that  it  seems  fair  to  say  that  the  task  facing 
+future investigations  into the  statistical  equilibria  of atomic  levels  is to explain  why 
+there  is  (or appears  to  be)  so little  deviation  from l.t.e.  in these  layers.  Part  of the 
+reason  arises  from  the  fact  that  abundances  are  usually  derived  from  equivalent 
+widths  (i.e. integrated  intensities)  of faint lines,  or of stronger lines whose intensities 
+are related  to those  of faint  lines through  a curve of growth  which  allows for satura- 
+tion  effects  (represented  by the factor  e-tvlv in ( 11)). The faint  lines,  and the wings  of 
+strong  lines  (which  play  a much  greater  part  than  their  central  cores in fixing  the 
+equivalent  width),  are  formed  at  reasonably  large  optical  depths  (0.05  < To  <  1) 
+where  departures  from  l.t.e.  are always  smaller  than  in  the  neighbourhood  of the 
+surface,  partly  because  of the  high  opacity  in  strong  lines  and  partly  because  the 
+outward-decreasing  temperature  gradient  ensures  J  B  in  weak  lines  and  in 
+the  photo-ionization  continua. 
+
+A simple  case illustrating  some  of the  physical  factors  involved  is that  of a very 
+weak resonance  line due to  a 'trace'  element  such as lithium  A 6707 (Johnson  I 963). 
+Here the two-level  atom approximation  is adequate  and e, y  <  I so that the dominant 
+term  in the  source function  (19) is J  =  J  (continuum);  there is no transfer problem. 
+For 0 05  <  T0 <  0  I in the  Sun, J  (6707) is exactly  equal to B(T)  (Pierce  & Waddell 
+I96I),  although  deviations  up to  a factor  of 1-5 can occur at other wavelengths.  For 
+A <  6700,  J  >  B,  but  4(DT, 1) >  4B(T)  for  T0 =  0 05,  so  that  the  error in  Rv from 
+equation  (11)  is  considerably  less  than  the  factor  1P5; but  a factor  of  2 might  be 
+reached  in  the  infra-red  beyond  1 pm.  One  might  generalize  this  result  by  saying 
+that  S  =  J  B  is an adequate  approximation  for all faint  lines  if one is not  too  far 
+away  from the  energy  maximum  in the  continuous  spectrum. 
+
+To determine 
+
+/VIK, we  solve  the  equations  of statistical  equilibrium  (14) and  (15) 
+
+for the  two  levels  and  derive 
+
+N1 
+Ne N+ 
+
+Rkl  +  Ckl +  (Rk2 +  Ck2)/(1  +  y') 
+(B12 J + C12) 7'/(1 +'')  +  Plk +  Clk 
+1Rkl +  (Rk2 +  Ck2) 
+
+Plk/+ 
+
+(B12J+0C12) 
+
+/2 
+
+(30) 
+
+where 
+
+? 
+
+'=(P2k + C20 / (A21 + B21 J + C21)  P2k/A21 
+
+10-3- 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+108 
+
+B.  E.  J.  Pagel 
+
+The relevant rates are given by  Johnson (I963)  for T0=  1, using collision cross- 
+sections computed by Milford (I960)  and photo-ionization cross-sections from Allen 
+(I955)  and Burgess  & Seaton  (I960).  The resulting  rates  are 
+
+x  10-13 
+Rkl  =2 
+O 
+,2C2 = 7 xl10-14 
+
+Ix 
+
+R 
+1112 +  1CC2 
+
+- 
+
+, C 
+012 
+- 
+
+,2 R, 
+2 
+
+Pik=-7x103 
+
+if  J=BatA2300, 
+
+(B12 J + C12)y7 =  3 x 103,  C12  OKiB2J. 
+
+Equation  (30) is  thus  dominated by  the  recombination and photo-ionization 
+terms and the accuracy of the value of lu/K computed assuming l.t.e. depends on the 
+relation between J and B in the photo-ionization continuum near A 2300. Whether 
+collisions are included or not makes hardly any difference to the result, especially 
+in view of the fact that conditions at T0 =  0 I are more relevant than those at T0=  1, 
+so that the collision rates should be reduced. Since the opacity at A 2300 exceeds 
+that at A 6700 by about an order of magnitude, Johnson concludes that 
+
+J(A 2300)  B(A 2300) 
+
+in the relevant layers; the agreement between calculated and observed solar fluxes 
+near A 2300 (Goldberg I967)  suggests that this is probably true within a factor of 2 
+or so. Somewhat similar situations exist for other elements that are present in such 
+low abundance that none of their transitions affects any part of the solar radiation 
+field. However, the ultraviolet portion of this radiation field, which largely governs 
+the  amount of  the  atom  in  the  neutral state,  itself  depends on  the  ionization 
+equilibria of the abundant elements magnesium, aluminium, calcium and silicon, 
+which provide the  continuous opacity in this spectral region. An extreme under- 
+population of neutral states  in,  say,  magnesium would lead to  a  similar under- 
+population in the ground state of lithium, and at present we have to rely primarily 
+on observations in order to say that this does not occur. 
+
+A somewhat more complicated case for which detailed calculations have been 
+carried out is that of sodium, which can be represented by a model atom with five 
+bound  levels  and  continuum  (Johnson  i 964,  I965;  Chamaraux  I967).  Chamaraux 
+gives a detailed discussion of the sources of atomic data employed and results for 
+model atmospheres both with and without a chromospheric temperature rise (which 
+affects only the central intensities of the D-lines). The method used is an iterative 
+one, in which the relevant rates are first calculated assuming l.t.e.  and then the 
+equations of transfer are solved by the method of Fox (nI 957) and Feautrier (i 964) to 
+yield the next iteration. Source functions in the two D-lines are assumed to be equal. 
+With high chromospheric temperatures, the departure factors bn are large in the 
+chromosphere above  the  height  of  the  assumed  temperature  minimum near 
+z0 =  0-01 because the level populations are here governed by the radiation field from 
+the photosphere. For the same reason they fall below 1 at the temperature minimum. 
+At T0=  0. 1, all the b-factors become equal to 0 8, rising to I 0 for T0 >  1. The main 
+effects of the collisions are: (a) to keep the source functions equal or almost equali n 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic collis3ions in  stellar atmospheres 
+
+109 
+
+the  D-lines,  (b) to  keep  these  source  functions  equal  to  the  Planck  function  in  the 
+region  where  the  D-lines  are opaque,  and  (c) to  relate  the  central  intensities  of the 
+D-lines  to  the  chromospheric  temperature;  the  other  results  would  be  affected  to 
+only  a minor  degree  if collisions  were ignored  (Johnson  i 964). As far as equivalent 
+widths  are concerned,  departures  from l.t.e.  are quite  negligible. 
+
+The case of magnesium  is of interest  because  of its major contribution  to the ultra- 
+violet  opacity  for  A <  2500.  Preliminary  calculations  by  A. M. Wilson  (I966)  give 
+results somewhat  analogous to those found for sodium, but with modifications  due to 
+the  presence  of the  weakly  coupled  singlet  and  triplet  systems.  A  departure  from 
+l.t.e.  by  a factor  of  the  order  of  2 could  be present  in the  region  contributing  most 
+to  the  ultraviolet. 
+
+From  an  empirical  point  of  view,  the  adequacy  of  the  I.t.e.  approximation  for 
+abundance  determinations  in stars of spectral types  F,  G and K has been tested  and 
+usually  confirmed in numerous  different  ways: 
+
+(Goldberg,  Muller  & Aller  I960) 
+
+1.  Relative intensities offaint  solar lines of neutral metals having different excitation 
+potentials  (Muller & Mutschlecner  I964;  Warner  I964;  Pagel  I965).  Force-fitting  of 
+these  intensities  to a Boltzmann  distribution  gives  a quantity  sometimes  referred to 
+as the  'excitation  temperature',  which,  however,  is  distinct  from  TeC in  equation 
+(13). A comparison  with  the relative  intensities  predicted  by  a solar model based  on 
+is  shown  in  figure  1, 
+continuum  observationst 
+which  is  based  on  oscillator  strengths  of  Corliss  & Bozman  (I962)  and  Corliss  & 
+Warner  (I964)  corrected  for  lines  of  high  upper  excitation  potential  following 
+Warner  &  Cowley  (I967).  The  agreement  between  the  predicted  and  observed 
+trends  with  (lower)  excitation  potential  is  remarkably  good  in  the  A 4500-6500 
+spectral  range  where  data  are  best;  this  implies  that  the  source  functions  are 
+approximately  equal  to  the  Planck  function  (cf.  Pagel  I965)  and  it  excludes  the 
+large  departures  of  the  source  functions  from  l.t.e.  that  were  inferred  semi- 
+empirically  by Pecker  (I959),  Pecker  & Vogel  (I960)  and other authors from central 
+intensities  of  weak  and  medium  strong  lines.  Reasons  why  these  source  functions 
+are in error have  been  discussed  by  Pecker  & Roddier  (I965)  and by  Cayrel  (I965). 
+
+2.  Centre-limb variations in equivalent widths. Muller & Mutschlecner  (I 964)  found 
+good agreement  between  abundances  determined  from equivalent  widths  measured 
+at  the  centre  of the  solar disk  and  at It =  0 5 and  0-3 near the  limb.  Since  the  limb 
+observations  represent  shallower  layers  of the  photosphere  than  those  carried out 
+at the centre of the disk, one would expect  any departures from l.t.e.  to be noticeably 
+greater. 
+
+3.  Comparison of abundances determined from  different states of ionization.  Such 
+comparisons  have  been  carried out for Ti i  and Ti II  (Teplitskaya  I 964) and for Fe i 
+(Aller,  O'Mara  & Little  I964;  Warner  I967)  and  give  good  agreement. 
+and  Feii 
+This  result  has recently  been  extended  to several  other elements  of  the  iron group 
+
+t  This model assumes no temperature rise in the chromosphere. While the actual extent of 
+such a rise is rather uncertain at  the present time, it is clear from the foregoing discussion 
+that the  rise should be  ignored in  any  attempt to  predict line intensities using an  l.t.e. 
+theory. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+110 
+
+B. E. J.  Pagel 
+
+1 
+
+2 
+
+4 
+
+6 
+
+I 
+
+I 
+
+I 
+
+8 
+I 
+
+X4500-6500A 
+
+6 
+
+4- 
+
+'2 
+
+0 
+
+~ 
+
+~~~~~~~~~- 
+
+TI 
+
+I 
+
+I 
+
+I 
+
+I 
+
+1+ 
+
+A35 04SOA 
+
+a 
+
+/ 
+
+X 
++ 
+
+_ 
+
+6 
+
+boD 
+
+4  - 
+
+21 
+
+0- 
+
+full lines, model 
+
+(G.M.A.) 
+
+ATii(P) 
+-'ii(W) 
+
+VI  (W) 
+*  Cri  (W) 
+I  Mn I(W) 
+o  Fei  (W) 
+CoI (W) 
+
+1 
+
+2 
+
+4 
+
+6 
+1-X  (volts) 
+
+8 
+
+FIGURE  1. Dependence  of strengths  of solar absorption lines of neutral  iron-group elements  on 
+excitation  potential.  Logarithms  of  X/gf, where  X  is  equal  to  the  equivalent  width  in 
+units  of  the  wavelength  for  an  unsaturated  line,  plotted  against  I - x'  the  difference 
+between  ionization  potential  and lower excitation  potential.  The plotted  points  are based 
+on results due to Warner (1964:  'W')  and Pagel  (unpublished:  'P'),  the latter being shown 
+with  error bars.  Oscillator  strengths  are  from  Corliss  & Bozman  (I962)  and  Corliss  & 
+Warner  (I964),  but  Corliss & Bozman's  correction  for high  upper  excitation  potentials 
+has been removed from the published values in accordance with the conclusions of Warner 
+& Cowley (I967).  The theoretical  curves, based  on the model  of Goldberg, Muiller & Aller 
+(I960:  'G.M.A.')  assuming  l.t.e.,  are taken  from data  given  by  Goldberg  & Pierce  (I959) 
+and are virtually  identical  for all of these  metals,  apart from a vertical  shift.  The curves 
+approximate  quite  closely  to  straight  lines  with  slope  Oexc  =  0-96  (the  'excitation 
+temperature'). 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+111 
+
+by Warner (i 968). This confirms the l.t.e.  estimates  of the degree of ionization  (as well 
+as  of  the  source  function)  within  the  accuracy  of  the  scales  of  absolute f-values. 
+
+4.  Agreement of solar abundance ratios of C  N: 0  derived  from both  atomic  and 
+molecular  lines  (Lambert  I968)  with  those  determined  from  solar  cosmic  rays 
+(Biswas,  Fichtel  & Guss  I966). 
+
+5.  Comparison of abundances determined  on the  assumption  of l.t.e.  among  stars 
+in  a  cluster  which  are  expected  to  have  identical  chemical  composition.  Conti, 
+Wallerstein  & Wing  (I965) 
+found  identical  abundances  in  this  manner  for  main- 
+sequence  stars  of the  Hyades  with  spectral  types  ranging  from A3  to  KG. 
+
+(i  966)  has  compared  observed  excitation 
+
+6.  Variation of  excitation temperature with  effective temperature for  G and  K 
+temperatures  (measured 
+
+stars.  Pagel 
+differentially  relative  to  the  Sun)  with  those  predicted  by  Cayrel  & Jugaku  (I963) 
+using  model  atmospheres  based  on  a  simple  scaling  of the  solar  0(r0) relation  and 
+finds  tolerable  over-all  agreement  except  in  the  case  of  certain  supergiants.  Minor 
+deviations  can  be  explained  by  minor  departures  either  from  l.t.e.  or  from  the 
+scaled  models. 
+
+There  are also some  outstanding  discrepancies  in observational  results,  of which 
+
+the  principal  ones  are the  following: 
+
+7.  Excitation temperatures of metallic lines in early A-type stars Wright (1967) has 
+shown  that  the  excitation  temperatures  found  from relative  intensities  of Fe i  lines 
+in early A-type  stars are anomalously  low.  It  is quite  possible  that  this  result  is due 
+to  departures  from l.t.e.,  though  there  may  also be other  explanations. 
+
+8.  Comparison of photospheric and coronal abundances of iron. Pottasch (i964a) 
+has deduced  solar abundances  from rocket  spectra  of the  extreme  ultraviolet  region 
+which  show  certain discrepancies  with  those  deduced  from photospheric  absorption 
+lines,  notably  in the  case of iron, for which  the  coronal  abundance  comes  out  to  be 
+about  20 times  higher.  In  disagreement  with  this  result,  Dupree  & Goldberg  (I967) 
+have  shown  that  existing  ultraviolet  observations  are consistent  with  photospheric 
+abundances  of oxygen,  silicon and iron when dielectronic  recombination  and certain 
+other  factors  are  taken  into  account;  but  a  high  abundance  of  iron  can  also  be 
+deduced  from  the  intensities  of forbidden  lines  of Fe  ions  relative  to  the  electron- 
+scattered  continuum  in the  visible  and near infra-red  (Pottasch  i964b)  and  in this 
+case  the  interpretation  seems  to  be  more  straightforward.  A  similar  discrepancy 
+exists  in the  case of meteorites  (Urey  I967). 
+
+9.  Forbidden [Feii]  absorption lines. Swings  (I965)  has  identified  [FeiI]  lines  in 
+absorption  on the  solar disk  and  finds,  using  transition  probabilities  calculated  by 
+that  their  intensities  lead  to  an  iron  abundance  10 times  higher 
+Garstang  (I962), 
+than  is  deduced  from  permitted  lines  of  Fe i  and  Fe ii  and  approximating  to  the 
+'coronal'  value.  A  similar  discrepancy  exists  in  the  case  of  Arcturus  (Gasson  & 
+Pagel  I 966). 
+
+In  view  of  observations  1-6  above,  and  especially  the  agreement  between 
+permitted  lines  of Fe i  and  Fe ii, 
+it  seems  very  unlikely  that  there  could  be  errors 
+of a factor  of  10 in the  photospheric  iron abundance  owing  to  departures  from I.t.e. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+112 
+
+B.  E.  J.  Pagel 
+
+As far as the corona is concerned, it is not impossible that iron is concentrated in 
+the outer layers from which the forbidden lines are observed by thermal diffusion 
+processes (Seaton I964),  while the [Fe ii]  lines are extremely faint and their inten- 
+sities can perhaps have been overestimated in  both the  Sun  and  Arcturus. The 
+discrepancies, therefore, do not alter our previous conclusion as to the utility of the 
+l.t.e. approximation in F to K stars. In hotter stars, no detailed checks are available, 
+but Mihalas's results for the continuum, and the large values of e predicted for the 
+visual range at high temperatures by van Regemorter (I962), 
+suggest that depar- 
+tures will not be large for lines that are formed reasonably deep in the atmosphere. 
+However, this condition is not fulfilled either by the lines of neutral metals or in 
+some cases by the  strong lines of helium, silicon, etc.,  that  are prominent in the 
+spectra of B-type stars (Underhill I966). 
+
+3X4. The blanketing effect of absorption lines 
+
+In a star of given effective temperature Teff, the presence of absorption lines forces 
+up the level of the continuum in between (Milne I923);  if the continuum is formed 
+in l.t.e., one can describe this effect by saying that the atnlosphere is warmed up by 
+radiation sent back from the selectively absorbing layers. The continuum between 
+the lines then resembles that from a star with effective temperature Teff wNhere 
+(31) 
+w being the fraction of the total energy that is removed by the lines. This 'back- 
+warming' effect is a direct result of the conservation of energy, and it occurs what- 
+ever the mechanism of re-emission in the lines. 
+
+Tf4  -  (1-w)Te  4 
+
+When literally pure absorption occurs, i.e. the absorbing atom is de-excited by 
+superelastic collisions, line  blanketing has the  additional effect of lowering the 
+temperature close to the boundary below the value that would have occurred in the 
+presence of continuous absorption alone. This is because, in the radiative equilibrium 
+condition that emission =  absorption, assuming l.t.e., 
+
+(32) 
+Jv takes  on particularly  small values  where Kv +  lv is particularly  large. It is shown by 
+Cayrel  (I966)  that  the  r.h.s.  of equation  (32) 
+
+(K+lj)  B, dv  =  f(Kp +  lv) Jv dv, 
+
+f(KvB,+l,S+  dv  = 
+
+dv 
+
+J(KP + lV) Jv dv  -KfJ 
+
+dv + 
+
+fl 
+
+B^(To)  dv 
+
+0 
+
+fKv  Bv (TO) dv +  fl  B,(T')  dv 
+
+where  To,  To are  the  values  of  the  boundary  temperature  with  and  without  line 
+blanketing  respectively  and  fKv Jv dv is altered  but  little  by  the  presence  of lines  in 
+view  of  (31). Hence  (32) becomes 
+
+(K  +  Ilv) B,(To) dv  -fKVB,(T0)  dv, 
+
+and  so  To <  To, e.g.  for  the  Sun,  To -  47500 and  To 
+assumed  (Bohm  I954). 
+
+34000  if  pure  absorption  is 
+
+If,  on the  other hand,  the lines are formed by scattering,  equation  (32) is replaced 
+
+by  the  condition 
+
+f(KV BP +  lv S)  dv  =  f (Kv Bv +  l  Jv) dli  =  f(Kv + lv) Jdv 
+
+or 
+
+FKpBvdv=  fK,J,dv 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic collisions in  stellar atmospheres 
+
+113 
+
+as  in  the  absence  of  lines.  The  distinction  between  the  effects  of the  two  kinds  of 
+re-emission  on the  boundary  temperature  was  first pointed  out  by  Chandrasekhar 
+(I935)  and it  is expressed  physically  by  saying  that  it  is only  through  the  effect  of 
+inelastic  and  superelastic  collisions  between  the  absorbing  atoms  and  the  sur- 
+rounding  electron  gas  that  the  low  radiation  intensity  in  the  lines  can  affect  the 
+electron  temperature. 
+
+Although,  as has been shown, the l.t.e.  calculation  provides  a good approximation 
+to the intensities  of solar absorption  lines, this  is certainly  not  due to the presence  of 
+a high degree of collisional  coupling between  the atoms  and the gas: the predominant 
+mechanisms  are non-coherent  scattering  (for resonance  lines)  and  fluorescence  (for 
+subordinate  lines), the latter  being for the present purpose much more like scattering 
+than  like  pure  absorption.  The  coupling  due  to  photo-ionization  from  the  upper 
+level  is  probably  insignificant  in  comparison  with  continuous  absorption.  Taking 
+into  account  only  the  scattering  and  collisional  terms  in the  expression  for the  line 
+source function  (19), the  radiative  equilibrium  condition  becomes 
+
+JK (,c+ + 
+
+Bv(To) dv  Kj (cv  +  1,, 4) 
+
+J,, dv, 
+
+(33) 
+
+and  the  lowering  of  the  boundary  temperature  is  greatly  reduced  in  comparison 
+with  the  pure  absorption  case  (Cayrel I964,  I966;  Thomas  I965 b). From  the  use of 
+van  Regemorter's  formula  for  e, it  appears  that  only  the  strong  lines  of Mg ii  and 
+Ca II  contribute  significantly  and  that  To >  44000  (Frisch  I 966).  Whether  the 
+minimum  solar temperature  actually  falls short  of 47500  by  an amount  that  can be 
+attributed  to  line blanketing  is not  clear at  the  present  time. 
+
+In very  cool stars,  where the  main  contribution  to  the  blanketing  effect  is due to 
+vibration--rotation  transitions  of  the  H20  molecule  (Auman  I967), 
+it  is  possible 
+that  e is quite  large  owing  to  the  small  spacing  between  the  relevant  energy  levels 
+and that  therefore the lowering  of the boundary  temperature  predicted  on the basis 
+of pure absorption  really  occurs.  It  would  be valuable  if estimates  of e such as have 
+been  made  for electron  collisions  by  van  Regemorter  (i962)  could  be  extended  to 
+collisions  between  molecules  and  other  molecules  or neutral  hydrogen  atoms. 
+
+4.  EMissioN  LINES 
+
+IN  THE  SPECTRA  OF  EARLY-TYPE 
+
+STARS 
+
+Following  Beals  (I 934,  I 940),  it is often  assumed that  emission lines in the spectra 
+of hot stars of the  Of, Wolf-Rayet,  nova,  P Cygni and Be types  are largely  due to the 
+Zanstra  fluorescence  mechanism  which  occurs in gaseous  nebulae:  photo-ionization 
+by ultraviolet  stellar radiation  in an extended  envelope,  followed  by recombination 
+to excited  as well as ground levels.  Further  contributions  come from scattering  when 
+the  envelope  is  moving  (Sobolev  I947;  Rottenberg  I952)  and  in  some  cases  from 
+I. S. Bowen's  selective  fluorescence  process.  These  mechanisms  are  plausible  in 
+view  of the  actual  appearance  of a nebular  shell  in the  later  stages  of novae  and  in 
+view  of the  presence in many  cases of selective  excitation  effects  consistent  with  the 
+presence  of a diluted  stellar  radiation  field  (for a review  see Underhill  I 966). On the 
+other  hand,  certain  difficulties  in the  application  of this  hypothesis  to  Wolf-Rayet 
+
+8 
+
+Vol.  306. 
+
+A. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+114 
+
+B. E. J.  Pagel 
+
+stars, where the selective effects are usually absent, have led to the suggestion that 
+collisional excitation effects may be of primary importance, as in the upper solar 
+chromosphere (Thomas I947,  I949;  Munch I950).  In either case, the conditions of 
+excitation and ionization are far removed from l.t.e. 
+
+Physical conditions in Wolf-Rayet atmospheres are rather uncertain, but several 
+estimates exist with regard to the expanding shells round P  Cygni stars and the 
+rotating  shells round Be  stars  in  which  emission lines  arise  (Wellmann I952; 
+Boyarchuk I958;  Kogure I959,  I96I;  Pagel  I960).  Typically one has an electron 
+density Ne  101l to  1012 cm-3 and stellar radiation geometrically diluted by a factor 
+W  -  0 1. If there is radiative equilibrium, then the electron temperature of a pure 
+hydrogen nebula is of the same order as or slightly less than the effective temperature 
+of the star (assumed to radiate like a black body with temperature Teff) if collisional 
+effects are ignored (Baker, Menzel & Aller I 938) and is limited to a value of the order 
+of  20000?K  or less  if  they  are included (Mestel I954;  Hummer I963),  because 
+collisional ionizations followed by emission of radiation act as a kind of thermostat. 
+It thus seems reasonable to take T =  Teff =  20 000 ?K as a representative situation 
+in what follows. 
+
+The hydrogen and helium spectra in certain emission-line stars like y  Cas and 
+P Cygni seem to be explicable to a considerable extent by the same sort of statistical 
+equilibrium theory as was developed by  Baker & Menzel (I938)  for hydrogen in 
+gaseous nebulae (Wellmann I952;  Burbidge & Burbidge '955; Pagel  I960),  since 
+their envelopes are largely transparent-even  in at least the higher Balmer lines- 
+as a result of the high velocity of expansion. In this case (assuming opacity in the 
+Lyman lines), equations (8) and (23) indicate that the statistical equilibria of the 
+sixth and higher levels are largely governed by collisional transitions to other levels 
+and to the continuum, so that  one expects b_ _  1 for n >  6. Essentially the same 
+result is obtained for these high levels if only radiative transitions are taken into 
+account (Pagel I960).  For the lower states, on the other hand, radiative transitions 
+dominate the statistical equilibrium, as in the nebular case, despite the fact that the 
+electron density is about 107 times higher in the circumstellar envelopes. The main 
+exception to this statement is that the high-rate coefficient for the 2s -*  2p transition 
+due to  proton collisions (Seaton  I955)  will ensure that  degenerate sublevels are 
+populated in accordance with their statistical weights. 
+
+For  most  Be  stars, there is  self-absorption in  the  Balmer lines  (Burbidge & 
+I96I;  Pottasch  I96I)  and so there is a  problem of 
+Burbidge I955;  Kogure I959, 
+radiative transfer coupled with the statistical-equilibrium equations, similar to that 
+posed by absorption lines (but complicated further by the motion of the envelope). 
+For large optical depth in the Balmer lines, therefore, we investigate whether the 
+source function (19) is controlled by the collisional term (e) or the photo-ionization 
+term (,).  We take the approximate form 
+
+1/ 
+
+PU  kAUL, 
+
+iustifying  the  two-level  approximation by  assuming that  all net  radiative and 
+collisional brackets are small; this is likely to be nearly enough true to give the right 
+order of magnitude  for  . Taking oa o=o(A/IA)3,  where oc, A  are the threshold  photo- 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic  collisions  in  stellar  atmospheres 
+
+115 
+
+ionization  cross-section  and  wavelength  respectively,  and  assuming  stimulated 
+emission  factors  to  have  their  l.t.e.  values,  we have 
+
+T/ 
+
+3 
+
+Aj El (xo), 
+
+0 UL 
+
+(34) 
+
+where xo  = hc/Ao kTeff and El(x)  is the first exponential  integral function.  co and AUL 
+are taken  from Allen  (I955) and e is deduced from van  Regemorter's  formula,  giving 
+the  following  results: 
+
+Ha, 
+HA# 
+
+e =  0.004(NeJ102),  y =  0 025(W/01) 
+
+=  0.001(N~/02,' 
+= 
+
+01O(Nl?2)1  7, =  0.092(W/0 1), 
+
+Paschen  ac,  e  =  0.2(NeJ1012), 
+
+el 
+
+etc.  Thus  y  >  e  for  the  Balmer  lines  if  (Nel W) <  6 x  O103 and  yB*  >  c1B(T) if,  in 
+addition,  T  <  Tff;  interlocking  effects  are  unimportant  if  (NJ W) <  5 x  1012. For 
+this reason, the treatment  of the transfer problem for Hc  and Hflby  Pottasch  (I96I), 
+in which  collisions  are taken  into  account,  yields  values  for the  Balmer  decrement 
+under typical  conditions  that  do not  differ greatly  from those  computed  by Kogure 
+(I959)  neglecting  collisions.  For  extreme  values  of  the  dilution  factor,  photo- 
+ionizations  become  negligible  and H,8 quanta  are mostly  degraded  into Hac and Poc; 
+Pottasch  shows  that  this  trend  is  limited  by  collisions  when  W <  0.01  (with 
+Ne-=  1011), but  such  an extreme  situation  does not  seem to  be reached  in the  actual 
+cases.  Hence  the  neglect  of  collisions  in  the  treatment  of the  Balmer-line  transfer 
+problem by Sobolev  and Kogure  (and in that  of the optically  thin case by Pagel  I 96O) 
+does  not  have  a  marked  effect  on  the  results;  the  presence  of  a  strong  ionizing 
+radiation  field in P Cygni and Be  envelopes  compensates  for the  increase  in density 
+as  compared  with  a gaseous  nebula  and  makes  the  situation  rather  different  from 
+those prevailing  in either the solar chromosphere or supernova remnants.  A complete 
+treatment  of radiative  transfer  in a moving  stellar  envelope  remains  an interesting 
+and difficult  problem. 
+
+This  article  has been  influenced  by  the  severe  criticisms  of an earlier version  by 
+Dr R. N. Thomas,  who  is not,  however,  to  be  held responsible  for any  of the  views 
+expressed  here.  I  am grateful  to  Dr  D. L. Lambert  for his  collaboration  on the  H- 
+problem  and to  Professor  M. J. Seaton,  F.R.S.,  for his interest  and encouragement 
+
+REFERENCES 
+
+I955  Astrophysical quantities. London:  Athlone  Press. 
+
+Allen,  C. W. 
+Aller,  L. H.,  O'Mara, B.  J.  & Little,  S. J.  I964  Proc. natn. Acad.  Sci.  U.S.A.  51,  1238. 
+Athay,  R.  G.  I964  Astrophys. J.  140,  1579. 
+Athay,  R.  G. & Skumanich,  A.  I967  Ann.  Astrophys. 30,  669. 
+Auman,  J. 
+i967  Astrophys. J.  (Suppl.  Ser.)  14,  171 (no.  127). 
+Avrett,  E. H.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  101. 
+Avrett,  E. H.  I966  Astrophys. J.  144,  59. 
+Avrett,  E.  H.  & Hummer,  D.  I965  Mon.  Not.  R.  Astron. Soc.  130,  295. 
+Bahner,  K.  I963  Astrophys. J.  138,  1314. 
+Baker,  J.  G. & Menzel,  D.  H.  I938  Astrophys. J.  88,  52. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+116 
+
+B. E. J.  Pagel 
+
+Baker,  J.  G., Menzel, D.  H.  & Aller,  L. H.  1938  Astrophys. J.  88,  422. 
+Bardsley,  J.  N.,  Herzenberg,  A.  & Mandl, F.  I966  Proc. Phys.  Soc.  89,  305,  321. 
+Bates,  D.  R.,  Fundaminsky,  A.,  Leech,  J. W.  & Massey,  H.  S. W.  1950  Phil.  Trans.  R. Soc. 
+
+A 243,  93. 
+
+Bates,  D.  R.  & Lewis,  J.  T.  I955  Proc.  R.  Soc. A 68,  173. 
+Beals,  C. S.  I934  Publ.  Dom.  Astrophys. Obs. Victoria 6,  95. 
+Beals,  C. S.  1940 
+Bhatnagar,  P.  L.,  Krook,  M., Menzel,  D.  H.  & Thomas,  R. N.  1955  Vistas  in  Astronomy I 
+
+J.  R. Astr.  Soc.  Canada 34,  169. 
+
+(ed. A. Beer),  p.  296.  London:  Pergamon  Press. 
+
+I954  Z.  Astrophys. 34,  182. 
+
+Biswas,  S.,  Fichtel,  C. E.  & Guss, D.  E.  I966  J.  Geophys. Res.  71,  4071. 
+Bloch,  M. & Tcheng  Mao-Lin  I956  Publ.  Obs. Lyon,  3,  fasc.  24. 
+Bohm,  K.  H. 
+Bohm,  D.  & Aller, L. H.  1947  Astrophys. J.  105,  131. 
+Boyarchuk,  A. A.  1958  Etoiles  a Raies  d'Emission-Mem.  Soc. R.  Liege 20,  159. 
+Burbidge,  E.  M. & Burbidge,  G. R.  1955  Astrophys. J.  122,  89. 
+Burgess,  A.,  Field,  G. B.  & Michie, R.  W.  I960  Astrophys. J.  131,  529. 
+Burgess,  A.  & Seaton,  M. J.  I960  Mon.  Not.  R.  Astr. Soc.  120,  121. 
+Cayrel, R.  I963  C. r. hebd. Seanc.  Acad.  Sci.,  Paris  257,  3309. 
+Cayrel, R.  I964  First  Harvard-Smithsonian conference on stellar atmospheres, p.  139. 
+Cayrel, R.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  453. 
+Cayrel, R.  I966  J.  Quantit. Spectrosc. Radiat.  Transfer 6,  621. 
+Cayrel,  R.  & Jugaku,  J.  I963  Ann.  Astrophys. 36,  495. 
+Chalonge, D.  & Divan,  L.  1952  Ann.  Astrophys.  15,  201. 
+Chamaraux, P.  I967  Ann.  Astrophys. 30,  67. 
+Chandrasekhar, S.  I935  Mon.  Not.  R.  Astr.  Soc.  96,  21. 
+ContLi, P.  S.,  Wallerstein,  G. & Wing,  R. F.  I965  Astrophys. J.  142,  999. 
+Corliss, C. H.  & Bozman,  W. R.  i962  Experimental transition probabilities for spectral lines of 
+
+70 elements. Washington,  D.C.:  NBS  Monograph 53. 
+
+Corliss, C. H.  & Warner, B.  I964  Astrophys. J.  (Suppl.  Ser.) 8,  395  (no.  83). 
+Dalgarno,  A.  & Browne,  J.  C.  I967  Astrophys.  J.  149,  231. 
+Dupree,  A. E.  & Goldberg, L.  I967  Solar Physics  1, 229. 
+Eddington,  A. S.  I926  The internal constitution of the stars, ch. 12. Cambridge University  Press. 
+Eddington,  A.  S.  1929  Mon.  Not.  R.  Astr.  Soc.  89,  620. 
+Feautrier,  P.  I964  C. r. hebd. Se.anc. Acad.  Sci.,  Paris  258,  3189. 
+Fite,  W. L.  & Brackmann,  R.  T.  1958  Phys.  Rev.  112,  1141,  1151. 
+Fite,  W. L.,  Stebbings,  R.  F.  & Brackmann,  R.  T.  I959  Phys.  Rev.  116,  356. 
+Fox,  L.  1957  The numerical solution of two-point boundary problems in  ordinary differential 
+
+equations. Oxford:  Clarendon Press. 
+
+J.  Chem. Phys.  35,  1765. 
+
+Frisch,  H.  I966  J.  Quantit. Spectrosc. Radiat.  Transfer 6,  629. 
+Gardiner, W. C. & Kistiakowsky,  G. B.  I96I 
+Garstang,  R.  H.  I962  Mon.  Not.  R.  Astr.  Soc.  124,  321. 
+Gasson,  R.  E. M. & Pagel,  B.  E.  J.  I966  Observatory 86,  96. 
+Geltman,  S.  I960  Proc. Phys.  Soc.  75,  67. 
+Goldberg, L.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  389. 
+Goldberg, L.  I967  A.  Rev. Astr. Astrophys. 5,  279. 
+Goldberg, L.  Muller, E.  A.  & Aller,  L. H.  I960  Astrophys. J.  (Suppl.  Ser.)  5,  1 (no.  45). 
+Goldberg, L.  & Pierce,  A. K. 
+Berlin:  Springer-Verlag. 
+
+I959  Hdbch. Phys.  (ed. S. Flugge)  52,  The  solar system,  ch.  1. 
+
+Gompertz,  G. & Hindmarsh,  W. R.  I963  Mon.  Not.  R.  Astr.  Soc.  126,  317. 
+Gould, R.  J.  & Salpeter,  E.  E.  I963  Astrophys. J.  138,  393. 
+Griem, H.  I964  Plasma  spectroscopy, ch.  6. New  York:  McGraw-Hill Co. 
+Haft,  G.  1933  Z.  Phys.  82,  73. 
+Hall,  J.  S.  & Williams,  R.  C.  I942  Astrophys. J.  95,  225. 
+Hearn,  A.  I967  Mon.  Not.  R.  Astr.  Soc.  136,  417. 
+Holstein,  T.  1947  Phys.  Rev. 72,  1212. 
+Holweger,  H.  I967  Z. Astrophys. 65,  365. 
+Hummer,  D.  G.  I963  Mon.  Not.  R.  Astr. Soc.  125,  461. 
+Hummer,  D.  G.  I964  Astrophys. J.  140,  276. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+Atomic collisions in stellar atmospheres 
+
+117 
+
+Humumer, D.  G.  I968  J.  Quant. Spectrosc. Rad.  Transfer 8,  193. 
+Hummer,  D.  G.  &  Rybicki,  G. 
+
+I967 
+
+In  Methods in  computational physics  (ed.  B.  Alder, 
+
+S. Fernbach  and M. Rotenberg).  New  York:  Academic  Press. 
+
+Hummer,  D.  G. & Stewart,  J.  C.  I966  Astrophys. J.  146,  290. 
+Jacobs,  T.  A.,  Giedt,  R.  R.  & Cohen, N. 
+Jefferies,  J.  T.  I960  Astrophys. J.  132,  775. 
+Jefferies,  J.  T.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  177. 
+Jefferies,  J.  T.  &  Curtis,  G. W. 
+
+I965  Second  Harvard-Smithsonian  conference on  stellar 
+
+I967  J.  Chem. Phys.  47,  54. 
+
+atmospheres, p.  297. 
+
+Jefferies,  J.  T.  & Thomas,  R.  N.  I960  Astrophys. J.  131,  695. 
+Johnson,  H.  R.  I963  Astrophys. J.  137,  858. 
+Johnson,  H.  R.  I964  Annales  Astrophys. 27,  695. 
+Johnson,  H.  R.  I965  Second Harvard-Smithsonian conference on stellar atmospheres, p.  333. 
+Kalkofen,  W.  I964  First  Harvard-Smithsonian  conference on stellar atmospheres, p.  175. 
+Kalkofen,  W.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  187. 
+Kalkofen,  W.  & Strom,  S. E.  I966  J.  Quantit. Spectrosc. Radiat.  Transfer 6,  653. 
+Kaufinan,  F.  & Del Greco, F.  P.  I963  Proc. IX  Symposium on Combustion, p. 659. New York: 
+
+Academic  Press. 
+
+Kogure,  T.  1959  Publ.  Astr.  Soc. Japan  11, 278. 
+Kogure,  T.  I96I  Publ.  Astr.  Soc. Japan  13,  335. 
+Lambert,  D.  L.  I965  Thesis,  Oxford University. 
+Lambert,  D.  L.  I968  Mon.  Not.  R.  Astr.  Soc.  138,  143. 
+Lambert,  D.  L.  & Pagel,  B.  E.  J. 
+Lecar,  M.  I964  Departures  from  LTE  in  an  A 0  star  atmosphere,  NASA  Tech.  Note, 
+
+I968  Mon.  Not.  R.  Astr.  Soc.  (in  the  press). 
+
+TN D-2110. 
+
+I968  Astrophys.  J.  151,  293. 
+
+Lecar,  M.  I965  Second Harvard-Smithsonian  conference on stellar atmospheres, p.  217. 
+Lotz,  W.  I967  Astrophys. J.  (Suppl.  Ser.)  14,  207  (no.  128). 
+McDowell,  M. R.  C.  I96I  Observatory 81,  240. 
+Menzel,  D.  H.  1937  Astrophys. J.  85,  330. 
+Mestel,  L.  1954  Mon.  Not.  R.  Astr.  Soc.  114,  437. 
+Mihalas,  D.  I965  Astrophys. J.  (Suppl.)  Ser. 9,  321. 
+Mihalas, D.  I966  Astrophys. J.  (Suppl.  Ser.)  13,  1 (no.  114). 
+i967 a  Astrophys. J.  149,  169. 
+Mihalas, D. 
+Mihalas, D.  I967b  Astrophys.  J.  150,  909. 
+Mihalas,  D.  & Stone,  M. E. 
+Milford,  S. N.  I960  Astrophys. J.  131,  407. 
+Milne,  E. A.  1923  Phil.  Trans.  R.  Soc. A 223,  209. 
+Milne, E.  A.  1930 
+Mugglestone,  D.  I965  Second Harvard-Smithsonian conference on stellar atmospheres, p.  347. 
+Muller, E. A.  & Mutschlecner,  P.  I964  Astrophys. J.  (Suppl.  Ser.) 9,  1. 
+Munch,  G.  1950  Astrophys. J.  112,  266. 
+Pagel,  B.  E.  J.  1959  Mon.  Not.  R.  Astr.  Soc.  119,  609. 
+Pagel,  B.  E.  J.  I960  Vistas in Astronomy, iii,  ed. A. Beer.  (London: Pergamon Press), p. 203. 
+Pagel,  B.  E.  J.  I965  Second Harvard-Smithsonian conference on stellar atmospheres, p.  425. 
+Pagel,  B.  E.  J.  I966  Int.  Astr.  Union  Symp.  no.  26, p.  272. 
+Patch,  R.  W.  I962  J.  Chem. Phys.  36,  1919. 
+Peach,  G.  I967  Mem. R.  Astr. Soc.  71,  13. 
+Pecker,  J.-C.  I959  Ann.  Astrophys. 22,  499. 
+Pecker,  J.-C.  & Roddier,  F. 
+
+In  Handb. Astrophys, Vol.  iiI/1, p.  65. Berlin:  Springer. 
+
+I965  Secon1d Harvard-Smithsonian  cowference on  stellar atmo- 
+
+spheres, p.  437. 
+
+Pecker,  J.-C.  & Vogel,  L.  I960  Ann.  Astrophys. 23,  594. 
+Pierce,  A. K.  & Waddell,  J.  W.  I96I  Ml/Iem. R.  Astr.  Soc. 68,  89. 
+Plaskett,  H.  H.  1955  Mon.  Not.  R.  Astr.  Soc.  115,  256. 
+Pottasch,  S. R.  I96I  Ann.  Astrophys. 24,  159. 
+Pottasch,  S. R.  i964a  Space Sci.  Rev. 3,  816. 
+Pottasch,  S. R. 
+Purcell,  E.  A.  & Field,  G. B.  1956  Astrophys. J.  124,  542. 
+Rink,  J.  P.  I962  J.  Chem. Phys.  36,  262. 
+
+i964b  Mon.  Not.  R.  Astr.  Soc.  128,  73. 
+
+8-2 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+118 
+
+B. E. J.  Pagel 
+
+J.  A.  I952  Mon.  Not.  R.  Astr.  Soc.  112,  12t5. 
+
+Rottenberg, 
+Saraph,  H.  E. 
+Schmeltekopf,  A.  L.,  Fehsenfeld,  F.  C.  & Ferguson,  E.  E. 
+Seaton,  M.  J.  I955  Proc.  Phys.  Soc.  A,  68,  457. 
+Seaton,  M.  J. 
+
+i962  Atomic  and  molecular  processes 
+
+i964  Proc.  Phys.  Soc.  83,  763. 
+
+Academic  Press. 
+
+I967  Astrophys.  J.  148,  155. 
+
+(ed.  D.  R.  B3ates),  ch.  11.  New  York: 
+
+(tr's.  S.  Gaposchkin).  Cambridge, 
+
+Seaton,  M.  J. 
+Sobolev,  V.  V. 
+
+i964  Planet.  Space  Sci.  12,  55. 
+I947  Moving  envelopes  of  stars.  Leningrad 
+
+i966  Astrophys.  J.  144,  76. 
+i967  Astrophys.  J.  149,  191. 
+
+Mass:  Harvard  University  Press,  1960. 
+i967  Astrophys.  J.  150,  637. 
+
+i962  J.  Chem.  Phys.  36,  2923. 
+i965  Ann.  Astrophys.  28,  703. 
+
+Strom,  S.  E. 
+Strom,  S.  E.  &  Kalkofen,  W. 
+Strom,  S.  E.  & Kalkofen,  W. 
+Str6mgren,  B.  I935  Z.  Astrophys.  10,  237. 
+Sutton,  E.  A. 
+Swings,  J.  P. 
+Teplitskaya,  R.  B. 
+Thomas,  R.  N.  1947  Astrophys.  J.  106,  482. 
+I949  Astrophys.  J.  109,  500. 
+Thomas,  R.  N. 
+I957  Astrophys.  J.  125,  260. 
+Thomas,  R.  N. 
+I960  Astrophys.  J.  131,  429. 
+Thomas,  R.  N. 
+I965  a  Some  aspects  of  non-equilibrium 
+Thomas,  R.  N. 
+
+i964  Astron.  Zh.  41,  907,  trsl.  Soviet  Astronomy  A.  J.  8,  725  (1965). 
+
+radiation  field.  Boulder:  University 
+
+of  Colorado  Press. 
+
+Thomas,  R.  N. 
+Thomas,  R.  N.  &  Athay,  R.  G. 
+
+i965  b  Astrophys. J.  141,  333. 
+
+i96i  Physics  of  the  solar  chromosphere.  New  York:  Inter- 
+
+science. 
+
+thermodynamics 
+
+in  the  presence  of  a 
+
+I966  The  early-type  stars.  Dordrecht:  Reidel  Pilbl.  Co. 
+
+i962  Astrophys.  J.  136,  906. 
+
+i967  Quart.  J.  R.  Astr.  Soc.  8,  23. 
+
+i962  Astrophys.  J.  136,  223,  231. 
+
+Thomson,  J.  J.  I 9 I 2  Phil.  Mag.  23,  419. 
+Underhill,  A.  B. 
+Unsold,  A.  i963  Z.  Phys.  171,  44. 
+Urey,  H.  C. 
+Van  Regemorter,  H. 
+Waddell,  J. 
+Waddell,  J.  I963  a  Astrophys.  J.  137,  1210. 
+i963b  Astrophys.  J.  138,  1147. 
+Waddell,  J. 
+i964  Astrophys.  J.  140,  1586. 
+Waddell,  J. 
+i964  Mon.  Not.  R.  Astr.  Soc.  128,  63. 
+Warner,  B. 
+i967  M1em. R.  Astr.  Soc.  70,  165. 
+Warner,  B. 
+i968  Mon.  Not.  R.  Astr.  Soc.  138,  229. 
+Warner,  B. 
+Warner,  B.  &  Cowley,  C.  R. 
+Wellmann,  P. 
+Wildt,  R. 
+Wilson,  A.  M. 
+Wilson,  0.  C. 
+Wilson,  0.  C. 
+Wilson,  0.  C.  & Bappu,  M.  K.  V.  I957  Astrophys.  J.  125,  661. 
+Woolley,  R.  v.  d.  R.  &  Stibbs,  D.  W.  N. 
+
+i966  Thesis,  Cambridge  University. 
+i963  Astrophys. J.  138,  832. 
+i966  Astrophys.  J.  144,  695. 
+
+I956  Astrophys. J.  123,  107. 
+
+I952  Z.  Astrophys.  30,  96. 
+
+i967  J.  Quantitit. Spectrosc. Radiat.  Transfer 7,  751. 
+
+I953  The  outer  layers  of  a  star,  ch.  6.  Oxford: 
+
+Clarendon  Press. 
+i967 
+
+Wright,  K.  0. 
+
+In  The  magnetic  and  related  stars  (ed.  R.  C. Cameron) 
+
+(Baltimore: 
+
+Mono  Book  Corp.),  p.  399. 
+
+Zare,  R.  N.  &  Bender,  P.  L. 
+Zirker,  J. 
+
+i965  Second  Harvard-Smithsonian 
+
+i965  Bull.  Am.  Phys.  Soc.  10,  1183. 
+
+conference  on  stellar  atmospheres,  p.  397. 
+
+This content downloaded from 69.163.225.153 on Mon, 6 Jan 2014 01:30:36 AM
+
+All use subject to JSTOR Terms and Conditions
+
+
