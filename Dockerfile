@@ -20,4 +20,5 @@ EXPOSE 		5000
 # Run it
 WORKDIR		/src
 
-ENTRYPOINT ["python", "server.py"]
+ENTRYPOINT ["python"]
+CMD ["server.py"]
