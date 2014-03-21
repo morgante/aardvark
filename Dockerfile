@@ -5,11 +5,14 @@ FROM		shykes/pybuilder
 RUN 		apt-get install -y libxml2-dev libxslt1-dev python-dev
 RUN 		easy_install lxml
 
+# Add requirements
+ADD 		./requirements.txt /requirements.txt
+
+# Install requirements
+RUN 		pip install -r /requirements.txt
+
 # Add source
 ADD 		. /src
-
-# Pip installer
-RUN 		cd /src; pip install -r requirements.txt
 
 # Expose port
 EXPOSE 		5000
