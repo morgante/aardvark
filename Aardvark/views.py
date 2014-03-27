@@ -2,7 +2,6 @@ from flask import render_template
 from flask import request
 
 from Aardvark import Aardvark
-import vark
 
 import json
 
