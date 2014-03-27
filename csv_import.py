@@ -14,11 +14,14 @@ for row in articles:
 	text = row[1]
 	source = row[2]
 
-	db.insert('articles', {
-		"aid": id,
-		"text": text,
-		"source": 'wikipedia'
-	})
+	try:
+		db.insert('articles', {
+			"aid": id,
+			"text": text,
+			"source": 'wikipedia'
+		})
+	except:
+		pass
 
 	n += 1
 
@@ -34,12 +37,15 @@ for row in definitions:
 	aid = row[2]
 	article = row[3]
 
-	db.insert('definitions', {
-		"acronym": acronym,
-		"definition": definition,
-		"aid": aid,
-		"article": article
-	})
+	try:
+		db.insert('definitions', {
+			"acronym": acronym,
+			"definition": definition,
+			"aid": aid,
+			"article": article
+		})
+	except:
+		pass
 
 	n += 1
 
