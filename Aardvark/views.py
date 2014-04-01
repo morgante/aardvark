@@ -45,4 +45,4 @@ def submit():
 
 	db.insert('research', data)
 
-	return 'All done, thanks!'
+	return render_template('thanks.html')
