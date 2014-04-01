@@ -1,6 +1,5 @@
 import os, sys
 import time
-import vark
 
 import urllib2
 
