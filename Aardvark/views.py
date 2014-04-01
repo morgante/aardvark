@@ -4,6 +4,7 @@ from flask import request
 from Aardvark import Aardvark
 
 import extract
+import db
 
 import json
 
@@ -26,3 +27,22 @@ def analyze():
 		list.append(acronym)
 
 	return json.dumps(list)
+
+@Aardvark.route('/submit', methods=['POST'])
+def submit():
+
+	form = request.form
+
+	data = {
+		"definitions": {}
+	}
+
+	for field in form:
+		if (field == 'pdf'):
+			data["pdf"] = form[field]
+		else:
+			data['definitions'][field] = form[field]
+
+	db.insert('research', data)
+
+	return 'All done, thanks!'

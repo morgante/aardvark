@@ -16,13 +16,12 @@
 				$progress.slideUp();
 				$results.removeClass('hide').slideDown();
 
-				_.each(results, function(defs, acronym) {
-					if (_.size(defs) < 1) {
-						return;
-					}
+				$('#pdf').val(file);
+
+				_.each(results, function(acronym) {
 					$list.append(rowTemplate({
 						acronym: acronym,
-						definition: _.keys(defs).slice(0,3).join(', ')
+						// definition: _.keys(defs).slice(0,3).join(', ')
 					}));
 				});
 		}});
@@ -43,7 +42,7 @@
 		$progress = $('.progress');
 		$results = $('.results');
 		$list = $('.list', $results);
-		rowTemplate = _.template($('#acronym_row').html());
+		rowTemplate = _.template($('#collect_row').html());
 
 		// analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
 

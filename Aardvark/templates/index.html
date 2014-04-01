@@ -21,22 +21,31 @@
 		<div class="results hide">
 			<h2>Acronyms</h3>
 
-			<table>
-				<thead>
-					<tr>
-						<th>Acronym</th>
-						<th>Definition</th>
-					</tr>
-				</thead>
-				<tbody class="list">
-				<script type="text/html" id="acronym_row">
-					<tr>
-						<td><%= acronym %></td>
-						<td><%= definition %></td>
-					</tr>
-				</script>
-				</tbody>
-			</table>
+			<form action="/submit" method="POST">
+
+				<input type='hidden' name='pdf' id='pdf' value=''>
+
+				<table>
+					<thead>
+						<tr>
+							<th>Acronym</th>
+							<th>Definition</th>
+						</tr>
+					</thead>
+					<tbody class="list">
+					<script type="text/html" id="collect_row">
+						<tr>
+							<td><%= acronym %></td>
+							<td><input type='text' name='<%= acronym %>'></td>
+						</tr>
+					</script>
+					</tbody>
+				</table>
+
+				<input type='submit' value='Submit'>
+			</form>
+
+
 		</div>
 	</div>
 
