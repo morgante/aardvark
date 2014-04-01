@@ -3,6 +3,8 @@ from flask import request
 
 from Aardvark import Aardvark
 
+import extract
+
 import json
 
 @Aardvark.route('/')
@@ -13,20 +15,14 @@ def index():
 def analyze():
 	url = request.form['file']
 
-	# # SPEED
-	# return open('Aardvark/cache/wef2.json').read()
+	html = extract.get_html(url)
+	text = extract.html_to_text(html, fontfilter=True)
 
-	# For now, we just simulate for speed purposes
-	p = 'examples/wef2'
+	acronyms = extract.get_acronyms(text)
 
-	text = vark.get_text(p)
-
-	acronyms = vark.get_acronyms(text)
-	table = {}
-
-	print acronyms
+	list = []
 
 	for acronym in acronyms:
-		table[acronym] = vark.expand(acronym, text)
+		list.append(acronym)
 
-	return json.dumps(table)
+	return json.dumps(list)
