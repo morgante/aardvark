@@ -5,6 +5,9 @@ FROM		shykes/pybuilder
 RUN 		apt-get install -y libxml2-dev libxslt1-dev python-dev
 RUN 		easy_install lxml
 
+# NumPy
+RUN 		apt-get install -y python-numpy
+
 # Add requirements
 ADD 		./requirements.txt /requirements.txt
 
