@@ -30,3 +30,19 @@ def find_one(collection, query={}, fields=None):
 
 def find(collection, query={}, fields=None):
 	return db[collection].find(query, fields=fields)
+
+def define(acronym):
+	docs = find("definitions", {"acronym": acronym})
+
+	defs = []
+
+	for doc in docs:
+		article = find_one("articles", {"aid": doc["aid"]})
+		
+		defs.append({
+			"definition": doc["definition"],
+			"article": doc["article"],
+			"text": article["text"]
+		})
+
+	return defs
