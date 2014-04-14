@@ -31,6 +31,11 @@ def find_one(collection, query={}, fields=None):
 def find(collection, query={}, fields=None):
 	return db[collection].find(query, fields=fields)
 
+# Usage:
+# 
+# define("NYU")
+# 
+# Returns a list of ex. [{definition: "New York University", "article": "American Higher Education", "text": "In America today, ..."}]
 def define(acronym):
 	docs = find("definitions", {"acronym": acronym})
 
