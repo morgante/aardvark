@@ -92,41 +92,41 @@ def expand(acronym,text):   # Top level expansion function, calls others
     else:
         return db_expand(acronym, text)+" (from database)"
 
-
-
-## Example pipeline
-import time
-t00 = time.time()
-path = '/Users/Ben/Desktop/aardvark/examples/wef2'
-print "Path:", path
-print "Extracting Text..."
-t0 = time.time()
-filtered_text = get_font_filtered_text(path)
-all_text = get_text(path)
-print "Time:", time.time() - t0
-print "Extracting Acronyms..."
-t0 = time.time()
-acronyms = list(get_acronyms(filtered_text))[:10]# Limit to 10 (for now, for time)
-print "Time:", time.time() - t0
-print "Scrubbing and Selecting Definitions..."
-#result = [(acronym, expand(acronym,text)) for acronym in acronyms]
-print "\n******    RESULTS    ******"
-#for acronym, expansion in result:
-#    print acronym+':', expansion
-result = []
-text_count = 0
-wiki_count = 0
-for acronym in acronyms:
-    definition = ' '.join(expand(acronym,all_text).split())
-    result.append([acronym, definition])
-    print acronym+':', definition
-    if definition[-5:]=="text)":
-        text_count+=1
-    else:
-        wiki_count+=1
-print "\nFrom Text:", text_count
-print "\nFrom Wiki:", wiki_count
-print "\nTotal Time:", time.time()-t00
-
+#
+#
+### Example pipeline
+#import time
+#t00 = time.time()
+#path = '/Users/Ben/Desktop/aardvark/examples/wef2'
+#print "Path:", path
+#print "Extracting Text..."
+#t0 = time.time()
+#filtered_text = get_font_filtered_text(path)
+#all_text = get_text(path)
+#print "Time:", time.time() - t0
+#print "Extracting Acronyms..."
+#t0 = time.time()
+#acronyms = list(get_acronyms(filtered_text))[:10]# Limit to 10 (for now, for time)
+#print "Time:", time.time() - t0
+#print "Scrubbing and Selecting Definitions..."
+##result = [(acronym, expand(acronym,text)) for acronym in acronyms]
+#print "\n******    RESULTS    ******"
+##for acronym, expansion in result:
+##    print acronym+':', expansion
+#result = []
+#text_count = 0
+#wiki_count = 0
+#for acronym in acronyms:
+#    definition = ' '.join(expand(acronym,all_text).split())
+#    result.append([acronym, definition])
+#    print acronym+':', definition
+#    if definition[-5:]=="text)":
+#        text_count+=1
+#    else:
+#        wiki_count+=1
+#print "\nFrom Text:", text_count
+#print "\nFrom Wiki:", wiki_count
+#print "\nTotal Time:", time.time()-t00
+#
 
 
