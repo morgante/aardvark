@@ -89,9 +89,9 @@ def expand(acronym,text):   # Top level expansion function, calls others
     patterns = definition_patterns(acronym)
     definition = text_expand(acronym, text, patterns)
     if definition:
-        return definition+" (from text)"
+        return definition
     else:
-        return db_expand(acronym, text)+" (from database)"
+        return db_expand(acronym, text)
 
 #
 #

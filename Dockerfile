@@ -15,7 +15,7 @@ RUN 		pip install -U scikit-learn
 
 # NLTK
 RUN			pip install pyyaml nltk
-RUN 		python -c "import nltk; [nltk.download(p) for p in ['maxent_ne_chunker', 'punkt', 'words', 'maxent_treebank_pos_tagger']]"
+RUN 		python -c "import nltk; [nltk.download(p) for p in ['wordnet', 'maxent_ne_chunker', 'punkt', 'words', 'maxent_treebank_pos_tagger']]"
 
 # Add requirements
 ADD 		./requirements.txt /requirements.txt
