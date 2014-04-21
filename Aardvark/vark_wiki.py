@@ -11,9 +11,10 @@ from sklearn.metrics.pairwise import pairwise_distances
 from nltk import word_tokenize, regexp_tokenize, clean_html
 from nltk.stem import WordNetLemmatizer
 
+script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
 
 def get_acronyms(text): # Find Acronyms in text
-    english_words = set(word.strip().lower() for word in open("wordsEn.txt"))
+    english_words = set(word.strip().lower() for word in open(os.path.join(script_dir, "wordsEn.txt")))
     pattern = r'\b[A-Z]{3,8}s{0,1}\b'   # Limit length 8
     acronyms = re.findall(pattern, text)
     acronyms = [acronym for acronym in acronyms if acronym.lower() not in english_words]
