@@ -3,8 +3,10 @@ import extract
 
 import vark_wiki as vark
 
-
 examples = db.find('research')
+
+total_tried = 0
+total_successful = 0
 
 for example in examples:
 
@@ -22,7 +24,25 @@ for example in examples:
 	print "... got acronysm"
 	print acronyms
 
-	for acronym in acronyms:
-		expansion = vark.expand(acronym, text)
+	tried = 0
+	successful = 0
 
-		print (acronym, expansion)
+	for acronym, expansion in example['definitions'].iteritems():
+		if len(expansion) >= 1:
+			tried += 1
+			if (acronym not in acronyms):
+				print "... Could not find %s in acronyms" % acronym
+			else:
+				computed = vark.expand(acronym, text)
+				if computed.lower() == expansion.lower():
+					'... Success for %s: %s' % (acronym, computed)
+					successful += 1
+				else:
+					print "... Incorrect expansion for %s: %s (expected %s)" % (acronym, computed, expansion)
+
+	print '. Successful matches: %d / %d' % (successful, tried)
+
+	total_tried += tried
+	total_successful += successful
+
+print 'Overall success rate: %d / %d' % (total_successful, total_tried)
