@@ -8,6 +8,15 @@ RUN 		easy_install lxml
 # NumPy
 RUN 		apt-get install -y python-numpy
 
+# Scikit-learn 
+RUN 		apt-get install -y python-setuptools python-scipy
+RUN 		apt-get install -y libatlas-dev libatlas3-base
+RUN 		pip install -U scikit-learn
+
+# NLTK
+RUN			pip install pyyaml nltk
+RUN 		python -c "import nltk; [nltk.download(p) for p in ['maxent_ne_chunker', 'punkt', 'words', 'maxent_treebank_pos_tagger']]"
+
 # Add requirements
 ADD 		./requirements.txt /requirements.txt
 
