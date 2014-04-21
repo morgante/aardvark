@@ -1,7 +1,6 @@
 
 import os, sys
 import time
-import vark
 
 from pdfminer.converter import HTMLConverter
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -44,6 +43,36 @@ def get_html(path): # Pulls html from PDF instead of plain text
     retstr.close()
     return str
 
+def get_text(path):
+    txt_path = path + '.txt'
+    
+    if (os.path.isfile(txt_path)):
+        return open(txt_path).read()
+    
+    path = path + '.pdf'
+    rsrcmgr = PDFResourceManager()
+    retstr = StringIO()
+    codec = 'utf-8'
+    laparams = LAParams()
+    device = TextConverter(rsrcmgr, retstr, codec=codec, laparams=laparams)
+    fp = file(path, 'rb')
+    interpreter = PDFPageInterpreter(rsrcmgr, device)
+    password = ""
+    maxpages = 0
+    caching = True
+    pagenos=set()
+    for page in PDFPage.get_pages(fp, pagenos, maxpages=maxpages, password=password,caching=caching, check_extractable=True):
+        interpreter.process_page(page)
+    fp.close()
+    device.close()
+    str = retstr.getvalue()
+    retstr.close()
+    
+    write_text(txt_path, str)
+    
+    return str
+
+
 def html_to_text(htmltext, fontfilter=True):
     def repl_fs(m): # Munging to create font size tags
         size = m.group(3)
@@ -68,7 +97,7 @@ def html_to_text(htmltext, fontfilter=True):
             elif np.abs(fs-main_font)<2:    # Keep 2 font sizes near main font
                 filtered_text.append(w)
         txt = ' '.join(filtered_text)
-        vark.write_text(path+".txt", txt)
+        write_text(path+".txt", txt)
     return txt
 
 def get_font_filtered_text(path):   # Takes path, returns text
@@ -77,6 +106,11 @@ def get_font_filtered_text(path):   # Takes path, returns text
         return open(txt_path).read()
     htmltext = get_html(path)   # This needs to be optimized eventually
     return html_to_text(htmltext, fontfilter=True)
+
+def write_text(path, text):
+    file = open(path, "w")
+    file.write(text)
+    file.close()
 
 #
 #path = 'examples/fwc'
@@ -87,5 +121,5 @@ def get_font_filtered_text(path):   # Takes path, returns text
 #
 ## Example without font filtering
 #t0 = time.time()
-#text = vark.get_text(path)
+#text = get_text(path)
 #print "Time:", time.time() - t0
