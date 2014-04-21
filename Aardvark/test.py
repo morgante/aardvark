@@ -1,15 +1,28 @@
-import vark
+import db
+import extract
 
-p = 'examples/wef2'
+import vark_wiki as vark
 
-text = vark.get_text(p)
 
-acronyms = vark.get_acronyms(text)
-table = {}
+examples = db.find('research')
 
-print acronyms
+for example in examples:
 
-for acronym in acronyms:
-	table[acronym] = vark.expand(acronym, text)
+	url = example['pdf']
 
-print json.dumps(table)
+	print "testing: ", url
+
+	html = extract.get_html(url)
+	text = extract.html_to_text(html, fontfilter=True)
+
+	print "... got text"
+
+	acronyms = list(vark.get_acronyms(text))[:10]
+
+	print "... got acronysm"
+	print acronyms
+
+	for acronym in acronyms:
+		expansion = vark.expand(acronym, text)
+
+		print (acronym, expansion)
