@@ -1,7 +1,8 @@
 import db
 import extract
-
 import vark_wiki as vark
+from nltk import distance
+
 
 examples = db.find('research')
 
@@ -14,14 +15,14 @@ for example in examples:
 
 	print "testing: ", url
 
-	html = extract.get_html(url)
-	text = extract.html_to_text(html, fontfilter=True)
+	all_text = extract.get_html(url)
+	filtered_text = extract.html_to_text(all_text, fontfilter=True)
 
 	print "... got text"
 
-	acronyms = list(vark.get_acronyms(text))[:10]
+	acronyms = list(vark.get_acronyms(filtered_text))
 
-	print "... got acronysm"
+	print "... got acronym"
 	print acronyms
 
 	tried = 0
@@ -29,13 +30,15 @@ for example in examples:
 
 	for acronym, expansion in example['definitions'].iteritems():
 		if len(expansion) >= 1:
-			tried += 1
 			if (acronym not in acronyms):
-				print "... Could not find %s in acronyms" % acronym
+				print "... Could not find %s (%s) in acronyms" % (acronym, expansion)
 			else:
-				computed = vark.expand(acronym, text)
-				if computed.lower() == expansion.lower():
-					'... Success for %s: %s' % (acronym, computed)
+				tried += 1
+				computed = vark.expand(acronym, all_text).strip().lower().replace('-',' ')
+				expansion = expansion.strip().lower().replace('-',' ')
+				ed = distance.edit_distance(computed, expansion)
+				if ed < 3:
+					print "... Success for %s: %s" % (acronym, computed)
 					successful += 1
 				else:
 					print "... Incorrect expansion for %s: %s (expected %s)" % (acronym, computed, expansion)

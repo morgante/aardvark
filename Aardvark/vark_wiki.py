@@ -56,7 +56,10 @@ def text_expand(acronym, text, patterns):   # Search original text for acronyms
 
 def db_lookup(acronym): # Lookup acronym in database
     definitions = []
-    for result in db.define(acronym):
+    results = list(db.define(acronym))
+    if acronym[-1]=='s':    # If acronym is plural form, search singular also
+        results += list(db.define(acronym[:-1]))
+    for result in results:
         if result['article'][-16:]=='(disambiguation)':
             pass
         text = result['text']
@@ -95,7 +98,7 @@ def expand(acronym,text):   # Top level expansion function, calls others
 
 #
 #
-### Example pipeline
+## Example pipeline
 #import time
 #t00 = time.time()
 #path = '/Users/Ben/Desktop/aardvark/examples/wef2'
