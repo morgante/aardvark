@@ -13,6 +13,9 @@ RUN 		apt-get install -y python-setuptools python-scipy
 RUN 		apt-get install -y libatlas-dev libatlas3-base
 RUN 		pip install -U scikit-learn
 
+# pdftotext
+RUN 		apt-get install -y poppler-utils
+
 # NLTK
 RUN			pip install pyyaml nltk
 RUN 		python -c "import nltk; [nltk.download(p) for p in ['wordnet', 'maxent_ne_chunker', 'punkt', 'words', 'maxent_treebank_pos_tagger']]"

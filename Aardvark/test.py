@@ -15,12 +15,11 @@ for example in examples:
 
 	print "testing: ", url
 
-	all_text = extract.get_html(url)
-	filtered_text = extract.html_to_text(all_text, fontfilter=True)
+	text = extract.get_text(url)
 
 	print "... got text"
 
-	acronyms = list(vark.get_acronyms(filtered_text))
+	acronyms = list(vark.get_acronyms(text))
 
 	print "... got acronym"
 	print acronyms
@@ -34,7 +33,7 @@ for example in examples:
 				print "... Could not find %s (%s) in acronyms" % (acronym, expansion)
 			else:
 				tried += 1
-				computed = vark.expand(acronym, all_text).strip().lower().replace('-',' ')
+				computed = vark.expand(acronym, text).strip().lower().replace('-',' ')
 				expansion = expansion.strip().lower().replace('-',' ')
 				ed = distance.edit_distance(computed, expansion)
 				if ed < 3:
