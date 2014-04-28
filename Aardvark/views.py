@@ -16,8 +16,7 @@ def index():
 def analyze():
 	url = request.form['file']
 
-	html = extract.get_html(url)
-	text = extract.html_to_text(html, fontfilter=True)
+	text = extract.get_text(url)
 
 	acronyms = extract.get_acronyms(text)
 
