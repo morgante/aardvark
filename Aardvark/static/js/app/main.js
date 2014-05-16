@@ -52,6 +52,8 @@
 		$loading = $('.loading');
 		$glossary = $('.glossary');
 
+		// analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
+
 		$('#filepicker').change(function(ev) {
 			var file = ev.originalEvent.fpfile;
 

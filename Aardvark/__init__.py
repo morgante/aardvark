@@ -1,15 +1,53 @@
-from flask import Flask, url_for
 import os
+import tornado.escape
+import tornado.ioloop
+import tornado.web
 
-Aardvark = Flask(__name__)
+import extract
+import db
+import vark_wiki as vark
 
-# Determines the destination of the build. Only usefull if you're using Frozen-Flask
-Aardvark.config['FREEZER_DESTINATION'] = os.path.dirname(os.path.abspath(__file__))+'/../build'
+class MainHandler(tornado.web.RequestHandler):
+	def get(self):
+		self.render('index.html')
 
-# Function to easily find your assets
-# In your template use <link rel=stylesheet href="{{ static('filename') }}">
-Aardvark.jinja_env.globals['static'] = (
-    lambda filename: url_for('static', filename = filename)
+class AnalyzeHandler(tornado.web.RequestHandler):
+	def post(self):
+		url = self.get_argument('file')
+
+		text = extract.get_text(url)
+
+		acronyms = vark.get_acronyms(text)
+
+		list = []
+
+		print acronyms
+
+		for acronym in acronyms:
+			expansion = vark.expand(acronym, text)
+			print expansion
+			list.append({
+				"acronym": acronym,
+				"definition": expansion
+				})
+
+		self.write(list)
+
+handlers = [
+	(r"/", MainHandler),
+	(r"/analyze", AnalyzeHandler)
+]
+
+settings = dict(
+	template_path=os.path.join(os.path.dirname(__file__), "templates"),
+	static_path=os.path.join(os.path.dirname(__file__), "static")
 )
 
-from Aardvark import views
+application = tornado.web.Application(handlers, **settings)
+
+def run():
+	application.listen(5000)
+	tornado.ioloop.IOLoop.instance().start()
+
+if __name__ == "__main__":
+	run()
