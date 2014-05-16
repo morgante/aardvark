@@ -75,22 +75,33 @@ class CleanLemmaTokenizer(object):  # HTML stripper and stemmer
         return [self.wnl.lemmatize(t) for t in regexp_tokenize(clean_html(doc), '\w\w+')]
 
 def db_expand(acronym, text):   # Chooses expansion from db
+    print 'd'
     results = db_lookup(acronym)
+    print 'e'
+    print results
     if len(results)==0:
         definition="NONE FOUND"
     else:
+        print 'f'
         definitions, articles = results[:,0], results[:,1]
         myTokenizer=CleanLemmaTokenizer()       # Optimize here - clean db, not live
+        print 'g'
         vectorizer = TfidfVectorizer(max_df=1.0, max_features=10000, tokenizer=myTokenizer,stop_words='english', use_idf=True, binary=False, decode_error='ignore')
         X = vectorizer.fit_transform(articles)
         s = vectorizer.transform([text])
         D = pairwise_distances(X, s)
         definition = definitions[np.argmin(D)]
+        print 'h'
     return definition
 
 def expand(acronym,text):   # Top level expansion function, calls others
+    print 'place a'
     patterns = definition_patterns(acronym)
+    print 'place b'
+    print patterns
     definition = text_expand(acronym, text, patterns)
+    print definition
+    print 'place c'
     if definition:
         return definition
     else:
