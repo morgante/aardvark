@@ -6,6 +6,7 @@ import tornado.web
 import extract
 import db
 import vark_wiki as vark
+import json
 
 class MainHandler(tornado.web.RequestHandler):
 	def get(self):
@@ -31,7 +32,7 @@ class AnalyzeHandler(tornado.web.RequestHandler):
 				"definition": expansion
 				})
 
-		self.write(list)
+		self.write(json.dumps(list))
 
 handlers = [
 	(r"/", MainHandler),
