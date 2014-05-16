@@ -2,9 +2,13 @@
 	filepicker.setKey('AxjOdegzSQyWi7pQqR3bnz');
 
 	var $selection;
+	var $intro;
+	var $loading;
+	var $glossary;
 	var $results;
 	var $list;
 	var $progress;
+	var $header;
 	var rowTemplate;
 
 	function info(file) {
@@ -13,23 +17,22 @@
 			type: 'POST',
 			dataType: 'json',
 			success: function(results) {
-				$progress.slideUp();
-				$results.removeClass('hide').slideDown();
+				$loading.slideUp();
+				$glossary.removeClass('hide').slideDown();
 
 				$('#pdf').val(file);
+				
+				$header.text('Acronym Glossary');
 
-				_.each(results, function(acronym) {
-					$list.append(rowTemplate({
-						acronym: acronym,
-						// definition: _.keys(defs).slice(0,3).join(', ')
-					}));
+				_.each(results, function(data) {
+					$list.append(rowTemplate(data));
 				});
 		}});
 	}
 
 	function analyze(file) {
-		$selection.slideUp();
-		$progress.removeClass('hide').slideDown();
+		$intro.slideUp();
+		$loading.removeClass('hide').slideDown();
 
 		setTimeout(function() {
 			info(file);
@@ -42,9 +45,12 @@
 		$progress = $('.progress');
 		$results = $('.results');
 		$list = $('.list', $results);
-		rowTemplate = _.template($('#collect_row').html());
+		$header = $('h1');
+		rowTemplate = _.template($('#acronym_row').html());
 
-		// analyze('https://www.filepicker.io/api/file/FWK04EbPRjuddZO2qMOM');
+		$intro = $('.intro');
+		$loading = $('.loading');
+		$glossary = $('.glossary');
 
 		$('#filepicker').change(function(ev) {
 			var file = ev.originalEvent.fpfile;

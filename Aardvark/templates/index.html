@@ -3,29 +3,32 @@
 {% block body %}
 <div class="container">
 	<div class="header">
-		<h3 class="text-muted">Aardvark</h3>
+		<h3 class="text-muted"><a href="/">Aardvark</a></h3>
 	</div>
 
 	<div class="jumbotron">
-		<h1>Aardvark Data Collection</h1>
-		<p>Please upload a paper in the area of expertise and then provide definitions for the acronyms once they are shown.</p>
-		<div class="selection">
-			<input id="filepicker" type="filepicker-dragdrop" data-fp-multiple="false" data-fp-extension=".pdf" data-fp-store-location="S3" />
-		</div>
-
-		<div class="progress hide progress-striped active">
-			<div class="progress-bar"  role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
-				<span class="sr-only">Loading...</span>
+		<div class="intro">
+			<h1>Clarify acronyms easily</h1>
+			<p>Just upload an article PDF to receive a glossary of its acronym definitions.
+			<div class="selection">
+				<input id="filepicker" type="filepicker-dragdrop" data-fp-multiple="false" data-fp-extension=".pdf" data-fp-store-location="S3" />
 			</div>
 		</div>
 
-		<div class="results hide">
-			<h2>Acronyms</h3>
+		<div class="loading hide">
+			<h1>Analyzing...</h1>
+			<p>Hang tight, this shouldn't take too long.</p>
+			<div class="progress progress-striped active">
+				<div class="progress-bar"  role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+					<span class="sr-only">Loading...</span>
+				</div>
+			</div>
+		</div>
 
-			<form action="/submit" method="POST">
-
-				<input type='hidden' name='pdf' id='pdf' value=''>
-
+		<div class="glossary hide">
+			<h1>Acronym Glossary</h1>
+			<p>Here is a glossary of the acronyms from your article.</p>
+			<div class="results">
 				<table>
 					<thead>
 						<tr>
@@ -34,20 +37,20 @@
 						</tr>
 					</thead>
 					<tbody class="list">
-					<script type="text/html" id="collect_row">
+					<script type="text/html" id="acronym_row">
 						<tr>
 							<td><%= acronym %></td>
-							<td><input type='text' name='<%= acronym %>'></td>
+							<td><%= definition %></td>
 						</tr>
 					</script>
 					</tbody>
 				</table>
-
-				<input type='submit' value='Submit'>
-			</form>
-
-
+			</div>
 		</div>
+	</div>
+
+	<div class="footer">
+		<p class="text-muted">This tool was created by Benjamin Turtel and Morgante Pell under advisement from Dennis Shasha at NYU.</p>
 	</div>
 
 </div> <!-- /container -->
