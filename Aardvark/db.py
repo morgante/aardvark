@@ -5,12 +5,12 @@ import os
 if ('DB_PORT_27017_TCP_ADDR' in os.environ):
 	host = os.environ['DB_PORT_27017_TCP_ADDR']
 else:
-	host = 'tugboat.nyuad.org'
+	host = 'voldy.hackad.nyuad.org'
 
 if ('DB_PORT_27017_TCP_PORT' in os.environ):
 	port = int(os.environ['DB_PORT_27017_TCP_PORT'])
 else:
-	port = 49220
+	port = 49153
 
 if ('ENV' in os.environ and os.environ['ENV'] == 'prod'):
 	db_name = 'production'
