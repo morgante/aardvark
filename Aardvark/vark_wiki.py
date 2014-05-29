@@ -110,6 +110,17 @@ def expand(acronym,text):   # Top level expansion function, calls others
     else:
         return db_expand(acronym, text)
 
+def same_exp(true_exp, pred_exp):
+    true_exp = true_exp.strip().lower().replace('-',' ')
+    pred_exp=' '.join([w[:4] for w in pred_exp.split()])
+    true_exp=' '.join([w[:4] for w in true_exp.split()])
+    if pred_exp == true_exp:
+        return True
+    #    ed = distance.edit_distance(pred_exp, true_exp)
+    #    if ed < 3:
+    #        return True
+    return False
+
 '''
 Preprocessing:
 
