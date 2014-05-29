@@ -6,10 +6,11 @@ from vark_extract import get_font_filtered_text, get_text
 import numpy as np
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
-
 from sklearn.metrics.pairwise import pairwise_distances
+from sklearn.svm import LinearSVC
 from nltk import word_tokenize, regexp_tokenize, clean_html
 from nltk.stem import WordNetLemmatizer
+import string
 
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
 
@@ -68,51 +69,68 @@ def db_lookup(acronym): # Lookup acronym in database
     return np.array(definitions)
 
 
-class CleanLemmaTokenizer(object):  # HTML stripper and stemmer
-    def __init__(self):
-        self.wnl = WordNetLemmatizer()
-    def __call__(self, doc):
-        return [self.wnl.lemmatize(t) for t in regexp_tokenize(clean_html(doc), '\w\w+')]
+#class CleanLemmaTokenizer(object):  # HTML stripper and stemmer
+#    def __init__(self):
+#        self.wnl = WordNetLemmatizer()
+#    def __call__(self, doc):
+#        return [self.wnl.lemmatize(t) for t in regexp_tokenize(clean_html(doc), '\w\w+')]
 
 def db_expand(acronym, text):   # Chooses expansion from db
-    print 'd'
+#    print 'd'
     results = db_lookup(acronym)
-    print 'e'
-    print results
+#    print 'e'
+#    print results
     if len(results)==0:
-        definition="NONE FOUND"
+        pred_exp="NONE FOUND"
     else:
-        print 'f'
+#        print 'f'
         definitions, articles = results[:,0], results[:,1]
-        myTokenizer=CleanLemmaTokenizer()       # Optimize here - clean db, not live
-        print 'g'
-        vectorizer = TfidfVectorizer(max_df=1.0, max_features=10000, tokenizer=myTokenizer,stop_words='english', use_idf=True, binary=False, decode_error='ignore')
+#        myTokenizer=CleanLemmaTokenizer()       # Optimize here - clean db, not live
+#        print 'g'
+        vectorizer = TfidfVectorizer(max_df=1.0, max_features=10000, stop_words='english', use_idf=True, binary=False, decode_error='ignore')
         X = vectorizer.fit_transform(articles)
-        s = vectorizer.transform([text])
-        D = pairwise_distances(X, s)
-        definition = definitions[np.argmin(D)]
-        print 'h'
-    return definition
+        clf = LinearSVC(C=1., loss='l1')
+        Y = definitions
+        clf.fit(X,Y)
+        s = vectorizer.transform([text.translate(string.maketrans("",""), string.punctuation)])
+        pred_exp = clf.predict(s)[0]
+#        print 'h'
+    return pred_exp
 
 def expand(acronym,text):   # Top level expansion function, calls others
-    print 'place a'
+#    print 'place a'
     patterns = definition_patterns(acronym)
-    print 'place b'
-    print patterns
+#    print 'place b'
+#    print patterns
     definition = text_expand(acronym, text, patterns)
-    print definition
-    print 'place c'
+#    print definition
+#    print 'place c'
     if definition:
-        return definition
+        return definition+" (from text)"
     else:
         return db_expand(acronym, text)
 
+'''
+Preprocessing:
+
+For definitions:
+expantion.strip().lower().replace('-',' ')
+
+For articles:
+Instead of live, all text should be changed to:
+text.translate(string.maketrans("",""), string.punctuation)
+
+possibly tokenized
+try a shared vectorizer
+'''
+
+
 #
-#
+##
 ## Example pipeline
 #import time
 #t00 = time.time()
-#path = '/Users/Ben/Desktop/aardvark/examples/wef2'
+#path = '/Users/Ben/Desktop/aardvark/examples/fwc'
 #print "Path:", path
 #print "Extracting Text..."
 #t0 = time.time()
@@ -142,6 +160,6 @@ def expand(acronym,text):   # Top level expansion function, calls others
 #print "\nFrom Text:", text_count
 #print "\nFrom Wiki:", wiki_count
 #print "\nTotal Time:", time.time()-t00
-#
+
 
 
