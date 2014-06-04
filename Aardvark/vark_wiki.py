@@ -11,8 +11,10 @@ from sklearn.svm import LinearSVC
 from nltk import word_tokenize, regexp_tokenize, clean_html
 from nltk.stem import WordNetLemmatizer
 import string
+import joblib
 
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
+vectorizer = joblib.load("vectorizer")
 
 def get_acronyms(text): # Find Acronyms in text
     english_words = set(word.strip().lower() for word in open(os.path.join(script_dir, "wordsEn.txt")))
@@ -69,42 +71,23 @@ def db_lookup(acronym): # Lookup acronym in database
     return np.array(definitions)
 
 
-#class CleanLemmaTokenizer(object):  # HTML stripper and stemmer
-#    def __init__(self):
-#        self.wnl = WordNetLemmatizer()
-#    def __call__(self, doc):
-#        return [self.wnl.lemmatize(t) for t in regexp_tokenize(clean_html(doc), '\w\w+')]
-
 def db_expand(acronym, text):   # Chooses expansion from db
-#    print 'd'
     results = db_lookup(acronym)
-#    print 'e'
-#    print results
     if len(results)==0:
         pred_exp="NONE FOUND"
     else:
-#        print 'f'
         definitions, articles = results[:,0], results[:,1]
-#        myTokenizer=CleanLemmaTokenizer()       # Optimize here - clean db, not live
-#        print 'g'
-        vectorizer = TfidfVectorizer(max_df=1.0, max_features=10000, stop_words='english', use_idf=True, binary=False, decode_error='ignore')
-        X = vectorizer.fit_transform(articles)
+        X = vectorizer.transform(articles)
         clf = LinearSVC(C=1., loss='l1')
         Y = definitions
         clf.fit(X,Y)
         s = vectorizer.transform([text.translate(string.maketrans("",""), string.punctuation)])
         pred_exp = clf.predict(s)[0]
-#        print 'h'
     return pred_exp
 
 def expand(acronym,text):   # Top level expansion function, calls others
-#    print 'place a'
     patterns = definition_patterns(acronym)
-#    print 'place b'
-#    print patterns
     definition = text_expand(acronym, text, patterns)
-#    print definition
-#    print 'place c'
     if definition:
         return definition+" (from text)"
     else:
@@ -135,9 +118,28 @@ possibly tokenized
 try a shared vectorizer
 '''
 
+#
+## To create shared vectorizer
+## We need to save this and make it accessible from the app
+#vect_articles = []
+#while len(vect_articles)<10000:
+#    k=random.choice(acronymdb.values())[0][1]
+#    vect_articles.append(articledb[k])
+#
+#vectorizer = TfidfVectorizer(max_df=1.0, max_features=10000, stop_words='english', use_idf=True, binary=False, decode_error='ignore')
+#vectorizer.fit(vect_articles)
+#
+## To save
+#joblib.dump(vectorizer,"vectorizer")
+#
+## To load
+#vectorizer = joblib.load("vectorizer")
+
+
 
 #
 ##
+###
 ## Example pipeline
 #import time
 #t00 = time.time()
