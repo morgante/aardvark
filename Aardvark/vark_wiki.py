@@ -14,7 +14,7 @@ import string
 import joblib
 
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
-vectorizer = joblib.load("vectorizer")
+vectorizer = joblib.load(os.path.join(script_dir, "vectorizer"))
 
 def get_acronyms(text): # Find Acronyms in text
     english_words = set(word.strip().lower() for word in open(os.path.join(script_dir, "wordsEn.txt")))
