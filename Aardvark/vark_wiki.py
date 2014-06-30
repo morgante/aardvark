@@ -11,7 +11,7 @@ from sklearn.svm import LinearSVC
 from nltk import word_tokenize, regexp_tokenize, clean_html
 from nltk.stem import WordNetLemmatizer
 import string
-import joblib
+from sklearn.externals import joblib
 
 script_dir = os.path.dirname(__file__) #<-- absolute dir the script is in
 vectorizer = joblib.load(os.path.join(script_dir, "vectorizer"))
@@ -132,14 +132,13 @@ try a shared vectorizer
 ## To save
 #joblib.dump(vectorizer,"vectorizer")
 #
+
 ## To load
 #vectorizer = joblib.load("vectorizer")
 
 
-
 #
-##
-###
+#
 ## Example pipeline
 #import time
 #t00 = time.time()
