@@ -70,11 +70,27 @@ def db_lookup(acronym): # Lookup acronym in database
         definitions.append([definition,text])
     return np.array(definitions)
 
+#def distinct_results(results):  # This relies on db returning ordered results
+#    count = len(results)
+#    if count <= 1:
+#        return False
+#    else:
+#        res1 = results[0][0].strip().lower().replace('-',' ')
+#        res1 = ' '.join([w[:4] for w in res1.split()])
+#        res2 = results[-1][0].strip().lower().replace('-',' ')
+#        res2 = ' '.join([w[:4] for w in res2.split()])
+#        if res1 != res2:
+#            return True
+#        return False
 
 def db_expand(acronym, text):   # Chooses expansion from db
     results = db_lookup(acronym)
     if len(results)==0:
-        pred_exp="NONE FOUND"
+        pred_exp ="NONE FOUND"
+#    elif not distinct_results(results):    # This WOULD be way faster if db returned ordered results
+#        pred_exp = results[0][0]
+    elif len(np.unique(results[:,0]))<2:
+        pred_exp = results[0][0]
     else:
         definitions, articles = results[:,0], results[:,1]
         X = vectorizer.transform(articles)
@@ -137,12 +153,10 @@ try a shared vectorizer
 #vectorizer = joblib.load("vectorizer")
 
 
-#
-#
 ## Example pipeline
 #import time
 #t00 = time.time()
-#path = '/Users/Ben/Desktop/aardvark/examples/fwc'
+#path = '/Users/Ben/Desktop/aardvark/examples/peerPaper'
 #print "Path:", path
 #print "Extracting Text..."
 #t0 = time.time()
@@ -162,13 +176,23 @@ try a shared vectorizer
 #text_count = 0
 #wiki_count = 0
 #for acronym in acronyms:
+#    acr_t0 = time.time()
+#    print acronym
 #    definition = ' '.join(expand(acronym,all_text).split())
 #    result.append([acronym, definition])
-#    print acronym+':', definition
+#    print acronym+':', definition, time.time() - acr_t0
+#    result1 = len(db_lookup(acronym))
+#    if result1 > 0:
+#        if acronym in acronymdb:
+#            result2 = len(acronymdb[acronym])
+#            if acronym[-1]=='s' and acronym[:-1] in acronymdb:# plural / sing forms
+#                result2 += len(acronymdb[acronym[:-1]])
+#            print result1, result2
 #    if definition[-5:]=="text)":
 #        text_count+=1
 #    else:
 #        wiki_count+=1
+#
 #print "\nFrom Text:", text_count
 #print "\nFrom Wiki:", wiki_count
 #print "\nTotal Time:", time.time()-t00
