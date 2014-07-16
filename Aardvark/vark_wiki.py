@@ -181,13 +181,15 @@ try a shared vectorizer
 #    definition = ' '.join(expand(acronym,all_text).split())
 #    result.append([acronym, definition])
 #    print acronym+':', definition, time.time() - acr_t0
-#    result1 = len(db_lookup(acronym))
-#    if result1 > 0:
-#        if acronym in acronymdb:
-#            result2 = len(acronymdb[acronym])
-#            if acronym[-1]=='s' and acronym[:-1] in acronymdb:# plural / sing forms
-#                result2 += len(acronymdb[acronym[:-1]])
-#            print result1, result2
+#    
+##    result1 = len(db_lookup(acronym))
+##    if result1 > 0:
+##        if acronym in acronymdb:
+##            result2 = len(acronymdb[acronym])
+##            if acronym[-1]=='s' and acronym[:-1] in acronymdb:# plural / sing forms
+##                result2 += len(acronymdb[acronym[:-1]])
+##            print result1, result2
+#
 #    if definition[-5:]=="text)":
 #        text_count+=1
 #    else:
